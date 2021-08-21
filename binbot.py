@@ -7,12 +7,21 @@ import time
 import datetime
 import numpy
 import requests
-
+import os
 # bollingerband using 1 minute data
 
 # Buy if the price is above the upper band
 
 # Sell if the price is below the lower band
+
+# trailing stops
+stops = 0
+
+
+def csvkan(symbo1_trade, side, lastprice):
+    P = pd.DataFrame(
+        {'Time': datetime.datetime.now(), 'symbol': symbo1_trade, 'Side': side, 'Close': lastprice}, index=[0])
+    P.to_csv('binbotorders.csv', mode='a', header=False, index=False)
 
 
 while True:
@@ -72,13 +81,13 @@ while True:
 
         return band_high, bb_center, band_low
 
+    def trailingstops(stops, lastprice):
+        if stops < lastprice:
+            stops = lastprice * 95 / 100
+
+        return stops
+
     bb_1m = bollingerband(symbo1_trade, width, '1T', length)
-
-    def csvkan(symbo1_trade, side, lastprice):
-        P = pd.DataFrame(
-            {'symbol': symbo1_trade, 'Time': datetime.datetime.now(), 'Side': side, 'Close': lastprice})
-        P.to_csv('orders.csv', index=False)
-
     # print('1 minute upper center lower: ', bb_1m)
 
     marketprice = 'https://api.binance.com/api/v1/ticker/24hr?symbol=' + symbo1_trade
@@ -86,30 +95,35 @@ while True:
     data = res.json()
     lastprice = float(data['lastPrice'])
 
+    def alltime(ath=0, atl=100000, lastprice=lastprice):
+        if lastprice > ath:
+            ath = lastprice
+            return ath
+        if lastprice < atl:
+            atl = lastprice
+            return atl
+
     print("{} is closed at {:.2f}" .format(symbo1_trade, lastprice))
 
-    try:
-        if lastprice > bb_1m[0]:
-            print('sell')
-            side = "Sell"
-            csvkan(symbo1_trade, side, lastprice)
-            # client.order_market_sell(
-            #     symbol=symbo1_trade, quantity=orderquantity)
-            break
-            # the loop stops if the order is made
-    except:
-        pass
+    if lastprice > bb_1m[0]:
+        print('sell')
+        side = "Sell"
+        print(trailingstops(stops, lastprice))
+        csvkan(symbo1_trade, side, lastprice)
 
-    try:
-        if lastprice < bb_1m[2]:
-            print('buy')
-            side = "Buy"
-            csvkan(symbo1_trade, side, lastprice)
-            # client.order_market_buy(
-            #     symbol=symbo1_trade, quantity=orderquantity)
-            break
-            # the loop stops if the order is made
-    except:
-        pass
+    if lastprice < bb_1m[2]:
+        print('buy')
+        side = "Buy"
+        print(trailingstops(stops, lastprice))
+        csvkan(symbo1_trade, side, lastprice)
 
     time.sleep(1)
+
+    # try:
+    #     if lastprice > bb_1m[0]:
+    #         # client.order_market_sell(
+    #         #     symbol=symbo1_trade, quantity=orderquantity)
+    #         break
+    #         # the loop stops if the order is made
+    # except:
+    #     pass

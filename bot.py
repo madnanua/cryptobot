@@ -1,22 +1,21 @@
 import websocket
 import json
 import pprint
-import talib
 import numpy
-import config
+# import config
 import datetime
 import pandas as pd
 
 from binance.client import Client
 from binance.enums import *
 
-SOCKET = "wss://stream.binance.com:9443/ws/ethusdt@kline_1m"
+SOCKET = "wss://stream.binance.com:9443/ws/bnbusdt@kline_1m"
 
 RSI_PERIOD = 14
 RSI_OVERBOUGHT = 70
 RSI_OVERSOLD = 30
 
-TRADE_SYMBOL = 'ETHUSD'
+TRADE_SYMBOL = 'BNBUSDT'
 TRADE_QUANTITY = 0.05
 
 closes = []
@@ -32,7 +31,7 @@ pnl = 0
 upnl = 0
 ts = 0
 
-client = Client(config.API_KEY, config.API_SECRET)
+# client = Client(config.API_KEY, config.API_SECRET)
 
 
 def order(side, quantity, symbol, order_type=ORDER_TYPE_MARKET):
@@ -46,6 +45,12 @@ def order(side, quantity, symbol, order_type=ORDER_TYPE_MARKET):
         return False
 
     return True
+
+
+def csvkan(symbo1_trade, side, lastprice):
+    P = pd.DataFrame(
+        {'Time': datetime.datetime.now(), 'symbol': symbo1_trade, 'Side': side, 'Close': lastprice}, index=[0])
+    P.to_csv('botorders.csv', mode='a', header=False, index=False)
 
 
 def on_open(ws):
@@ -81,7 +86,6 @@ def on_message(ws, message):
         # sell condition -- on reversal
         revsell = 0.05 / 100
         sellat = ath - revsell*ath
-        # print("Target Sell at : {:.2f}". format(sellat))
 
     if atl > closes[-1]:
         atl = closes[-1]
@@ -90,24 +94,16 @@ def on_message(ws, message):
         # buy condition -- on reversal
         revbuy = 0.05 / 100
         buyat = atl + revbuy*atl
-        # print("Target Buy at : {:.2f}". format(buyat))
 
     spread = ath - atl
     atr = spread/closes[-1]*100
 
-    # print("Sell  at {:.2f} ".format(sellat))
     print("Close at {:.2f} ".format(closes[-1]))
-    # print("Buy   at {:.2f} ".format(buyat))
-
-    # print("ATH : {:.2f} | Spread : {:.2f} / {:.2f}% | ATL : {:.2f}".format(
-    #     ath, spread, atr, atl))
 
     if in_position:
         upnl = (closes[-1] - position_amount) / position_amount * 100
         print("Position ; {:.2f}, floating : {:2f}".format(
             position_amount, upnl))
-        # print("already in position of {:.2f} | stop long at {:.2f}, stop short at {:.2f} | floating at {:.2f}%".format(
-        #     position_amount, ts, sl, upnl))
         if closes[-1] < ts:
             pnl = pnl + closes[-1] - position_amount
             print("selling at {:.2f} with PnL of {:.2f}".format(
@@ -115,23 +111,20 @@ def on_message(ws, message):
             position_amount = 0
             ath = 0
             atl = 100000
+            csvkan(symbol_trade=TRADE_SYMBOL,
+                   side="Sell", lastprice=closes[-1])
             in_position = False
-            
-        # if closes[-1] > sl:
-        #     pnl = pnl - closes[-1] + position_amount
-        #     print("stop shorting at {:.2f} with PnL of {:.2f}".format(
-        #         closes[-1], pnl))
-        #     position_amount = 0
-        #     ath = 0
-        #     atl = 100000
-        #     in_position = False
 
     else:
         # long condition
         if closes[-1] > buyat:
             position_amount = closes[-1]
-            ts = 99.95 / 100 * position_amount
+            ts = 99.5 / 100 * position_amount
             ath = 0
+            atl = 100000
+            csvkan(symbol_trade=TRADE_SYMBOL,
+                   side="Buy", lastprice=closes[-1])
+
             print("Bought at {:.2f}".format(closes[-1]))
             in_position = True
 

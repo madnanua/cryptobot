@@ -59,7 +59,7 @@ def main():
 
     twm.join()
 
-    print(df)
+    print(handle_socket_message)
 
 
 if __name__ == "__main__":

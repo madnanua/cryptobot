@@ -32,7 +32,7 @@ pnl = 0
 upnl = 0
 ts = 0
 
-client = Client(config.API_KEY, config.API_SECRET, tld='us')
+client = Client(config.API_KEY, config.API_SECRET)
 
 
 def order(side, quantity, symbol, order_type=ORDER_TYPE_MARKET):
@@ -54,22 +54,6 @@ def on_open(ws):
 
 def on_close(ws):
     print('closed connection')
-
-
-def buy(in_position, position_amount, sellat, buyat, balance):
-    if in_position:
-        # sell logic
-        if sellat > closes[-1]:
-            pnl = closes[-1] - position_amount
-            # balance update
-            balance = balance + position_amount + pnl
-            in_position = False
-
-    # buy logic
-    if buyat < closes[-1]:
-        position_amount = closes[-1]
-        balance = balance - position_amount
-        in_position = True
 
 
 def on_message(ws, message):
@@ -120,8 +104,10 @@ def on_message(ws, message):
 
     if in_position:
         upnl = (closes[-1] - position_amount) / position_amount * 100
-        print("already in position of {:.2f} | stop long at {:.2f}, stop short at {:.2f} | floating at {:.2f}%".format(
-            position_amount, ts, sl, upnl))
+        print("Position ; {:.2f}, floating : {:2f}".format(
+            position_amount, upnl))
+        # print("already in position of {:.2f} | stop long at {:.2f}, stop short at {:.2f} | floating at {:.2f}%".format(
+        #     position_amount, ts, sl, upnl))
         if closes[-1] < ts:
             pnl = pnl + closes[-1] - position_amount
             print("selling at {:.2f} with PnL of {:.2f}".format(
@@ -130,6 +116,7 @@ def on_message(ws, message):
             ath = 0
             atl = 100000
             in_position = False
+            
         # if closes[-1] > sl:
         #     pnl = pnl - closes[-1] + position_amount
         #     print("stop shorting at {:.2f} with PnL of {:.2f}".format(

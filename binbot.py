@@ -4,26 +4,27 @@ from binance.client import Client
 # install python-binance
 # pip install python-binance
 import time
+import datetime
 import numpy
 import requests
 
 # bollingerband using 1 minute data
 
-#Buy if the price is above the upper band
+# Buy if the price is above the upper band
 
-#Sell if the price is below the lower band
+# Sell if the price is below the lower band
 
 
 while True:
 
     # API Key (You need to get these from Binance account)
-    api_key='api_key'
-    api_secret='api_secret'
+    api_key = 'api_key'
+    api_secret = 'api_secret'
 
     client = Client(api_key=api_key, api_secret=api_secret)
 
     # ticker of product
-    symbo1_trade = 'XRPBUSD'
+    symbo1_trade = 'BNBUSDT'
 
     # order quantity (more than 10 USDT)
     orderquantity = 35
@@ -31,7 +32,6 @@ while True:
     # bollingerband length and width
     length = 20
     width = 2
-
 
     def bollingerband(symbol, width, intervalunit, length):
 
@@ -43,7 +43,8 @@ while True:
                 client.get_historical_klines(symbol=symbol, start_str=start_str, interval=interval_data))
             D.columns = ['open_time', 'open', 'high', 'low', 'close', 'volume', 'close_time', 'qav', 'num_trades',
                          'taker_base_vol', 'taker_quote_vol', 'is_best_match']
-            D['open_date_time'] = [dt.datetime.fromtimestamp(x / 1000) for x in D.open_time]
+            D['open_date_time'] = [dt.datetime.fromtimestamp(
+                x / 1000) for x in D.open_time]
             D['symbol'] = symbol
             D = D[['symbol', 'open_date_time', 'open', 'high', 'low', 'close', 'volume', 'num_trades', 'taker_base_vol',
                    'taker_quote_vol']]
@@ -69,42 +70,46 @@ while True:
 
         band_low = bb_center - band1
 
-        return band_high, bb_center, band_low,
-
+        return band_high, bb_center, band_low
 
     bb_1m = bollingerband(symbo1_trade, width, '1T', length)
 
+    def csvkan(symbo1_trade, side, lastprice):
+        P = pd.DataFrame(
+            {'symbol': symbo1_trade, 'Time': datetime.datetime.now(), 'Side': side, 'Close': lastprice})
+        P.to_csv('orders.csv', index=False)
 
-
-    print('1 minute upper center lower: ', bb_1m)
+    # print('1 minute upper center lower: ', bb_1m)
 
     marketprice = 'https://api.binance.com/api/v1/ticker/24hr?symbol=' + symbo1_trade
     res = requests.get(marketprice)
     data = res.json()
     lastprice = float(data['lastPrice'])
 
-    print(lastprice)
-
-    
+    print("{} is closed at {:.2f}" .format(symbo1_trade, lastprice))
 
     try:
         if lastprice > bb_1m[0]:
             print('sell')
-            client.order_market_sell(symbol=symbo1_trade, quantity=orderquantity)
+            side = "Sell"
+            csvkan(symbo1_trade, side, lastprice)
+            # client.order_market_sell(
+            #     symbol=symbo1_trade, quantity=orderquantity)
             break
-            #the loop stops if the order is made
+            # the loop stops if the order is made
     except:
         pass
 
     try:
         if lastprice < bb_1m[2]:
             print('buy')
-            client.order_market_buy(symbol=symbo1_trade, quantity=orderquantity)
+            side = "Buy"
+            csvkan(symbo1_trade, side, lastprice)
+            # client.order_market_buy(
+            #     symbol=symbo1_trade, quantity=orderquantity)
             break
-            #the loop stops if the order is made        
+            # the loop stops if the order is made
     except:
         pass
 
     time.sleep(1)
-
-

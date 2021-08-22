@@ -4,6 +4,7 @@ import pprint
 import numpy
 # import config
 import datetime
+import os
 import pandas as pd
 
 from binance.client import Client
@@ -32,19 +33,6 @@ upnl = 0
 ts = 0
 
 # client = Client(config.API_KEY, config.API_SECRET)
-
-
-def order(side, quantity, symbol, order_type=ORDER_TYPE_MARKET):
-    try:
-        print("sending order")
-        order = client.create_order(
-            symbol=symbol, side=side, type=order_type, quantity=quantity)
-        print(order)
-    except Exception as e:
-        print("an exception occured - {}".format(e))
-        return False
-
-    return True
 
 
 def csvkan(symbo1_trade, side, lastprice):
@@ -98,7 +86,9 @@ def on_message(ws, message):
     spread = ath - atl
     atr = spread/closes[-1]*100
 
-    print("Close at {:.2f} ".format(closes[-1]))
+    # print("Close at {:.2f} ".format(closes[-1]))
+    # print("Buy at {:.2f} Sell at {:.2f} ATH {:.2f} ATL {:.2f} ".format(
+    #     buyat, sellat, ath, atl))
 
     if in_position:
         upnl = (closes[-1] - position_amount) / position_amount * 100
@@ -111,8 +101,13 @@ def on_message(ws, message):
             position_amount = 0
             ath = 0
             atl = 100000
-            csvkan(symbol_trade=TRADE_SYMBOL,
-                   side="Sell", lastprice=closes[-1])
+
+            P = pd.DataFrame(
+                {'Time': datetime.datetime.now(), 'symbol': TRADE_SYMBOL, 'Side': "Sell", 'Close': closes[-1]}, index=[0])
+            P.to_csv('botorders.csv', mode='a', header=False, index=False)
+
+            # csvkan(symbol_trade=TRADE_SYMBOL,
+            #        side="Sell", lastprice=closes[-1])
             in_position = False
 
     else:
@@ -122,10 +117,11 @@ def on_message(ws, message):
             ts = 99.5 / 100 * position_amount
             ath = 0
             atl = 100000
-            csvkan(symbol_trade=TRADE_SYMBOL,
-                   side="Buy", lastprice=closes[-1])
-
             print("Bought at {:.2f}".format(closes[-1]))
+            P = pd.DataFrame(
+                {'Time': datetime.datetime.now(), 'symbol': TRADE_SYMBOL, 'Side': "Buy", 'Close': closes[-1]}, index=[0])
+            P.to_csv('botorders.csv', mode='a', header=False, index=False)
+            # csvkan(symbol_trade=TRADE_SYMBOL, side="Buy", lastprice=closes[-1])
             in_position = True
 
         # short condition
@@ -179,6 +175,18 @@ def on_message(ws, message):
 #     SIDE_BUY, TRADE_QUANTITY, TRADE_SYMBOL)
 # if order_succeeded:
 #     in_position = True
+
+# def order(side, quantity, symbol, order_type=ORDER_TYPE_MARKET):
+#     try:
+#         print("sending order")
+#         order = client.create_order(
+#             symbol=symbol, side=side, type=order_type, quantity=quantity)
+#         print(order)
+#     except Exception as e:
+#         print("an exception occured - {}".format(e))
+#         return False
+
+#     return True
 
 
 ws = websocket.WebSocketApp(SOCKET, on_open=on_open,

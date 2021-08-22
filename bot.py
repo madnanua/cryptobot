@@ -69,18 +69,18 @@ def on_message(ws, message):
 
     if ath < closes[-1]:
         ath = closes[-1]
-        ts = 99.95 / 100 * closes[-1]
+        ts = 99.5 / 100 * closes[-1]
 
         # sell condition -- on reversal
-        revsell = 0.05 / 100
+        revsell = 0.5 / 100
         sellat = ath - revsell*ath
 
     if atl > closes[-1]:
         atl = closes[-1]
-        sl = 100.05 / 100 * closes[-1]
+        sl = 100.5 / 100 * closes[-1]
 
         # buy condition -- on reversal
-        revbuy = 0.05 / 100
+        revbuy = 0.5 / 100
         buyat = atl + revbuy*atl
 
     spread = ath - atl

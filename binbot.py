@@ -1,35 +1,25 @@
 import pandas as pd
 import datetime as dt
 from binance.client import Client
-# install python-binance
-# pip install python-binance
 import time
 import datetime
 import numpy
 import requests
 import os
-# bollingerband using 1 minute data
 
-# Buy if the price is above the upper band
-
-# Sell if the price is below the lower band
-
-# trailing stops
-stops = 0
-
-
-def csvkan(symbo1_trade, side, lastprice):
-    P = pd.DataFrame(
-        {'Time': datetime.datetime.now(), 'symbol': symbo1_trade, 'Side': side, 'Close': lastprice}, index=[0])
-    P.to_csv('binbotorders.csv', mode='a', header=False, index=False)
-
+# variables
+ath = 0
+atl = 100000
+tsh = 0
+tsl = 0
+position = 0
+pnl = 0
 
 while True:
 
     # API Key (You need to get these from Binance account)
     api_key = 'api_key'
     api_secret = 'api_secret'
-
     client = Client(api_key=api_key, api_secret=api_secret)
 
     # ticker of product
@@ -42,6 +32,19 @@ while True:
     length = 20
     width = 2
 
+    # market stream data
+    marketprice = 'https://api.binance.com/api/v1/ticker/24hr?symbol=' + symbo1_trade
+    res = requests.get(marketprice)
+    data = res.json()
+    lastprice = float(data['lastPrice'])
+
+    # Global Strategy
+    def csvkan(symbo1_trade, side, lastprice):
+        P = pd.DataFrame(
+            {'Time': datetime.datetime.now(), 'symbol': symbo1_trade, 'Side': side, 'Close': lastprice}, index=[0])
+        P.to_csv('binbotorders.csv', mode='a', header=False, index=False)
+
+    # Strategy Objects
     def bollingerband(symbol, width, intervalunit, length):
 
         if intervalunit == '1T':
@@ -81,41 +84,51 @@ while True:
 
         return band_high, bb_center, band_low
 
-    def trailingstops(stops, lastprice):
-        if stops < lastprice:
-            stops = lastprice * 95 / 100
+    def reset():
+        global position, ath, atl
+        position = 0
+        ath = 0
+        atl = 100000
 
-        return stops
+    # percent in stake
+    percent = 0.05 / 100
 
-    bb_1m = bollingerband(symbo1_trade, width, '1T', length)
-    # print('1 minute upper center lower: ', bb_1m)
+    if ath < lastprice:
+        ath = lastprice
+        tsh = ath - ath * percent
 
-    marketprice = 'https://api.binance.com/api/v1/ticker/24hr?symbol=' + symbo1_trade
-    res = requests.get(marketprice)
-    data = res.json()
-    lastprice = float(data['lastPrice'])
+    if atl > lastprice:
+        atl = lastprice
+        tsl = atl - atl * percent
+        buycondition =
 
-    def alltime(ath=0, atl=100000, lastprice=lastprice):
-        if lastprice > ath:
-            ath = lastprice
-            return ath
-        if lastprice < atl:
-            atl = lastprice
-            return atl
+    if long:
+        if lastprice < tsh:
+            pnl = lastprice - position
+            reset()
+            csvkan(symbo1_trade, side="Sell", lastprice)
+            long = False
+    else:
+        if lastprice > buycondition:
 
     print("{} is closed at {:.2f}" .format(symbo1_trade, lastprice))
+    print("{:.2f} {:.2f} {:.2f} {:.2f}".format(ath, tsh, atl, tsl))
 
-    if lastprice > bb_1m[0]:
-        print('sell')
-        side = "Sell"
-        print(trailingstops(stops, lastprice))
-        csvkan(symbo1_trade, side, lastprice)
+    # applying boilinger band strategy
+    # bb_1m = bollingerband(symbo1_trade, width, '1T', length)
+    # print('1 minute upper center lower: ', bb_1m)
 
-    if lastprice < bb_1m[2]:
-        print('buy')
-        side = "Buy"
-        print(trailingstops(stops, lastprice))
-        csvkan(symbo1_trade, side, lastprice)
+    # if lastprice > bb_1m[0]:
+    #     print('sell')
+    #     side = "Sell"
+    #     print(trailingstops(stops, lastprice))
+    #     csvkan(symbo1_trade, side, lastprice)
+
+    # if lastprice < bb_1m[2]:
+    #     print('buy')
+    #     side = "Buy"
+    #     print(trailingstops(stops, lastprice))
+    #     csvkan(symbo1_trade, side, lastprice)
 
     time.sleep(1)
 

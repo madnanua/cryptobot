@@ -17,9 +17,9 @@ user_id = int(1398494211)
 bot = TelegramBot(key, user_id)
 
 # logger
-# logging.basicConfig(level=logging.DEBUG,
-#                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-# logging.getLogger('matplotlib.font_manager').disabled = True
+logging.basicConfig(level=logging.DEBUG,
+                    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logging.getLogger('matplotlib.font_manager').disabled = True
 
 # Telegram functions
 

@@ -25,6 +25,12 @@ df = pd.json_normalize(data['list_perkembangan'])
 df.tanggal = pd.to_datetime(df.tanggal, unit='ms')
 
 print(df)
+print(df["tanggal"].iloc[-1])
+last30days = df["KASUS"].tail(30).mean()
+print(last30days)
+last30days = df["KASUS"].tail(30)
+print(last30days)
+# print(df["KASUS"].dateoffset(30,))
 
 tracker = 'SEMBUH'
 

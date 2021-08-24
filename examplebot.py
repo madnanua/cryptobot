@@ -87,6 +87,9 @@ def respon(update, input_text):
     data = json.loads(response.text)
     df = pd.json_normalize(data['list_perkembangan'])
     df.tanggal = pd.to_datetime(df.tanggal, unit='ms')
+    lastday = int(df[tracker].tail(1))
+    last_data_date = df["tanggal"].iloc[-1]
+    last30days = df[tracker].tail(30).mean()
 
     x = df['tanggal']
     y = df[tracker]
@@ -109,8 +112,8 @@ def respon(update, input_text):
     plt.clf()
     bot.clean_tmp_dir()
 
-    done_message = 'Diatas merupakan Grafik {} positif COVID-19 di provinsi {}\n\n untuk keluar silahkan klik /cancel\n untuk memilih provinsi lagi silahkan ketik nama provinsi : '.format(
-        tracker, user_message)
+    done_message = 'Diatas merupakan Grafik {} positif COVID-19 di provinsi {} dari awal Corona hingga tanggal {}\n\nData Terakhir menunjukkan ada {} orang {}\nRata-rata dalam sebulan terakhir : {:.2f}\n\n untuk keluar silahkan klik /cancel\n untuk memilih provinsi lagi silahkan ketik nama provinsi : '.format(
+        tracker, user_message, last_data_date, lastday, tracker, last30days)
 
     return done_message
 

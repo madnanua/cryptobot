@@ -14,6 +14,7 @@ tsh = 0
 tsl = 0
 position = 0
 pnl = 0
+long = False
 
 while True:
 
@@ -39,9 +40,9 @@ while True:
     lastprice = float(data['lastPrice'])
 
     # Global Strategy
-    def csvkan(symbo1_trade, side, lastprice):
+    def csvkan(symbo1_trade, side, lastprice, pnl):
         P = pd.DataFrame(
-            {'Time': datetime.datetime.now(), 'symbol': symbo1_trade, 'Side': side, 'Close': lastprice}, index=[0])
+            {'Time': datetime.datetime.now(), 'symbol': symbo1_trade, 'Side': side, 'Close': lastprice, 'pnl': pnl}, index=[0])
         P.to_csv('binbotorders.csv', mode='a', header=False, index=False)
 
     # Strategy Objects
@@ -85,34 +86,41 @@ while True:
         return band_high, bb_center, band_low
 
     def reset():
-        global position, ath, atl
+        global position, ath, atl, pnl
         position = 0
         ath = 0
         atl = 100000
+        pnl = 0
 
     # percent in stake
     percent = 0.05 / 100
 
     if ath < lastprice:
         ath = lastprice
-        tsh = ath - ath * percent
+        ts = lastprice - lastprice * percent
 
     if atl > lastprice:
         atl = lastprice
-        tsl = atl - atl * percent
-        buycondition =
+        buycondition = atl + atl * percent
 
     if long:
-        if lastprice < tsh:
+        if lastprice < ts:
             pnl = lastprice - position
             reset()
-            csvkan(symbo1_trade, side="Sell", lastprice)
+            csvkan(symbo1_trade=symbo1_trade, side="Sell",
+                   lastprice=lastprice, pnl=pnl)
             long = False
     else:
         if lastprice > buycondition:
+            position = lastprice
+            reset()
+            csvkan(symbo1_trade=symbo1_trade, side="Buy",
+                   lastprice=lastprice, pnl=pnl)
+            long = True
+            ts = lastprice - lastprice * percent
 
-    print("{} is closed at {:.2f}" .format(symbo1_trade, lastprice))
-    print("{:.2f} {:.2f} {:.2f} {:.2f}".format(ath, tsh, atl, tsl))
+    print("{} : {:.2f}" .format(symbo1_trade, lastprice))
+    print("{:.2f} {:.2f} {:.2f} {:.2f}".format(ath, atl, position, pnl))
 
     # applying boilinger band strategy
     # bb_1m = bollingerband(symbo1_trade, width, '1T', length)

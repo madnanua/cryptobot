@@ -39,7 +39,7 @@ def help_command(update, context):
 def handle_message(update, context):
     text = str(update.message.text).lower()
     getid(update)
-    response = respon(text)
+    response = respon(update, text)
 
     update.message.reply_text(response)
 
@@ -56,7 +56,7 @@ def prov(input):
     return provinsi
 
 
-def respon(input_text):
+def respon(input_text, update):
     user_message = str(input_text).upper()
 
     # if user_message in ("CEK"):

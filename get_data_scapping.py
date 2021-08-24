@@ -4,6 +4,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from bob_telegram_tools.bot import TelegramBot
 
+key = "1966602790:AAEMyuwfYfJYUq-QrTeO4ajWTR2GlK1WTVU"
+user_id = int(1398494211)
+bot = TelegramBot(key, user_id)
+
 
 def prov(input):
     provinsi = str(input).upper()

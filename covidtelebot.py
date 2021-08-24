@@ -2,14 +2,13 @@ from telegram import *
 from telegram.ext import *
 
 import logging
+import pprint
 import requests
 import json
 from pandas.io.json import json_normalize
 import matplotlib.pyplot as plt
 import pandas as pd
 from bob_telegram_tools.bot import TelegramBot
-import matplotlib.pyplot as plt
-
 
 # insert telegram key from botfather
 key = "1966602790:AAEMyuwfYfJYUq-QrTeO4ajWTR2GlK1WTVU"
@@ -18,8 +17,9 @@ user_id = int(1398494211)
 bot = TelegramBot(key, user_id)
 
 # logger
-logging.basicConfig(level=logging.DEBUG,
-                    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+# logging.basicConfig(level=logging.DEBUG,
+#                     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+# logging.getLogger('matplotlib.font_manager').disabled = True
 
 # Telegram functions
 
@@ -28,7 +28,7 @@ def start_command(update, context):
     update.message.reply_text(
         'Selamat datang di COVIDBOT - COVID-19 Tracker oleh Rahmawati Fanansyah Putri :)')
     update.message.reply_text(
-        'Untuk memulai silahkan ketik Nama Provinsi yang ingin anda cari kak ')
+        'Untuk melihat perkembangan covid di suatu provinsi, silahkan ketik Nama Provinsi yang ingin anda cari kak ')
 
 
 def help_command(update, context):
@@ -38,9 +38,16 @@ def help_command(update, context):
 
 def handle_message(update, context):
     text = str(update.message.text).lower()
+    getid(update)
     response = respon(text)
 
     update.message.reply_text(response)
+
+
+def getid(update):
+    global bot, key
+    user_id = update.message.chat.id
+    bot = TelegramBot(key, int(user_id))
 
 
 def prov(input):
@@ -100,7 +107,7 @@ def respon(input_text):
     plt.clf()
     bot.clean_tmp_dir()
 
-    return provinsi
+    return user_message
 
 
 def error(update, context):
@@ -116,7 +123,6 @@ def main():
     dp.add_handler(CommandHandler("help", help_command))
     # dp.add_handler(MessageHandler(Filters.document.jpg, handle_pictures))
     dp.add_handler(MessageHandler(Filters.text, handle_message))
-
     dp.add_error_handler(error)
     updater.start_polling()
     updater.idle()

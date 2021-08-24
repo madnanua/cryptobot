@@ -50,5 +50,5 @@ plt.show()
 
 bot.send_plot(plt)
 
-# for i in df:
-#     print(i)
+for i in df:
+    print(i)

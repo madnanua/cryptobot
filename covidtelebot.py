@@ -68,7 +68,7 @@ def respon(input_text):
         update.message.reply_text('Pastikan nama Provinsinya benar ya kak :)')
 
         # df = pd.read_json(URL)
-    print(URL)
+    # print(URL)
 
     response = requests.get(URL)
     if response:
@@ -79,7 +79,7 @@ def respon(input_text):
     df = pd.json_normalize(data['list_perkembangan'])
     df.tanggal = pd.to_datetime(df.tanggal, unit='ms')
 
-    tracker = 'SEMBUH'
+    tracker = 'KASUS'
 
     x = df['tanggal']
     y = df[tracker]
@@ -90,15 +90,10 @@ def respon(input_text):
     plt.plot(x, y, color='black', linewidth=1,
              marker='^', markerfacecolor='red', markersize=3)
 
-    # naming the x axis
     plt.xlabel('Tanggal')
-    # naming the y axis
     plt.ylabel('Jumlah {}'.format(tracker))
+    plt.title('Grafik {} positif COVID-19"'.format(tracker))
 
-    # giving a title to my graph
-    plt.title('Grafik {}'.format(tracker))
-
-    # function to show the plot
     # plt.show()
 
     bot.send_plot(plt)

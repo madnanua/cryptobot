@@ -1,4 +1,6 @@
 import config
+from telegram import *
+from telegram.ext import *
 
 from binance.client import Client
 client = Client(config.API_KEY, config.API_SECRET)

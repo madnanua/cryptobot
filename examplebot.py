@@ -48,7 +48,7 @@ def tipe(update: Update, context: CallbackContext) -> int:
     global tracker
     user = update.message.from_user
     # to check the user log
-    logger.info("Tipe data of %s: %s", user.first_name, update.message.text)
+    logger.info("%s wants to see : %s", user.first_name, update.message.text)
     # reading the data chosen by the user
     tracker = str(update.message.text).upper()
 
@@ -71,7 +71,7 @@ def getid(update):
 
 
 def handle_message(update, context):
-    text = str(update.message.text).lower()
+    text = str(update.message.text)
     getid(update)
     response = respon(update, text)
 
@@ -98,7 +98,10 @@ def respon(update, input_text):
     # checking the JSON if available
     response = requests.get(URL)
     if response:
-        print(response)
+        # to check the user log
+        logger.info("Sending the %s in the province of %s to %s",
+                    tracker, user_message, update.message.from_user.first_name)
+        # print(response)
     else:
         # exception handling
         update.message.reply_text('Pastikan nama Provinsinya benar')
@@ -134,6 +137,10 @@ def respon(update, input_text):
     plt.clf()
     bot.clean_tmp_dir()
 
+    # to check the user log
+    logger.info("Requested data is sent to %s successfully",
+                update.message.from_user.first_name)
+
     # done message
     done_message = 'Diatas merupakan Grafik Jumlah {} COVID-19 di provinsi {} dari awal Corona hingga tanggal {}.\n\nData Terakhir menunjukkan ada {} orang {}.\nRata-rata dalam sebulan terakhir : {:.2f} orang.\n\nuntuk keluar silahkan klik /cancel\n\nuntuk memilih provinsi lagi silahkan ketik nama provinsi : '.format(
         tracker, user_message, last_data_date, lastday, tracker, last30days)
@@ -144,9 +151,8 @@ def respon(update, input_text):
 
 
 def cancel(update: Update, context: CallbackContext) -> int:
-    """Cancels and ends the conversation."""
     user = update.message.from_user
-    logger.info("User %s canceled the conversation.", user.first_name)
+    logger.info("User %s is out.", user.first_name)
     update.message.reply_text(
         'Terimakasih sudah menggunakan jasa kami \n untuk kembali ke menu awal silahkan klik /start', reply_markup=ReplyKeyboardRemove()
     )
@@ -164,10 +170,6 @@ def main() -> None:
         entry_points=[CommandHandler('start', start)],
         states={
             TIPE: [MessageHandler(Filters.regex('^(Kasus|Sembuh|Meninggal)$'), tipe)],
-            # LOCATION: [
-            #     MessageHandler(Filters.location, location),
-            #     CommandHandler('skip', skip_location),
-            # ],
             HANDLE_MESSAGE: [MessageHandler(Filters.text & ~Filters.command, handle_message)],
         },
         fallbacks=[CommandHandler('cancel', cancel)],

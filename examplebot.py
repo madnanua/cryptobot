@@ -121,6 +121,7 @@ def respon(update, input_text):
     plt.plot(x, y, color='black', linewidth=1,
              marker='^', markerfacecolor='red', markersize=3)
     plt.xlabel('Tanggal')
+    plt.xticks(rotation=90)
     plt.ylabel('Jumlah {} \n (orang)'.format(tracker))
     plt.title('Grafik {} COVID-19'.format(tracker))
 

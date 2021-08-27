@@ -28,10 +28,19 @@ def getid(update):
 
 def respon(update, input_text):
     user_message = str(input_text)
+    result = ''
+    try:
+        if user_message == "balance":
+            df = binance_acc.df
+            result = df
 
-    df = binance_acc.df
-    result = df
-    result_msg = ("Balance are : \n{}".format(result))
+        if user_message == "stream":
+            df = binance_acc.stream
+            result = df
+    except:
+        result = "yg lain"
+
+    result_msg = ("{} are : \n{}".format(user_message, result))
 
     return result_msg
 
@@ -75,7 +84,6 @@ def main() -> None:
         },
         fallbacks=[CommandHandler('cancel', cancel)],
     )
-
     dispatcher.add_handler(conv_handler)
     updater.start_polling()
 

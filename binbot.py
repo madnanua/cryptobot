@@ -1,3 +1,4 @@
+import config
 import pandas as pd
 import datetime as dt
 from binance.client import Client
@@ -5,7 +6,6 @@ import time
 import datetime
 import numpy
 import requests
-import os
 
 # variables
 ath = 0
@@ -19,8 +19,8 @@ long = False
 while True:
 
     # API Key (You need to get these from Binance account)
-    api_key = 'api_key'
-    api_secret = 'api_secret'
+    api_key = config.key_binance
+    api_secret = config.secret_binance
     client = Client(api_key=api_key, api_secret=api_secret)
 
     # ticker of product

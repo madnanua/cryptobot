@@ -1,10 +1,7 @@
 import websocket
 import json
-import pprint
-import numpy
-# import config
+import config
 import datetime
-import os
 import pandas as pd
 
 from binance.client import Client
@@ -32,7 +29,7 @@ pnl = 0
 upnl = 0
 ts = 0
 
-# client = Client(config.API_KEY, config.API_SECRET)
+client = Client(config.key_binance, config.secret_binance)
 
 
 def csvkan(symbo1_trade, side, lastprice):

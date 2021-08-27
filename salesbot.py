@@ -1,3 +1,4 @@
+import config
 import logging
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -6,8 +7,8 @@ from telegram import *
 from telegram.ext import *
 from bob_telegram_tools.bot import TelegramBot
 
-key = "1989173300:AAGYdoiTUsd7bfAPgoJV4gQi-7GX1FFOKko"
-user_id = int(1398494211)
+key = config.key_covid_bot
+user_id = config.user_id
 bot = TelegramBot(key, user_id)
 
 HANDLE_MESSAGE = range(1)

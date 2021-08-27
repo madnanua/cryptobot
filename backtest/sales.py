@@ -1,9 +1,10 @@
+import config
 import pandas as pd
 import matplotlib.pyplot as plt
 from bob_telegram_tools.bot import TelegramBot
 
-key = "1989173300:AAGYdoiTUsd7bfAPgoJV4gQi-7GX1FFOKko"
-user_id = int(1398494211)
+key = config.key_sales_bot
+user_id = config.user_id
 bot = TelegramBot(key, user_id)
 
 sheet_url = 'https://docs.google.com/spreadsheets/d/1UVjkHJAwH6S5LjOSeXSnV6amIrp4TnJL8gsRfqWeNmw/edit#gid=0'
@@ -19,4 +20,4 @@ y = df['Haryanto']
 plt.bar(x, y,
         width=0.8)
 plt.xticks(rotation=90)
-# bot.send_plot(plt)
+bot.send_plot(plt)

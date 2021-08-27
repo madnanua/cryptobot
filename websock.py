@@ -6,8 +6,8 @@ import sqlalchemy
 
 from binance import ThreadedWebsocketManager
 
-api_key = config.API_KEY
-api_secret = config.API_SECRET
+api_key = config.key_binance
+api_secret = config.secret_binance
 
 dfs = []
 

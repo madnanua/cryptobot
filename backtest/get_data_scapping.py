@@ -1,11 +1,12 @@
+import config
 import json
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 from bob_telegram_tools.bot import TelegramBot
 
-key = "1966602790:AAEMyuwfYfJYUq-QrTeO4ajWTR2GlK1WTVU"
-user_id = int(1398494211)
+key = config.key_covid_bot
+user_id = config.user_id
 bot = TelegramBot(key, user_id)
 
 

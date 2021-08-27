@@ -1,7 +1,7 @@
-
+import config
 
 from binance.client import Client
-client = Client(config.API_KEY, config.API_SECRET)
+client = Client(config.key_binance, config.secret_binance)
 
 acc_info = client.get_account()
 

@@ -1,3 +1,4 @@
+import config
 import logging
 import requests
 import json
@@ -17,8 +18,8 @@ logger = logging.getLogger(__name__)
 TIPE, HANDLE_MESSAGE = range(2)
 
 # insert telegram key from botfather
-key = "1966602790:AAEMyuwfYfJYUq-QrTeO4ajWTR2GlK1WTVU"
-user_id = int()
+key = config.key_covid_bot
+user_id = config.user_id_covid_bot
 bot = TelegramBot(key, user_id)
 tracker = ''
 

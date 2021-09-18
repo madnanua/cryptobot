@@ -14,7 +14,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# inisiation type and handling
+#handler and key
 TIPE, HANDLE_MESSAGE = range(2)
 
 # insert telegram key from botfather
@@ -34,14 +34,14 @@ def start(update: Update, context: CallbackContext) -> int:
     # welcome message
     update.message.reply_text(
         'Selamat datang di COVIDBOT - COVID-19 Tracker oleh Rahmawati Fanansyah Putri :) \n\n'
-        'Untuk melihat perkembangan kasus COVID-19 di suatu provinsi, silahkan ketik Nama Provinsi yang ingin anda cari',
+        'Untuk melihat perkembangan kasus COVID-19 di suatu provinsi, silahkan ketik Nama Provinsi yang ingin Anda cari',
         reply_markup=ReplyKeyboardMarkup(
             reply_keyboard, one_time_keyboard=True, input_field_placeholder='Silahkan Pilih :'
         ),
     )
     return TIPE
 
-# type function for detecting the data chosen
+# type function for detecting the chosen data
 
 
 def tipe(update: Update, context: CallbackContext) -> int:
@@ -50,11 +50,11 @@ def tipe(update: Update, context: CallbackContext) -> int:
     user = update.message.from_user
     # to check the user log
     logger.info("%s wants to see : %s", user.first_name, update.message.text)
-    # reading the data chosen by the user
+    # reading the chosen data by the user
     tracker = str(update.message.text).upper()
 
     update.message.reply_text(
-        'Silahkan ketik Nama Provinsi yang ingin anda cari',
+        'Silahkan ketik Nama Provinsi yang ingin Anda cari',
         reply_markup=ReplyKeyboardRemove(),
     )
 
@@ -86,7 +86,7 @@ def prov(input):
     provinsi = str(provinsi).replace(" ", "_")
     return provinsi
 
-# function to respon the user requested data
+# function to respond the user requested data
 
 
 def respon(update, input_text):
@@ -116,7 +116,7 @@ def respon(update, input_text):
     last_data_date = df["tanggal"].iloc[-1]
     last30days = df[tracker].tail(30).mean()
 
-    # matlibplot visualization
+    # matplotlib visualization
     x = df['tanggal']
     y = df[tracker]
 
@@ -142,7 +142,7 @@ def respon(update, input_text):
     logger.info("Requested data is sent to %s successfully",
                 update.message.from_user.first_name)
 
-    # done message
+    # Summary message
     done_message = 'Diatas merupakan Grafik Jumlah {} COVID-19 di provinsi {} dari awal Corona hingga tanggal {}.\n\nData Terakhir menunjukkan ada {} orang {}.\nRata-rata dalam sebulan terakhir : {:.2f} orang.\n\nuntuk keluar silahkan klik /cancel\n\nuntuk memilih provinsi lagi silahkan ketik nama provinsi : '.format(
         tracker, user_message, last_data_date, lastday, tracker, last30days)
 

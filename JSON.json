@@ -1,0 +1,289 @@
+{
+    result: {
+    id: 12722327,
+    name: "Via Kediri - Magetan - Bawen",
+    number: "LINTIM BLTR-PLB TOILET",
+    service_name: "Handoyo Sumatra",
+    origin_id: 194377,
+    destination_id: 193458,
+    op_schedule_id: 2281,
+    travel_date: "2021-09-07",
+    travel_id: 241,
+    travels_name: "Handoyo Sumatra",
+    route_id: 21,
+    route_map_id: null,
+    available_seats: 36,
+    description: "",
+    dep_time: "09:00",
+    duration: "21:01",
+    arr_time: "06:01",
+    bus_type: "2+2, Seater, AC, Non-Video",
+    cost: "SS:365000.0",
+    can_cancel: true,
+    cancellation_time: 3,
+    cabin_layout: false,
+    status: "Update",
+    is_service_tax_applicable: false,
+    helpline_number: null,
+    amenities: "",
+    via: "",
+    bus_layout: {
+    total_seats: 36,
+    coach_details: "|.GY-|.GY-|.GY-|.GY-DR_IMG|.GY,1|SS-2|SS-|.GY-3|SS-4|SS,5|SS-6|SS-|.GY-7|SS-8|SS,9|SS-10|SS-|.GY-11|SS-12|SS,13|SS-14|SS-|.GY-15|SS-16|SS,17|SS-18|SS-|.GY-19|SS-20|SS,21|SS-22|SS-|.GY-23|SS-24|SS,25|SS-26|SS-|.GY-27|SS-28|SS,29|SS-30|SS-|.GY-31|SS-32|SS,|.GY-|.GY-|.GY-33|SS-34|SS,WR_IMG|.GY-|.GY-|.GY-35|SS-36|SS",
+    available: "1|365000.0,2|365000.0,3|365000.0,4|365000.0,5|365000.0,6|365000.0,7|365000.0,8|365000.0,9|365000.0,10|365000.0,11|365000.0,12|365000.0,13|365000.0,14|365000.0,15|365000.0,16|365000.0,17|365000.0,18|365000.0,19|365000.0,20|365000.0,21|365000.0,22|365000.0,23|365000.0,24|365000.0,25|365000.0,26|365000.0,27|365000.0,28|365000.0,29|365000.0,30|365000.0,31|365000.0,32|365000.0,33|365000.0,34|365000.0,35|365000.0,36|365000.0",
+    ladies_seats: "",
+    gents_seats: "",
+    ladies_booked_seats: "",
+    gents_booked_seats: "",
+    allow_gents_next_to_ladies: true,
+    allow_ladies_next_to_gents: false,
+    boarding_stages: "197968|09:00|Jl. Kenari No.201, Plosokerep, Kec. Sananwetan, Kota Blitar, Jawa Timur 66134, Indonesia|Terminal Patria|082139202651|Agen Blitar|1|197968|109|12",
+    dropoff_stages: "197962|06:01|Bakauheni, South Lampung Regency, Lampung, Indonesia|Bakauheni|00000000|Agen Bakauheni|2|197962|272|256712~197979|07:00|South Menggala, Menggala, Tulangbawang Regency, Lampung 34612, Indonesia|Terminal Menggala|000000|Agen Menggala|2|197979|1305|254766~221583|07:30|Jl. Jenderal Sudirman No.104, Bandar Jaya Bar., Kec. Terbanggi Besar, Kabupaten Lampung Tengah, Lampung 34163, Indonesia|Jl. Jenderal Sudirman No.104|0000|Agen Gunung Sugih|2|221583|1306|254664~201366|10:00|Kalianda,Lampung selatan , Lampung 35551, Indonesia|Agen Kalianda|0000|Agen Kalianda|2|201366|273|254660~193747|13:00|Simpang Pematang, Mesuji Kab, Lampung 34698.|Simpang Pematang, Mesuji Kab|0|Agen Mesuji|2|193747|1211|254718~197932|14:01|Jl. Lintas Sumatera No.12, Bandar Jaya Bar., Kec. Terbanggi Besar, Kabupaten Lampung Tengah, Lampung 34161, Indonesia|Jl. Lintas Sumatera No.12, Bandar Jaya Bar., Kec. Terbanggi Besar, Kabupaten Lampung Tengah, Lampung 34161, Indonesia|081392807870|Agen Gadang Jaya|2|197932|554|254735~245912|17:01|Jl. P. Senopati, Jatimulyo, Kec. Jati Agung, Sumatera Utara, Lampung 35365, Indonesia|Jl. P. Senopati|000000|Agen Pagi Sore|2|245912|274|256713~257985|17:05|Kab Pringsewu , Lampung, Indonesia|Agen Pringsewu|081392807870|Agen Pringsewu|2|257985|1377|256679~197962|17:06|Talang Padang, Kab Tanggamus , Lampung, Indonesia|Agen Talang Padang|081392807870|Agen Talang Padang|2|197962|1376|256681~197962|17:08|Jl. Way Abung, Pahoman, Engal, Kota Bandar Lampung, Lampung, Indonesia|Jl. Way Abung|081392807870|Agen Way Abung|2|197962|1378|256680~197920|17:10|Bahuga,Kab. Way Kanan Lampung, Indonesia|Agen Bahuga|081392807870|Agen Bahuga|2|197920|696|256676~201366|17:11|Metro Lampung|Kota Metro|000000|Agen Metro Lampung|2|201366|1379|256698~257983|17:12|Gaya Baru Lima, Bandar Surabaya, Central Lampung Regency, Lampung, Indonesia|Gaya Baru|081392807870|Agen Gaya Baru|2|257983|697|256684~257984|17:13|Gedong Tataan, Pesawaran Regency, Lampung, Indonesia|Gedong Tataan|081392807870|Agen Gedong Tataan|2|257984|698|256685~257985|17:14|Agung City, Tanggamus Regency, Lampung, Indonesia|Kota Agung|081392807870|Agen Kota Agung|2|257985|699|256686~257986|17:15|Gajah City, Central Lampung Regency, Lampung, Indonesia|Kota Gajah|081392807870|Agen Kota Gajah|2|257986|700|256687~257987|17:16|Seputih Banyak, Central Lampung Regency, Lampung, Indonesia|Seputih Banyak|081392807870|Agen Seputih Banyak|2|257987|701|256688~257988|17:17|Seputih Raman, Central Lampung Regency, Lampung, Indonesia|Seputih Raman|081392807870|Agen Seputih Raman|2|257988|702|256689~257987|17:18|Simpang randu, Way Seputih, Kabupaten Lampung Tengah, Lampung 34511, Indonesia|Simpang Randu|081392807870|Agen Simpang Randu|2|257987|703|256690~257989|17:19|Bandar Sribawono, East Lampung Regency, Lampung, Indonesia|Sribawono|081392807870|Agen Sribawono|2|257989|704|256691~257990|17:20|Sukadana, East Lampung Regency, Lampung, Indonesia|Sukadana|081392807870|Agen Sukadana|2|257990|705|256692~257991|17:21|Way Jepara, East Lampung Regency, Lampung, Indonesia|Way Jepara|081392807870|Agen Way Jepara|2|257991|706|256694~197962|17:23|Belitang, Ogan Komering Ulu Timur , Sumatra Selatan, Indonesia|Agen Belitang Bk 0 10|081392807870|Agen Belitang Bk 0 10|2|197962|1380|256677~221527|17:24|Krui, Pesisir Bar., Lampung, Indonesia|Krui Lampung|081392807870|Agen Krui|2|221527|1381|256670~221537|17:25|Sekincau Belirang, Atar Bawang, Belalau, West Lampung Regency, Lampung, Indonesia|Sekincau|081392807870|Agen Sekincau|2|221537|1382|256669~220087|17:26|Terminal Liwa, Pasar Liwa, Balik Bukit, Kubu Perahu, Lampung, Kabupaten Lampung Barat, Lampung, Indonesia|Terminal Liwa Lampung|081392807870|Agen Liwa|2|220087|1384|254742~255617|17:27|Tugusari, Sumber Jaya, Kab. Lampung Barat , Lampung 34871, Indonesia|Terminal Sumber Jaya Lampung|081392807870|Agen Sumber Jaya|2|255617|1383|256675",
+    floor: "",
+    last_seats: "",
+    forced_seats: "",
+    fares_hash: {
+    SS: {
+    Adult: 365000
+                }
+            }
+        },
+    trip_id: "BITLA:241:21",
+    city_seq_order: [
+            "194377",
+            "194378",
+            "197531",
+            "194352",
+            "194350",
+            "194357",
+            "194348",
+            "193470",
+            "196945",
+            "198197",
+            "194354",
+            "197523",
+            "197757",
+            "194376",
+            "194408",
+            "193459",
+            "220025",
+            "193479",
+            "193456",
+            "200379",
+            "193499",
+            "194674",
+            "193458",
+            "205608",
+            "254654",
+            "196928",
+            "197842",
+            "221526",
+            "194675"
+        ],
+    cancellation_policy: "",
+    main_dep_time: "07/09/2021 09:00",
+    service_tax_percent: null,
+    convenience_charge_percent: 0,
+    is_ac_bus: true,
+    api_type: 1,
+    allow_reschedule: true,
+    route_version: "12722327-3",
+    flexi_fare: null,
+    allow_ladies_to_book_double_seats: true,
+    is_seperate_service_tax_allowed: false,
+    bp_dp_pair_fares_hash: {
+            197968-197920: {
+    SS: {
+    Adult: 470000
+                }
+            },
+            197968|109-197920|696: {
+    SS: {
+    Adult: 470000
+                }
+            },
+            197968-257983: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968|109-257983|697: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968-257984: {
+    SS: {
+    Adult: 395000
+                }
+            },
+            197968|109-257984|698: {
+    SS: {
+    Adult: 395000
+                }
+            },
+            197968-257985: {
+    SS: {
+    Adult: "395000"
+                }
+            },
+            197968|109-257985|699: {
+    SS: {
+    Adult: 395000
+                }
+            },
+            197968-257986: {
+    SS: {
+    Adult: 410000
+                }
+            },
+            197968|109-257986|700: {
+    SS: {
+    Adult: 410000
+                }
+            },
+            197968-257987: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968|109-257987|701: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968-257988: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968|109-257988|702: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968|109-257987|703: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968-257989: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968|109-257989|704: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968-257990: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968|109-257990|705: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968-257991: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968|109-257991|706: {
+    SS: {
+    Adult: 415000
+                }
+            },
+            197968-197962: {
+    SS: {
+    Adult: "415000"
+                }
+            },
+            197968|109-197962|1376: {
+    SS: {
+    Adult: "395000"
+                }
+            },
+            197968|109-257985|1377: {
+    SS: {
+    Adult: "395000"
+                }
+            },
+            197968|109-197962|1380: {
+    SS: {
+    Adult: "450000"
+                }
+            },
+            197968|109-197962|1378: {
+    SS: {
+    Adult: "415000"
+                }
+            },
+            197968-201366: {
+    SS: {
+    Adult: "385000"
+                }
+            },
+            197968|109-201366|1379: {
+    SS: {
+    Adult: "385000"
+                }
+            },
+            197968-221527: {
+    SS: {
+    Adult: "470000"
+                }
+            },
+            197968|109-221527|1381: {
+    SS: {
+    Adult: "470000"
+                }
+            },
+            197968-221537: {
+    SS: {
+    Adult: "445000"
+                }
+            },
+            197968|109-221537|1382: {
+    SS: {
+    Adult: "445000"
+                }
+            },
+            197968-255617: {
+    SS: {
+    Adult: "445000"
+                }
+            },
+            197968|109-255617|1383: {
+    SS: {
+    Adult: "445000"
+                }
+            },
+            197968-220087: {
+    SS: {
+    Adult: "445000"
+                }
+            },
+            197968|109-220087|1384: {
+    SS: {
+    Adult: "445000"
+                }
+            }
+        },
+    res_details: {},
+    transaction_charges: "",
+    no_coach_layout: false,
+    max_child_age: null,
+    min_senior_age: null,
+    passenger_category_hash: {
+    Adult: "ADULT"
+        },
+    is_meal_allowed: null,
+    meal_count: null,
+    available_meal_types: [],
+    social_distancing_guaranteed: false
+    }
+}

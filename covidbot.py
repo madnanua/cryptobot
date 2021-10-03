@@ -19,7 +19,7 @@ TIPE, HANDLE_MESSAGE = range(2)
 
 # insert telegram key from botfather
 key = config.key_covid_bot
-user_id = config.user_id_covid_bot
+user_id = config.user_id
 bot = TelegramBot(key, user_id)
 tracker = ''
 

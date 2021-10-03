@@ -14,7 +14,7 @@ df = pd.DataFrame(bl)
 df = df.replace("0.00000000", np.NaN)
 df = df[pd.notnull(df['free'])]
 
-symbo1_trade = 'BNBUSDT'
+symbo1_trade = 'ETHUSDT'
 
 
 def streams():

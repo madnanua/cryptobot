@@ -4,7 +4,7 @@ import ta
 import yfinance as yf
 
 symbol = 'ETH-USD'
-df = yf.download(symbol, start='2021-08-18', interval='30m')
+df = yf.download(symbol, start='2021-08-29', interval='30m')
 
 df['%K'] = ta.momentum.stoch(
     df.High, df.Low, df.Close, window=14, smooth_window=3)
@@ -34,6 +34,14 @@ df['Buy'] = np.where((df.Buytrigger) & (df['%K'].between(20, 80)) & (
 df['Sell'] = np.where((df.Selltrigger) & (df['%D'].between(20, 80)) & (
     df['%K'].between(20, 80)) & (df['RSI'] < 50) & (df['MACD'] < 0), 1, 0)
 
+b = [1]
+whentobuy = df[df.Buy.isin(b)]
+whentosell = df[df.Sell.isin(b)]
+buyandsell = [whentobuy, whentosell]
+result = pd.concat(buyandsell)
+result = result.sort_values(by='Datetime', ascending=True)
+print(result)
+
 Buying_dates, Selling_dates = [], []
 
 for i in range(len(df)-1):
@@ -54,7 +62,7 @@ frame = pd.DataFrame({'Buying_dates': Buying_dates,
 
 actuals = frame[frame.Buying_dates > frame.Selling_dates.shift(1)]
 
-# print(actuals)
+print(actuals)
 
 
 def profitcal():

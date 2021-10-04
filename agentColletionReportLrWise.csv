@@ -1,0 +1,4 @@
+S.No,LR Number,WayBill No. ,LR Type,Source,Destination,Transhipment Branch,Booked On,Items,No. of Articles,Consignor Name,Consignee Name,LR Status,Booking Amount,Booking Commission,Delivery Commission,Handling Charges,Net Amount
+1,Mampang/20,21-10019Mampang/temanggung,Paid,JAKARTA,Temanggung Regency,N/A,20-Mar-2021,baju,6,dayat<br/>62-08128037964<br/>,ibu daryati<br/>62-085876376931<br/>,Booked,356000,106800.0,0,0.0,249200
+2,Mampang/21,21-10020Mampang/Wonosari,Paid,JAKARTA,Wonosari,N/A,21-Mar-2021,baju,8,riyani<br/>62-087788302999<br/>,saijo<br/>62-087773104324<br/>,Booked,425000,127500.0,0,0.0,297500
+Page Total,,,,,,,,,14,,,,781000,234300.0,0,0.0,546700

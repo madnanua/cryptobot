@@ -6,15 +6,6 @@ import matplotlib.pyplot as plt
 from telegram import *
 from telegram.ext import *
 from bob_telegram_tools.bot import TelegramBot
-import csv
-
-# paketdatas = ['STSGRG/29', '21-10028STSGRG/Magelang']
-included_cols = ['LR Number', 'WayBill No. ']
-
-
-# read specific columns of csv file using Pandas
-df = pd.read_csv("stsdata.csv", usecols=['LR Number', 'WayBill No. '])
-print(df)
 
 key = config.key_santoso_bot
 user_id = config.user_id
@@ -36,16 +27,18 @@ def getid(update):
 
 def respon(update, input_text):
     user_message = str(input_text)
-    result = ''
 
-    for i in included_cols:
-        if df[i].str.contains(user_message).any():
-            result = 'Paket Anda Telah diterima oleh agen pengirim, akan kita informasikan ketika paket sudah sampai di agen tujuan'
+    df = pd.read_csv('branchwise_analysis_report.csv', skiprows=8)
+    x = df.index[df['Nomor LR '] == "Halaman Total"]
+    df.drop(df.index[[x[0]]], inplace=True)
+    df = df[df['Pajak Servis'].notna()]
+    resultdf = df[df['Nomor LR '] == user_message]
 
-    # if user_message in paketdatas:
-    #     result = 'Paket Anda Telah diterima oleh agen pengirim, akan kita informasikan ketika paket sudah sampai di agen tujuan'
-    if result == '':
-        result = 'Pastikan Nomor PNR Anda Benar, untuk membatalkan klik /cancel'
+    if not resultdf.empty:
+        result = "Paket Anda diterima pada Tanggal {} \nSilahkan Hubungi Agen Penerima di {}".format(
+            resultdf.iloc[0]['Tanggal Pemesanan'], resultdf.iloc[0]['Tujuan'])
+    else:
+        result = "Pastikan Nomor Tiket (Nomor LR) anda Benar."
 
     result_msg = ("Status Paket Anda : \n{}".format(result))
     logger.info("Requested data is sent to %s successfully",
@@ -67,7 +60,7 @@ def start(update: Update, context: CallbackContext) -> int:
     # welcome message
     update.message.reply_text(
         'Selamat datang di SANTOSO EXPRESS TRACKER \n\n'
-        'Silahkan masukkan PNR (Nomor LR atau Nomor Resi) untuk melihat status pesanana Anda'
+        'Silahkan masukkan Nomor Tiket (Nomor LR) untuk melihat status Anda'
     )
     user = update.message.from_user
     logger.info("User %s is asking something.", user.first_name)

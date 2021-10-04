@@ -1,0 +1,1150 @@
+Tipe LR, Semuanya 
+Source City, Semuanya 
+Source Branch, Semuanya 
+Kota Tujuan, Semuanya 
+Cabang Tujuan, Semuanya 
+Dari,01/09/2021
+Ke,01/10/2021
+Users, Semuanya 
+
+
+Nomor LR ,Tipe LR,Terbilang,Biaya Penanganan,Keterangan Barang,Jumlah barang,Status,Asal,Tujuan,Tanggal Pemesanan,Nama pengirim,Nama Penerima Barang,Nomor Penerima,Pajak Servis,Diskon
+temanggung/4980,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius.,Lily Napitupulu,62-0811181959,0.0,0.0
+temanggung/4981,Terbayar,40000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,KOPI TRAPIS,LINDA GUNAWANG,62-0818809070,0.0,0.0
+temanggung/4982,Terbayar,40000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,PERTAPAAN,IBU BESTY,62-08164803895,0.0,0.0
+temanggung/4983,Terbayar,40000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,KOPI TRAPIS,ASHWIN,62-081222752527,0.0,0.0
+temanggung/4984,Terbayar,40000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,PERTAPAAN,CHATERIN,62-087886867546,0.0,0.0
+temanggung/4985,Terbayar,85000.0,0.0,MAKANAN,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,FR BLASIUS,STEFANUS,62-089883948559,0.0,0.0
+temanggung/4986,Terbayar,190000.0,0.0,MAKANAN,7,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,PERTAPAAN,IBI CAECILLA,62-08161445902,0.0,0.0
+temanggung/4987,Terbayar,85000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,KOPIU TRAPIS,ROSIE DARMONO,62-08161853067,0.0,0.0
+temanggung/4988,Terbayar,70000.0,0.0,MAKANAN,5,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,PERTAPAAN,IBU ELLA,62-087785609520,0.0,0.0
+temanggung/4989,Terbayar,60000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius,Koko Bustami Burza.,62-0816899010,0.0,0.0
+temanggung/4990,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Pertapaan,Ibu Any.,62-0895333254267,0.0,0.0
+temanggung/4991,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Pertapaan,Ibu Irene.,62-0000000000000,0.0,0.0
+temanggung/4992,Terbayar,40000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius,Irene,62-0000000000000,0.0,0.0
+temanggung/4993,Terbayar,45000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius,Tjitjik Theresia Singgih,62-0217996896,0.0,0.0
+temanggung/4994,Terbayar,40000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Kopi Trappist.,Chery Hadibroto,62-081296397899,0.0,0.0
+temanggung/4995,Terbayar,60000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius,Veronica Nani Mulyati,62-08176581158,0.0,0.0
+temanggung/4996,Terbayar,40000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Pertapaan.,Yessica,62-087700800777,0.0,0.0
+temanggung/4997,Terbayar,45000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius,Mona Sukaria.,62-0000000000000,0.0,0.0
+temanggung/4998,Terbayar,45000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius,Arie Murti,62-0811808570,0.0,0.0
+temanggung/5000,Terbayar,50000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius,Kony.,62-082111934500,0.0,0.0
+temanggung/5001,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Musium,Mangayu Luhut,62-081214889716,0.0,0.0
+temanggung/5002,Terbayar,80000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius,Dina Santoso.,62-083895304405,0.0,0.0
+temanggung/5003,Terbayar,40000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius,Sulingsih,62-087877667515,0.0,0.0
+temanggung/5004,Terbayar,40000.0,0.0,Susu,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Pertapaan,Sulingsih.,62-087877667515,0.0,0.0
+temanggung/5005,Terbayar,50000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius,Veronica Nano Mulyati,62-08176581158,0.0,0.0
+temanggung/5006,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Kopi trappist,Johanna,62-08129211101,0.0,0.0
+temanggung/5007,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Kopi trappist,Ibu J0hanna,62-081510838335,0.0,0.0
+temanggung/5008,Terbayar,320000.0,0.0,Makanan dan susu,12,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius.,Desi Fandi,62-082122441126,0.0,0.0
+temanggung/5009,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Fr Blacius,Ira Halim,62-08977868001,0.0,0.0
+jakarta/4963,Terbayar,40000.0,0.0,AMPLOP COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),01-9-2021,WAGIMIN.,DENI SETYAWAN,62-82274612488,0.0,0.0
+jakarta/4964,Terbayar,110000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),01-9-2021,CV. CAHAYA ABADI.,PT. GAJAH TERBANG.,62-0361819627,0.0,0.0
+jakarta/4965,Terbayar,135000.0,0.0,KARDUS,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),01-9-2021,MAUREEN,TOMY / YAN JIANG,62-82234617170,0.0,0.0
+temanggung/4966,Gratis,0.0,0.0,Doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,OBL,Bp Reza,62-0000000000000,0.0,0.0
+temanggung/4967,Terbayar,70000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Om Miming,Ibu Sarbiyono,62-087872655256,0.0,0.0
+temanggung/4968,Terbayar,70000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),01-9-2021,Siane,Valent,62-089603244468,0.0,0.0
+temanggung/5010,Terbayar,60000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),01-9-2021,Kopi trappist,Linda octaviani,62-0000000000000,0.0,0.0
+temanggung/5012,Terbayar,60000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),01-9-2021,Kopi trappist,Ibu Niola,62-081237580924,0.0,0.0
+temanggung/5011,Terbayar,45000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),01-9-2021,Kopi trappist,Ana Wangsa,62-08123611005,0.0,0.0
+temanggung/4972,Terbayar,50000.0,0.0,Stenlys,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Renon),01-9-2021,Adam Setiawardana,Imam Setiawan,62-081337920926,0.0,0.0
+jakarta/4973,Terbayar,696000.0,0.0,KARDUS,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),01-9-2021,TRI UTAMI.,TRI UTAMI,62-918544860,0.0,0.0
+jakarta/4974,Terbayar,159000.0,0.0,KARDUS BULAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),01-9-2021,TANDIKE.,UMI KALSUM.,62-81230555570,0.0,0.0
+jakarta/4975,Terbayar,135190.0,0.0,SETEROFOM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),01-9-2021,IKE.,TJING TJONG GIONG,62-811282290,0.0,0.0
+jakarta/4976,Terbayar,162000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),01-9-2021,PT. ARTINDO.PRIMA GRHA.,BP. DONI.,62-81210892305,0.0,0.0
+jakarta/4977,Terbayar,40000.0,0.0,KOTAK KECIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),01-9-2021,KOENTJORO,SIANG/BENGKEL BABAHE,,0.0,0.0
+jakarta/4978,Terbayar,648000.0,0.0,KARUNG HIJAU,3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),01-9-2021,NIBRAS FASHION.,IBU NUR KOMALA.,62-81911700770,0.0,0.0
+temanggung/4979,Gratis,0.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Ibu Sally S,Drg Thresiani,62-0213454524,0.0,0.0
+jakarta/4999,Terbayar,108000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),01-9-2021,IBU GINA,IBU IKE SUMAWATI,62-8164235931,0.0,0.0
+jakarta/5013,Terbayar,45760.0,0.0,BUNGKUS PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),01-9-2021,BP. SUKIMAN,SYAHID SPORT.,62-818273856,0.0,0.0
+jakarta/5014,Gratis,0.0,0.0,AMPLOP PUTIH.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),01-9-2021,OBL JAKARTA.,BP. THOMAS SUHONO.,62-0361231206,0.0,0.0
+temanggung/5015,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Amalia,Chantikha Agustine,62-0817836410,0.0,0.0
+temanggung/5016,Terbayar,40000.0,0.0,Doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Ismiyati,Wahyu Irianto,62-081511208474,0.0,0.0
+jakarta/5017,Terbayar,45000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Malang(OBL MLG),01-9-2021,NURUL HAMIDA.,BP. EDY MULYONO.,62-82310173649,0.0,0.0
+jakarta/5018,Terbayar,95000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),01-9-2021,HENDRO.,BP. ABIDIN.,62-85100922873,0.0,0.0
+jakarta/5019,Terbayar,40000.0,0.0,KOTAK,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),01-9-2021,NURIE,BENGKEL BABAHE,62-82241698742,0.0,0.0
+jakarta/5020,Terbayar,977760.0,0.0,"KARDUS GUDANG GARAM,KARDUS GUDANG GARAM,KARDUS GUDANG GARAM,KARDUS SAMPOERNA MILD",4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),01-9-2021,KAK IWAN,BAIQ IKA SRIMARDANI,62-81779861085,0.0,0.0
+temanggung/5089,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Pertapaan,Sulistyowati,62-081389385727,0.0,0.0
+temanggung/5090,Terbayar,40000.0,0.0,Susu,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Pertapaan,Sulistyowati,62-081580344044,0.0,0.0
+temanggung/5094,Terbayar,90000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Fr BLacius,Sulingsih,62-087877687515,0.0,0.0
+temanggung/5095,Terbayar,40000.0,0.0,Susu,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Pertapaan,Tjong Arief Budiman,62-0215819654,0.0,0.0
+temanggung/5096,Terbayar,175000.0,0.0,Makanan,8,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Fr Blacius,Lusiana,62-081580344044,0.0,0.0
+temanggung/5097,Terbayar,65000.0,0.0,Makansn,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Pertapaan,Ibu Tina Liem,62-081213894527,0.0,0.0
+temanggung/5027,Terbayar,190000.0,0.0,Sayuran,3,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Bp Lilik,Bu cicik.,62-089625986918,0.0,0.0
+temanggung/5098,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Pertapaan,Ellen,62-089609321258,0.0,0.0
+temanggung/5099,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Pertapaan,Indraswari,62-081510401096,0.0,0.0
+temanggung/5100,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Pertapaan,Josephine Winoto,62-081311096295,0.0,0.0
+temanggung/5031,Terbayar,55000.0,0.0,Sayuran,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Lestari,Rahayu praptaningsih,62-0000000000000,0.0,0.0
+temanggung/5032,Terbayar,40000.0,0.0,hp .,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-9-2021,Yuli/Madi,Bp Purwanto Dwi.,62-08161121657,0.0,0.0
+jakarta/5033,Terbayar,317900.0,0.0,"KOPER,KOPER,KANTONG",4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),01-9-2021,IBU NIAR,SAMSU RIZAL,62-821133390005,0.0,0.0
+jakarta/5034,Terbayar,64000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),01-9-2021,ROSNA,MAMA,62-293491261,0.0,0.0
+jakarta/5035,Terbayar,175000.0,0.0,TONG KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),02-9-2021,PT.VOSENPRATITAKEMINDO.,ASTI DHAMA ADHI MUKTI. PT./IBU TITIN.,62-8179560116,0.0,0.0
+jakarta/5036,Terbayar,40000.0,0.0,AMPLOP COKLAT.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),02-9-2021,PT .Z ETA UTAMA SATYA.,PT. ZETA UTAMA SATYA./ BP. ARIFIN,62-87839143195,0.0,0.0
+jakarta/5037,Terbayar,75000.0,0.0,PLASTIK HITAM.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Singaraja(OBL Singaraja),02-9-2021,LAKSANA AGUNG.,BP. WAYAN BUDI  LASAMA.,62-8123859148,0.0,0.0
+temanggung/5038,Gratis,0.0,0.0,LAPORAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),02-9-2021,OBL TMG,BP REZA,62-0000000000000,0.0,0.0
+jakarta/5039,Terbayar,169290.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),02-9-2021,IBU SUYANTI.,BP. KADAR ARDIANSYAH.,62-8528768244,0.0,0.0
+jakarta/5040,Terbayar,234000.0,0.0,"KARDUS,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),02-9-2021,PT. PYRIDAM VETERINER,CV. WAHANA AGRO MANDIRI .,62-811380904,0.0,0.0
+jakarta/5041,Terbayar,40000.0,0.0,KOTAK KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),02-9-2021,LINDRA,MRS.YENNY.S,62-293491253,0.0,0.0
+jakarta/5042,Terbayar,864000.0,0.0,"KARDUS,KARUNG,KARUNG,KARUNG",6,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),02-9-2021,DIAH  ASDANI,NUR BADRI,62-82237717456,0.0,0.0
+jakarta/5043,Terbayar,40000.0,0.0,KARDUS KECIL PANJANG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),02-9-2021,KARUNIA JAYA,BP.ANDI ( BEWOK SPEED ),62-81310076981,0.0,0.0
+jakarta/5044,Gratis,0.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),02-9-2021,ANANDA YANI,IBU KIAT.,62-0293491195,0.0,0.0
+temanggung/5045,Terbayar,90000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),02-9-2021,BU JUBENI,IKA,62-08158753072,0.0,0.0
+jakarta/5046,Terbayar,424000.0,0.0,KARDUS,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),02-9-2021,FUAD,ANGGER,62-085743582525,0.0,0.0
+temanggung/5047,Terbayar,40000.0,0.0,Kardus Indomie,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),02-9-2021,nana ria,akmat karomat,62-0000000000000,0.0,0.0
+temanggung/5108,Terbayar,40000.0,0.0,kardus,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,FR. BLACIUS,erika,62-081326610500,0.0,0.0
+temanggung/5106,Terbayar,40000.0,0.0,kardus,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,FR. BLACIUS,ganny,62-087884298390,0.0,0.0
+temanggung/5105,Terbayar,40000.0,0.0,kerdus,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,FR. BLACIUS,rini purwandari,62-081210468668,0.0,0.0
+temanggung/5104,Terbayar,80000.0,0.0,kardus,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,FR. BLACIUS,voni,62-08161884938,0.0,0.0
+jakarta/5052,Gratis,0.0,0.0,PLAT NOMOR,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),02-9-2021,OBL.PUSAT JAKARTA,BP.HENDRO DHARMO JUWONO,62-0293491195,0.0,0.0
+temanggung/5103,Terbayar,65000.0,0.0,kardus,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,FR. BLACIUS,koro bustami,62-0816899010,0.0,0.0
+temanggung/5054,Dibayar,75000.0,0.0,kerdus,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),02-9-2021,FR. BLACIUS,poan lusia,62-085319111398,0.0,0.0
+jakarta/5055,Terbayar,153000.0,0.0,KARDUS BENTUK TABUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),02-9-2021,TANDIKE,CV.MITRA MANDIRI,62-81231152328,0.0,0.0
+temanggung/5102,Terbayar,120000.0,0.0,kardus,4,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,FR. BLACIUS,lily aslim,62-0811851658,0.0,0.0
+temanggung/5101,Terbayar,60000.0,0.0,kardus,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,FR. BLACIUS,ibu nina gedung,62-0818471547,0.0,0.0
+jakarta/5058,Terbayar,412800.0,0.0,"KARDUS DI BAGORIN PUTIH,KARDUS DI BAGORIN PUTIH",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),02-9-2021,YOO HEE,OCENG SUMBAWA,62-85239747794,0.0,0.0
+jakarta/5059,Terbayar,60000.0,0.0,KARDUS DI SOLASI COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),02-9-2021,JOHAN,ANDY,62-85931312888,0.0,0.0
+jakarta/5060,Terbayar,60000.0,0.0,KOTAK KARDUS SPRT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),02-9-2021,PRIMA SINDO,DHARMA SATYA NUSANTARA,62-2934901277,0.0,0.0
+jakarta/5061,Gratis,0.0,0.0,DOKUMEN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),02-9-2021,PT.SAFARI DHARMA SAKTI,BP.ANTOK/JONDAN,62-82233799928,0.0,0.0
+jakarta/5062,Terbayar,40000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),02-9-2021,PURNANI,BP.ROBADI/IBU.ANIS,62-85868448189,0.0,0.0
+temanggung/5063,Terbayar,115000.0,0.0,MAKANANA,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Renon),03-9-2021,AURA SAGE,IBU NIKI NUGRAH M,62-082339588898,0.0,0.0
+jakarta/5064,Terbayar,40000.0,0.0,KARDUS PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),03-9-2021,PT. GELORA CITRA KIMIA ABADI,PT. GELORA CITRA KIMIA ABADI,62-02933219966,0.0,0.0
+temanggung/5065,Terbayar,115000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Gunung Agung Denpasar),03-9-2021,JUWARI,SUDJOKO,62-081227131211,0.0,0.0
+jakarta/5066,Terbayar,40000.0,0.0,AMPLOP COKLAT.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),03-9-2021,PT. GELORA CITRA KIMIA ABADI.,PT. GELORA CITRA KIMIA ABAADI,62-02933219966,0.0,0.0
+temanggung/5067,Terbayar,40000.0,0.0,MAINAN ANAK & BAJU,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,NORMA,FARIS SANALUDDIN,62-085741880402,0.0,0.0
+temanggung/5068,Terbayar,50000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,MAMA FLAVIA,ARVIAN BIMA M,62-087782166218,0.0,0.0
+jakarta/5069,Terbayar,380000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),03-9-2021,PT. BINA SARANA JAYA BERSAMA.,BP. TAUFIKURAHMAN,62-82145205551,0.0,0.0
+jakarta/5070,Gratis,0.0,0.0,PREON.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),03-9-2021,OBL. JAKARTA.,BP. HONGKY,62-0293491195,0.0,0.0
+temanggung/5071,Terbayar,75000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Irma Lilyana S,Shinta,62-08161376154,0.0,0.0
+jakarta/5072,Terbayar,1602000.0,0.0,BESI- BESI,28,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),03-9-2021,PT. PERINTIS.PROTEKSISEJAHTERA.,PT. DOK  DAN PERKAPALAN AIR KANTUNG,62-87716695550,0.0,0.0
+jakarta/5073,Terbayar,239700.0,0.0,"KARDUS,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),03-9-2021,BP. HISBULLAH,SU MERY SURYANTI.,62-85338764097,0.0,0.0
+temanggung/5109,Terbayar,85000.0,0.0,Makanan,4,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),03-9-2021,Kopi trappist,Marina,62-08164716470,0.0,0.0
+jakarta/5075,Terbayar,162000.0,0.0,BUNGKUS KARUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),03-9-2021,DIMAS,DIMAS,62-81997693958,0.0,0.0
+temanggung/5110,Terbayar,90000.0,0.0,Makanan,3,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),03-9-2021,Kopi trappist,Astari,62-0000000000000,0.0,0.0
+jakarta/5077,Gratis,0.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),03-9-2021,ROY. P,CIK KIAT,62-0293491195,0.0,0.0
+temanggung/5111,Terbayar,45000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),03-9-2021,Pertapaan,Benedicto,62-08120156456,0.0,0.0
+temanggung/5079,Gratis,0.0,0.0,Doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,OBL.,Bp Reza,62-000000000000,0.0,0.0
+jakarta/5080,Terbayar,80640.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),03-9-2021,TANDIKE,UMI KALSUM.,62-081230555570,0.0,0.0
+jakarta/5081,Terbayar,1162840.0,0.0,"DUS PELASTIK HITAM,DUS PLASTIK HITAM,DUS  PLASTIK HITAM,DUS PLASTIK HITAM",4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),03-9-2021,PERHIMPUNAN INTI MGK KEMAYORAN,PD. PERHIMPUNAN INTI NTB,62-81339741414,0.0,0.0
+jakarta/5082,Terbayar,1551160.0,0.0,"KARDUS PLASTIK HITAM.,KARDUS PLASTIK HITAM,KARDUS PLASTIK HITAM,KARDUS PLASTIK HITAM,KARDUS PLASTIK HITAM",5,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),03-9-2021,PERHIMPUNAN INTI MGK KEMAYORAN.,PD. PERHIMPUNAN INTI BALI,62-081999543358,0.0,0.0
+jakarta/5083,Terbayar,420000.0,0.0,KARDUS,5,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),03-9-2021,TRITON.,MORO GIYANTO.,62-87777343388,0.0,0.0
+jakarta/5084,Gratis,0.0,0.0,AMPLOP COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),03-9-2021,TONO,MAS DINTA.,62-0293491195,0.0,0.0
+temanggung/5085,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Bu W Sumardi,Arief Pambudi,62-0812826944848,0.0,0.0
+temanggung/5086,Terbayar,65000.0,0.0,Lenteng,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Murni,Han kwan Ping,62-087883896278,0.0,0.0
+jakarta/5087,Terbayar,84000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),03-9-2021,BRAM,BP.WAYAN ( LANCAR MOTOR ),62-89605351818,0.0,0.0
+temanggung/5184,Terbayar,165000.0,0.0,Makanan dan susu,6,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),06-9-2021,Fr Blacius,Desi /Fandi,62-082122441126,0.0,0.0
+temanggung/5185,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),06-9-2021,Kopi trappist.,Marina.,62-0818910089,0.0,0.0
+jakarta/5092,Terbayar,162140.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),03-9-2021,FINARNI,FINARTI,62-8818809769,0.0,0.0
+temanggung/5093,Terbayar,60000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Mam,Rosna.,62-0000000000000,0.0,0.0
+temanggung/5107,Terbayar,50000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Victor Indra.,Ci louise,62-08151821018,0.0,0.0
+temanggung/5112,Terbayar,50000.0,0.0,Tas,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),03-9-2021,Laqolla,Ibu Sasha,62-0000000000000,0.0,0.0
+jakarta/5113,Terbayar,52000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),03-9-2021,KURNIA JAYA,BENGKEL BEWOK SPEED,62-81310076981,0.0,0.0
+jakarta/5114,Terbayar,138000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),03-9-2021,MUNAWAR HAKIM,DZULHAMDI,62-81909071994,0.0,0.0
+jakarta/5115,Terbayar,99000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),04-9-2021,AKBAR.,SRI  WAHYUNINGSIH.,62-85333084687,0.0,0.0
+jakarta/5116,Terbayar,127820.0,0.0,DUS BUNGKUS KARUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),04-9-2021,BP. UMAR.,NUR HIDAYATI.,62-81995895108,0.0,0.0
+jakarta/5117,Terbayar,79000.0,0.0,BUNGKUS PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),04-9-2021,BP. RIFAI.,WIRDIANSYAH.,62-85238253209,0.0,0.0
+jakarta/5118,Terbayar,120000.0,0.0,KARDUS,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),04-9-2021,PT. BITAL INDO.,BP. ABDUL MUTHOLIB.,62-811269087,0.0,0.0
+jakarta/5119,Terbayar,45000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),04-9-2021,UDIN.,ARI.,62-82139470358,0.0,0.0
+jakarta/5120,Terbayar,300000.0,0.0,KARDUS,3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),04-9-2021,ANTON.,BP. I. KOMANG ARDANA.,62-87861988458,0.0,0.0
+jakarta/5121,Gratis,0.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),04-9-2021,ANANDA YANI.,IBU KIAT,62-0293491195,0.0,0.0
+jakarta/5122,Gratis,0.0,0.0,DOKUMEN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),04-9-2021,IBU.YATI,BP.ADINTA,62-0293491195,0.0,0.0
+jakarta/5123,Terbayar,120000.0,0.0,KADUS,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),04-9-2021,WARTONO.,BP. SUGIYONO. / NATASYA.,62-81513780569,0.0,0.0
+temanggung/5124,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),04-9-2021,Cik Kiat.,Roy Purnama,62-0000000000000,0.0,0.0
+temanggung/5125,Gratis,0.0,0.0,Doc.,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),04-9-2021,OBL,Bp Reza,62-0000000000000,0.0,0.0
+jakarta/5126,Gratis,0.0,0.0,DOC { AMPLOP COKLAT },1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),04-9-2021,OBL. JAKARTA.,BP. SARFAN,62-0370673888,0.0,0.0
+jakarta/5127,Terbayar,142350.0,0.0,KARUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),04-9-2021,JUPRI,LUKMANUDDIN / IKMAH,62-85333560050,0.0,0.0
+jakarta/5128,Terbayar,212660.0,0.0,KARDUS.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),04-9-2021,RASNI.,IBU BAIQROKHILNI.,62-87865244446,0.0,0.0
+temanggung/5129,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),04-9-2021,Mami,Kristian,62-08129334889,0.0,0.0
+temanggung/5130,Dibayar,65000.0,0.0,Makanan,4,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),04-9-2021,Pertapaan,Betty.,62-081319949307,0.0,0.0
+temanggung/5131,Terbayar,40000.0,0.0,Conto mbako,1,Dipesan,Temanggung Regency(OBL Diponegoro),Malang(OBL MLG),04-9-2021,Robert,Stephanus Roy.,62-081333226979,0.0,0.0
+jakarta/5132,Terbayar,269100.0,0.0,KARDUS MESIN AIR,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),04-9-2021,BP. AGUNG NGURAH MULYA DHARMA,BP. PUTU WIDI,62-81266296170,0.0,0.0
+temanggung/5133,Dibayar,340000.0,0.0,Makanan,12,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),04-9-2021,Pertapaan,Antonius Budi Riyanto,62-085880234015,0.0,0.0
+temanggung/5134,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),04-9-2021,Toko Daniel.,Daniel  A Wibowo,62-08122756412,0.0,0.0
+temanggung/5135,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),04-9-2021,Bp Oentoyo,Emmanuel.,62-0000000000000,0.0,0.0
+jakarta/5136,Terbayar,320000.0,0.0,"TAS TERPAL BIRU OREN,TAS TERPAL BIRU OREN",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Singaraja(OBL Singaraja),04-9-2021,KETUT,I WAYAN SARA/PT.SUKARDI,62-81939486611,0.0,0.0
+temanggung/5137,Terbayar,75000.0,0.0,Sayuran,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),04-9-2021,Sinar W,O Rene Setiawan,62-0215481985,0.0,0.0
+jakarta/5138,Terbayar,468000.0,0.0,KARUNG ISI BUMBU,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),04-9-2021,TASMAN,TASLINDO,62-81336196863,0.0,0.0
+jakarta/5139,Terbayar,351150.0,0.0,"KARDUS COKLAT,KARDUS HITAM,KARDUS HITAM",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),04-9-2021,TARA SHOP,IBU NURHASANAH,62-81803719799,0.0,0.0
+temanggung/5140,Terbayar,60000.0,0.0,BUAH TOMAT,1,Dipesan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),05-9-2021,MADINA FARM,BP ERWIN,62-082191779678,0.0,0.0
+temanggung/5141,Terbayar,70000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Malang(OBL MLG),05-9-2021,The Ping Hok,Cindy.,62-03415076786,0.0,0.0
+temanggung/5142,Terbayar,45000.0,0.0,Pakaian,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Renon),05-9-2021,Bp Ariel,Budi Fitri/Grece,62-082146522583,0.0,0.0
+temanggung/5186,Terbayar,80000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),06-9-2021,Kopi trappist.,Mame Astari,62-08174759631,0.0,0.0
+temanggung/5144,Gratis,0.0,0.0,Doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),05-9-2021,OBL,Bp Reza,62-0000000000000,0.0,0.0
+jombor/5145,Terbayar,70000.0,0.0,Makanan,1,Dipesan,Yogyakarta(OBL Jombor),Denpasar(OBL Renon),05-9-2021,Bp Budi,Williem Alexander,62-82111552002,0.0,2000.0
+jakarta/5146,Terbayar,179160.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),05-9-2021,ZODIAK,NY.SYLVIA,62-818311533,0.0,0.0
+temanggung/5147,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),05-9-2021,Christin,Tandyo Hasan,62-081331323333,0.0,0.0
+temanggung/5148,Terbayar,40000.0,0.0,Alat tulis,1,Dipesan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),05-9-2021,Bp Sony.,Fellyta Zahrah A,62-085329810493,0.0,0.0
+temanggung/5149,Terbayar,100000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),05-9-2021,Rita Y,Putri Ayu,62-085729794670,0.0,0.0
+temanggung/5150,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),05-9-2021,Pulip Tina Rahayu,Dr Yala Dewi S,62-081343131163,0.0,0.0
+temanggung/5151,Terbayar,360000.0,0.0,Konveksi,4,Dipesan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),05-9-2021,Jaya Abadi Konveksi,Bp Wiryan.,62-083831800091,0.0,0.0
+jakarta/5152,Terbayar,253050.0,0.0,KARDUS PUTIH ISI BAJU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),05-9-2021,H.UMAR ABDUL GANI,SUDIRMAN M.ALI,62-85338764018,0.0,0.0
+jakarta/5153,Terbayar,40000.0,0.0,KARDUS ISI BAJU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),05-9-2021,AHMAT MAMUN,KHOERUN ANWAR/IBU SUTARTI,62-81296863693,0.0,0.0
+temanggung/5154,Terbayar,100000.0,0.0,Makanan,3,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),05-9-2021,Ling Ling,Ibu Lily Gunawan,62-08121323944,0.0,0.0
+temanggung/5155,Terbayar,80000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),05-9-2021,Jesisca Christina.,Elyana Cia Cia.,62-087830008751,0.0,0.0
+jakarta/5156,Gratis,0.0,0.0,DINAMO,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),05-9-2021,OBL.PUSAT JAKARTA,BP.THOMAS,62-361231208,0.0,0.0
+temanggung/5189,Terbayar,230000.0,0.0,Susu dan makanan,6,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),06-9-2021,Fr Blacius,Meliani Sutanto,62-08161852318,0.0,0.0
+temanggung/5190,Terbayar,80000.0,0.0,Makanan,3,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),06-9-2021,Fr Blacius,Veronica Nani Mulyati,62-08176581158,0.0,0.0
+temanggung/5159,Dibayar,55000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),05-9-2021,Fr Blacius,Yanti Pristika,62-08129551194,0.0,0.0
+temanggung/5160,Terbayar,100000.0,0.0,Lenteng,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),05-9-2021,Murni,Kartika,62-082233320388,0.0,0.0
+temanggung/5191,Terbayar,80000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),06-9-2021,Fr Blacius,Lucia Kupok,62-081316776682,0.0,0.0
+jakarta/5162,Terbayar,319200.0,0.0,KARUNG PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),05-9-2021,BAIQ FATIMAH,LALU INDRA,62-81915857833,0.0,0.0
+temanggung/5193,Terbayar,120000.0,0.0,Susu,3,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),06-9-2021,Pertapaan .,Veronica Nani Mulyati,62-08176851158,0.0,0.0
+temanggung/5164,Terbayar,100000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),05-9-2021,Mam,Rosna,62-0000000000000,0.0,0.0
+jakarta/5165,Terbayar,40000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),05-9-2021,SUPRO,ANISA ARIYANI,62-88225285402,0.0,0.0
+temanggung/5166,Terbayar,80000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),05-9-2021,Adik Dhuas,Aunty Triska.,62-08975129129,0.0,0.0
+jakarta/5167,Terbayar,172480.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),05-9-2021,ROSNA,MAMA,62-0293491261,0.0,0.0
+jakarta/5168,Terbayar,107000.0,0.0,PLASTIK MERAH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),06-9-2021,KAMAL,SOFYAN,62-87888693059,0.0,0.0
+temanggung/5169,Gratis,0.0,0.0,GULA,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),06-9-2021,IIK,YATI,62-0000000000000,0.0,0.0
+jakarta/5170,Gratis,0.0,0.0,KOTAK COKLAT,4,Dibatalkan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),06-9-2021,IBU.SUSI,IBU.MARISSA LEVIANI,62-0293491195,0.0,0.0
+jakarta/5170,Gratis,-0.0,-0.0,KOTAK COKLAT,4,Dibatalkan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),06-9-2021,IBU.SUSI,IBU.MARISSA LEVIANI,62-0293491195,-0.0,-0.0
+temanggung/5171,Terbayar,45000.0,0.0,Tembakau,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),06-9-2021,Kenzou Nini S,Agustinus SH.,62-082236085346,0.0,0.0
+jakarta/5172,Terbayar,48000.0,0.0,KARDUS PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),06-9-2021,ISA YUMAWAR,ADINDA DINAR,62-85643353304,0.0,0.0
+temanggung/5173,Terbayar,45000.0,0.0,Buah,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),06-9-2021,Mama,Hanny.,62-0215826155,0.0,0.0
+jakarta/5174,Terbayar,40000.0,0.0,DOKUMEN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),06-9-2021,PT.SARANA SUMBER ABADI,PT.CENTRAL JAWA WOOD INDUSTRY,62-0293491195,0.0,0.0
+temanggung/5175,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),06-9-2021,Saras.,Hotel Patra.,62-082280403333,0.0,0.0
+jakarta/5176,Terbayar,76000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),06-9-2021,NURIE,BENGKEL BABAHE,62-0293491195,0.0,0.0
+jakarta/5177,Terbayar,48000.0,0.0,TABUNG GAS KOSONG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),06-9-2021,SARING,LEK YANTO JEBRES,62-85700162760,0.0,0.0
+temanggung/5351,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Trappist,Ibu Suzan,62-0811952407,0.0,0.0
+temanggung/5353,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Trappist.,Ibu Monica,62-08161461969,0.0,0.0
+jakarta/5180,Gratis,0.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),06-9-2021,IBU.SUSI,OBL.PUSAT TEMANGGUNG,62-0293491195,0.0,0.0
+jakarta/5181,Gratis,0.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),06-9-2021,IBU.SUSI,OBL.JANTI,62-83867661403,0.0,0.0
+jakarta/5182,Terbayar,85500.0,0.0,KOTAK COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Malang(OBL MLG),06-9-2021,KAFKA,IBU.ATIK,62-81313035929,0.0,0.0
+temanggung/5354,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Fr Blacius,Ricky,62-0000000000000,0.0,0.0
+jakarta/5187,Terbayar,280000.0,0.0,JRIGEN DI BAGORIN PUTIH,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),06-9-2021,ANTO TRIGONA,I NENGAH MUDRA,62-81337773109,0.0,0.0
+temanggung/5188,Terbayar,80000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),06-9-2021,Vero,Vivi,62-081807020287,0.0,0.0
+jakarta/5192,Terbayar,40000.0,0.0,PLASTIK PUTIH KECIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(Agen Parakan Diponegoro),06-9-2021,SANTHI HANDAYANI,IBU.SUTIKNO,62-0293491195,0.0,0.0
+jakarta/5194,Terbayar,48000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),06-9-2021,IBU.HARMI,ASRAMA PUTRI NAILA ZAHRATU SYIFA,62-81327825824,0.0,0.0
+jakarta/5195,Gratis,0.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Jombor),06-9-2021,IBU SUSI,OBL.YOGYA/JOMBOR,62-83867661403,0.0,0.0
+temanggung/5196,Gratis,0.0,0.0,D0c,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),06-9-2021,OBL.,Bp Reza,62-0000000000000,0.0,0.0
+jakarta/5197,Gratis,0.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),06-9-2021,ANANDA YANI,IBU KIAT,62-0293491195,0.0,0.0
+jakarta/5198,Gratis,0.0,0.0,KOTAK MASKER,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),06-9-2021,OBL JAKARTA,IBU MARISA,62-93491195,0.0,0.0
+jakarta/5199,Terbayar,810000.0,0.0,KOTAK GEPENG,10,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),06-9-2021,PT.BERKAT ABADI PRATAMA,LOMBOK POST,62-370673542,0.0,0.0
+jakarta/5200,Terbayar,40000.0,0.0,DOKUMEN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),06-9-2021,DIAMOND -FUSION INTERNATIONAL,CV.PASIFIC RING INDONESIA,62-8112786855,0.0,0.0
+jakarta/5201,Terbayar,708000.0,0.0,KARDUS DI BAGORIN,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),06-9-2021,PRISMA PLAST,PT.GUNA PUTRA JAYA MANDIRI,62-85237812473,0.0,0.0
+jakarta/5202,Terbayar,96000.0,0.0,SPARE PATS,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),06-9-2021,PRIMA SINDO,YTH.DHARMA SATYA NUSANTARA,62-2934901277,0.0,0.0
+jakarta/5203,Terbayar,226980.0,0.0,KARDUS PANJANG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),07-9-2021,BP.PANDU,PATRICK,62-82135293777,0.0,0.0
+temanggung/5204,Terbayar,70000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),07-9-2021,Bambang Irianto,Rinawati Istiono,62-08156178105,0.0,0.0
+temanggung/5205,Gratis,0.0,0.0,Doc.,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),07-9-2021,OBL.,Bp Reza,62-0000000000000,0.0,0.0
+temanggung/5206,Terbayar,40000.0,0.0,Slondok,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),07-9-2021,W.Sumardi.,Arief.,62-000000000000,0.0,0.0
+jakarta/5207,Terbayar,187330.0,0.0,KONFAIR BELT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),07-9-2021,RAFA,IDANG,62-85299993232,0.0,0.0
+jakarta/5208,Terbayar,486500.0,0.0,"KARDUS COKLAT,KOPER DI LAKBAN COKLAT",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),07-9-2021,RAFA,ANDI,62-81238828880,0.0,0.0
+jakarta/5209,Terbayar,90530.0,0.0,KARDUS ISI MKN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),07-9-2021,WONG FOEK JIN,WILLYANTO,62-81319180737,0.0,0.0
+jakarta/5210,Terbayar,76000.0,0.0,PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),07-9-2021,EMY,AGUS RIYANTO/DONO,62-82325570158,0.0,0.0
+jakarta/5211,Terbayar,128000.0,0.0,PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),07-9-2021,OCTHA,DAENG BANONG,62-82340050299,0.0,0.0
+jakarta/5212,Terbayar,49500.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),07-9-2021,D PARIS JAKARTA,DPARIS SURABAYA,62-3181234818,0.0,0.0
+jakarta/5213,Terbayar,210000.0,0.0,KARUNG HIJAU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),07-9-2021,NIBRAS FASHION,IBU NUR KOMALA,62-81911700770,0.0,0.0
+jakarta/5214,Terbayar,517500.0,0.0,KARUNG PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),07-9-2021,ABU RAMZAN,NUR HAIDAH,62-81234974690,0.0,0.0
+temanggung/5215,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),07-9-2021,Lian.,Bp Budi Setiawan,62-081210912098,0.0,0.0
+jakarta/5216,Terbayar,40000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),07-9-2021,SRI WAHATI,RAHMI PANCARINI,62-81228024173,0.0,0.0
+temanggung/5217,Terbayar,45000.0,0.0,Krecek,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),07-9-2021,Samiyati.,Home Made Food D'Ningta.,62-081338147077,0.0,0.0
+temanggung/5218,Terbayar,40000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),07-9-2021,Mami.,Ananda Yani,62-0000000000000,0.0,0.0
+jakarta/5219,Terbayar,200000.0,0.0,"PLASTIK HITAM,KOPER HIJAU,KOPER SILVER",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),07-9-2021,PANDU,VERONICA YASHINTA,62-81520459363,0.0,0.0
+temanggung/5220,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),07-9-2021,Bp T Tjiong Giong,Tn Theo Sin Koen,62-087808556767,0.0,0.0
+jakarta/5221,Terbayar,135000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),07-9-2021,CV.DIAN GAS SENTOSA,PT.SINAR MUTIARA EDC,62-0361720833,0.0,0.0
+jakarta/5222,Terbayar,40000.0,0.0,PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),07-9-2021,FARAH RIANA,IBU NOURYENI,62-81392435758,0.0,0.0
+temanggung/5223,Terbayar,60000.0,0.0,Buah,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),07-9-2021,Ibu Dina,Rahendika.,62-081391709201,0.0,0.0
+temanggung/5355,Terbayar,50000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Pertapaan,Yulisna,62-0000000000000,0.0,0.0
+temanggung/5356,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Pertapaan,Melany M,62-0816707748,0.0,0.0
+temanggung/5357,Terbayar,60000.0,0.0,Makwnan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Fr Blacius,Tjitjik Christiani,62-0811819813,0.0,0.0
+temanggung/5358,Terbayar,190000.0,0.0,Makanan,4,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Fr Blasius,Kambah Ried.,62-0000000000000,0.0,0.0
+jakarta/5228,Terbayar,48000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),07-9-2021,BP.RAHMAT,IBU.SUCIATI,62-8988716649,0.0,0.0
+temanggung/5359,Terbayar,200000.0,0.0,Makanan dan susu.,6,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Fr Blacius,Nur Evi Dewanti,62-0000000000000,0.0,0.0
+temanggung/5230,Terbayar,90000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),07-9-2021,Mam,Rosna,62-0000000000000,0.0,0.0
+temanggung/5231,Gratis,0.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),07-9-2021,Pertapaan,Tante Sherlly.,62-0000000000000,0.0,0.0
+temanggung/5360,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Fr Blacius,Fransisca Iskandar,62-0000000000000,0.0,0.0
+temanggung/5361,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Fr Blacius,Christiana.,62-0811819813,0.0,0.0
+temanggung/5363,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Fr Blacius,Puan Lucia.,62-085319111398,0.0,0.0
+temanggung/5364,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Fr Blacius,Lucia Kupok,62-081316776072,0.0,0.0
+temanggung/5365,Terbayar,70000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Fr Blacius,Bunda Lily.,62-081310107188,0.0,0.0
+temanggung/5366,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Rowo seneng,Christiana,62-081280700957,0.0,0.0
+temanggung/5367,Terbayar,40000.0,0.0,Susu,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Pertapaan,Christiana,62-0818791147,0.0,0.0
+temanggung/5368,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Kopi trappist,Rina Wahyuningsih,62-087877203567,0.0,0.0
+temanggung/5240,Terbayar,40000.0,0.0,Roti keju,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),07-9-2021,Ibu Yayuk,Miranti Bowo,62-081288252257,0.0,0.0
+temanggung/5241,Terbayar,50000.0,0.0,Pete,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Gunung Agung Denpasar),07-9-2021,Miswan,Mbak Liha/Sutrisno,62-081999022816,0.0,0.0
+temanggung/5242,Dibayar,45000.0,0.0,roti,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),08-9-2021,FR. BLACIUS,bing bing,62-081313157942,0.0,0.0
+temanggung/5243,Terbayar,100000.0,0.0,MAKANAN,2,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Renon),08-9-2021,RAFII,ANTON RENON,62-089681171770,0.0,0.0
+jakarta/5244,Gratis,0.0,0.0,DP PAKET & BUKTI KAS.TT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),08-9-2021,OBL.PUSAT JAKARTA,BP.DAHLAN,62-81339511008,0.0,0.0
+jakarta/5245,Terbayar,706580.0,0.0,"KARUNG PUTIH,KARUNG PUTIH",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),08-9-2021,FARIDA,SUBKI,62-81280919335,0.0,0.0
+jakarta/5246,Gratis,0.0,0.0,KARDUS BIRU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),08-9-2021,ANANDA YANI,IBU KIAT,62-293491195,0.0,0.0
+jakarta/5247,Gratis,0.0,0.0,DOCUMEN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),08-9-2021,PT.SAFARI DHARMA SAKTI,BP ANTO/JONDAN,62-82233799928,0.0,0.0
+jakarta/5248,Terbayar,80000.0,0.0,"KARDUS COKLAT,KARDUS COKLAT",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),08-9-2021,RIA,DARWENI SUMINTO,62-293491807,0.0,0.0
+jakarta/5249,Terbayar,50000.0,0.0,KARDUS COKLAT,1,Dipesan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),08-9-2021,RAFLI,SINED,62-87774085688,0.0,0.0
+jakarta/5250,Terbayar,93000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),08-9-2021,BEST INK JAKARTA,BINTANG PRINT/IBU HALIMAH,62-85338927005,0.0,0.0
+jakarta/5251,Terbayar,182130.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),08-9-2021,LAKSANA AGUNG,CV.BANYU CAHYA KURNIA,62-81575752002,0.0,0.0
+jakarta/5252,Terbayar,639000.0,0.0,KARDUS ISI BUKU,7,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),08-9-2021,DAR SYAFII,UST.MUSMUHAIMIN,62-81338014478,0.0,0.0
+jakarta/5253,Terbayar,149240.0,0.0,"KARDU,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),08-9-2021,ARWANTO,RUSSEL,62-8970990770,0.0,0.0
+jakarta/5254,Terbayar,40000.0,0.0,KOTAK HIJAU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),08-9-2021,MIKHA,MM/PP,,0.0,0.0
+jakarta/5255,Gratis,0.0,0.0,KARDUS OLI 77,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),08-9-2021,FAUA AMIR OBL JKT,BP HONGKI,62-0293491195,0.0,0.0
+temanggung/5371,Terbayar,60000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,PERTAPAAN,MAMA RAHADI,62-08158014428,0.0,0.0
+temanggung/5370,Terbayar,75000.0,0.0,MAKANAN,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,FR BLASIUS,LILIANA,62-081514558937,0.0,0.0
+temanggung/5369,Terbayar,150000.0,0.0,MAKANAN,4,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,FR BLASIUS,DESI FANDI,62-082122441126,0.0,0.0
+jakarta/5259,Terbayar,233200.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),08-9-2021,WIJAYA,BP.TEGUH,62-8328880788,0.0,0.0
+temanggung/5260,Terbayar,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,KHOIRUN ANWAR,AHMAD MAMUN,62-081296863693,0.0,0.0
+jakarta/5261,Terbayar,52000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Jombor),09-9-2021,DIAN NIAGA JAKARTA,DIAN NIAGA YOGYAKARTA,62-85329691945,0.0,0.0
+jakarta/5262,Terbayar,40000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),09-9-2021,SETYA BUDI,YANTO / SUJUD,62-08129640681,0.0,0.0
+jakarta/5263,Terbayar,40000.0,0.0,KARDUS PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Jombor),09-9-2021,ARIS,SRI   RAHAYU MUSTIKOWATI.,62-0811143029,0.0,0.0
+temanggung/5264,Terbayar,60000.0,0.0,MAKANAN,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,OM MIMING,SARBIYONO,62-087887265256,0.0,0.0
+jakarta/5265,Terbayar,373920.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Malang(OBL MLG),09-9-2021,SUGI.,BP. HARTANTO.,62-0851005390166,0.0,0.0
+jakarta/5266,Terbayar,200530.0,0.0,"KARDUS  BUNGKUS KORAN,KARDUS BUNGKUS KORAN",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),09-9-2021,SR. M. MARGARETHA.,"IBU PETTY/ IBU I,IN",62-081280923477,0.0,0.0
+jakarta/5267,Terbayar,105000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),09-9-2021,PT. PROPAN RAYA.ICC,PT. PROPAN RAYA.,,0.0,0.0
+jakarta/5268,Terbayar,78000.0,0.0,KARDUS.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),09-9-2021,LAILYN.,IBU. NUNUNG.,62-081936780479,0.0,0.0
+temanggung/5269,Gratis,0.0,0.0,SURAT,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,TICKETING TMG,BP. REZA / BU ANIK,62-0000000000000,0.0,0.0
+jakarta/5270,Terbayar,40000.0,0.0,KARDUS KECIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),09-9-2021,NICKO,BU.DEVI,62-81285134200,0.0,0.0
+jakarta/5271,Terbayar,504900.0,0.0,"KARDUS,KARDUS,KARDUS",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Jombor),09-9-2021,FLAMBOYAN 4,REKY MURWANA,62-08111984160,0.0,0.0
+jakarta/5272,Terbayar,159750.0,0.0,BUNGKUS PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),09-9-2021,UDIN.,LINDA.,62-081339343495,0.0,0.0
+temanggung/5273,Terbayar,180000.0,0.0,PERLENGKAPAN DAPUR,2,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Renon),09-9-2021,IBU MARLYNE,BP GEDE ADI SETIAWAN,62-081999595695,0.0,0.0
+temanggung/5274,Terbayar,40000.0,0.0,MAKANAN,2,Dibatalkan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,PERTAPAAN RW SENENG,IBU MAUDY LIMRAHWANA,62-0816702416,0.0,0.0
+temanggung/5274,Terbayar,-40000.0,-0.0,MAKANAN,2,Dibatalkan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,PERTAPAAN RW SENENG,IBU MAUDY LIMRAHWANA,62-0816702416,-0.0,-0.0
+temanggung/5275,Dibayar,40000.0,0.0,MAKANAN,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,PERTAPAAN,IBU LENNA,62-08158738719,0.0,0.0
+temanggung/5276,Terbayar,140000.0,0.0,"MAKANAN, SUSU",5,Dibatalkan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,PERTAPAAN RAWASENENG,IBU EMMY ANDRE,62-081908208447,0.0,0.0
+temanggung/5276,Terbayar,-140000.0,-0.0,"MAKANAN, SUSU",5,Dibatalkan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,PERTAPAAN RAWASENENG,IBU EMMY ANDRE,62-081908208447,-0.0,-0.0
+jakarta/5277,Terbayar,40000.0,0.0,BUNGKUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),09-9-2021,DFI JAKARTA./ANASTASIA VANI YUNIARTI,IBU YUKA / PT. BAHANA BHUMIPHALA . P,62-081329228393,0.0,0.0
+jakarta/5278,Terbayar,125000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),09-9-2021,C.V. CAHAYA ABADI,PT. LUTIKALAI.,62-08123806901,0.0,0.0
+jakarta/5279,Gratis,0.0,0.0,AMPLOP COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),09-9-2021,OBL JAKARTA,BP. ADINTA,62-0293491195,0.0,0.0
+temanggung/5280,Gratis,0.0,0.0,SURAT,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,ROMO ABAS,BP. HENDRO,62-0000000000000,0.0,0.0
+jakarta/5281,Gratis,0.0,0.0,1 DOC / AMPLOP COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),09-9-2021,PT. SAFARI DHARMA SAKTI.,BP. BUDI HARTOMO.,62-0293491195,0.0,0.0
+jakarta/5282,Gratis,0.0,0.0,KARDUS,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),09-9-2021,OBL. JAKARTA / BP. MUL. PERCETAKAN,CIK . MARISSA.,62-0293491195,0.0,0.0
+temanggung/5283,Terbayar,50000.0,0.0,BUAH,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,MAMA TEMANGGUNG,IKE S,62-0000000000000,0.0,0.0
+jakarta/5284,Terbayar,513580.0,0.0,"KARUNG PUTIH,KARUNG PUTIH",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Singaraja(OBL Singaraja),09-9-2021,NURJAYA SPORT,WARUNG BOLA,62-82110055299,0.0,0.0
+jakarta/5285,Gratis,0.0,0.0,DOKUMEN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),09-9-2021,YATI,AGUS MULYONO,62-0293491195,0.0,0.0
+temanggung/5286,Terbayar,40000.0,0.0,PAKAIAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,MAMA KEN BAMBANG,BP HASCARYO,62-08119440900,0.0,0.0
+jakarta/5287,Terbayar,127680.0,0.0,KOPER KARUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),09-9-2021,DEBY,KAK EMIL,62-87864299773,0.0,0.0
+temanggung/5288,On-Account,40000.0,0.0,makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,Pertapaan rowoseneng,ibu maudy limrahwana,62-0816702418,0.0,0.0
+temanggung/5289,On-Account,140000.0,0.0,"MAKANAN ,SUSU",5,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),09-9-2021,Pertapaan rowoseneng,IBU EMMY ANDRE,62-081908208447,0.0,0.0
+temanggung/5290,Terbayar,55000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Renon),10-9-2021,INDRI DARYANTI,LULUK RUSDIANA,62-08155717607,0.0,0.0
+temanggung/5291,Gratis,0.0,0.0,Makanan,1,Dibatalkan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Ibu Sally S,Drg Thresiani,62-0213454524,0.0,0.0
+temanggung/5291,Gratis,-0.0,-0.0,Makanan,1,Dibatalkan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Ibu Sally S,Drg Thresiani,62-0213454524,-0.0,-0.0
+temanggung/5292,Gratis,0.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,IBU SALLY,DRG. THRESIANI,62-0213454524,0.0,0.0
+jakarta/5293,Terbayar,60000.0,0.0,DUS LAKBAN COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),10-9-2021,BRAM,BP. WAYAN / LANCAR MTR.,62-089605351818,0.0,0.0
+jakarta/5294,Terbayar,60000.0,0.0,SILINDER PANJANG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Jombor),10-9-2021,REKY  MURWANA.,REKY MURWANTO.,62-08111984160,0.0,0.0
+jakarta/5295,Terbayar,352000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),10-9-2021,RIDHO,RAGIL TEGUH PRAKOSO,62-081236252071,0.0,0.0
+temanggung/5296,Gratis,0.0,0.0,doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,OBL TMG,bp reza,62-0000000000000,0.0,0.0
+jakarta/5297,Terbayar,262790.0,0.0,KARUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),10-9-2021,PEPENG,OUTLET D. 21,62-082337498211,0.0,0.0
+jakarta/5298,Terbayar,44000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),10-9-2021,INDAH .K,IBU. RETNO SWANDAYANI.,62-0293491937,0.0,0.0
+temanggung/5299,Terbayar,40000.05,0.0,makanan1,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,fujilestari,fendi,62-085290966789,0.0,0.0
+temanggung/5300,Terbayar,60000.0,0.0,MAKANAJN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,EUNIHE,MAMA YOHAN,62-0000000000000,0.0,0.0
+jakarta/5301,Terbayar,432000.0,0.0,KARDUS,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),10-9-2021,PT. BUKIT BAROS,ROMO ABAS GONJAGA OCSO,62-081286105604,0.0,0.0
+temanggung/5302,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Bu Mimin,Nadya Novita,62-085643568249,0.0,0.0
+temanggung/5303,Gratis,0.0,0.0,Simbul Mercy.,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,OBL,Bp Hendro,62-000000000000,0.0,0.0
+temanggung/5304,Terbayar,60000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Eunihe,Mama Yohan,62-0000000000000,0.0,0.0
+jakarta/5305,Gratis,0.0,0.0,DOKUMEN+STNK,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),10-9-2021,PT.SAFARI DHARMA SAKTI,BP.THOMAS SUHONO,62-87701431555,0.0,0.0
+jakarta/5306,Gratis,0.0,0.0,DOCUMEN,1,Diterima,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),10-9-2021,PT.SAFARI DHARMA SAKTI,BP JONDAN /ANTOK,62-82233799928,0.0,0.0
+temanggung/5307,On-Account,40000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Pertapaan rowoseneng,BP TRIMO,62-0000000000000,0.0,0.0
+temanggung/5308,Terbayar,55000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Rina.,Rita Hapsari,62-081514001110,0.0,0.0
+jakarta/5309,Terbayar,40000.0,0.0,DOKUMEN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),10-9-2021,IBU SANTY SORMIN,BP.TJHIN TJONG GIONG/HENRY GUNAWAN,62-81288114515,0.0,0.0
+jakarta/5310,Terbayar,137000.0,0.0,"RAKET,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),10-9-2021,SYAMSUDIN,SITI RAHMAH,62-81339551089,0.0,0.0
+jakarta/5311,Terbayar,60000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),10-9-2021,DARTI,BP. MITRO SUDARTO,62-081281186684,0.0,0.0
+jakarta/5312,Terbayar,177000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),10-9-2021,RURI MAHMUD,IBU ANI BAG KEUANGAN,62-8123723128,0.0,0.0
+temanggung/5313,Terbayar,80000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Mirasa,Johanes Sulaksana Nugraha,62-081952520058,0.0,0.0
+temanggung/5314,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Christin,Ibu ztitik,62-0821933034,0.0,0.0
+temanggung/5374,Terbayar,190000.0,0.0,Susu dan makanan,6,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Fr Blacius,Lannu &Hari.,62-081310684999,0.0,0.0
+jakarta/5316,Terbayar,40000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),10-9-2021,KURNIA JAYA,BENGKEL BEWOK,62-8130076981,0.0,0.0
+temanggung/5317,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Toko Daniel,Daniel S Wibowo,62-08122756412,0.0,0.0
+jakarta/5318,Terbayar,91520.0,0.0,KARDUS  POPOK,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Jombor),10-9-2021,GLENN,SUJARTRA,62-081328000099,0.0,0.0
+temanggung/5375,Terbayar,75000.0,0.0,Makanan,3,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Fr Blacius,Dina Santoso,62-083895304405,0.0,0.0
+jakarta/5320,Terbayar,40000.0,0.0,KARDUS ISI SEPEDA,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),10-9-2021,MBAK MIRA,MBAK YESA,62-293491195,0.0,0.0
+temanggung/5377,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Fr Blacius,Ratna,62-08977868001,0.0,0.0
+temanggung/5322,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Paryani,Istanto,62-081213500789,0.0,0.0
+temanggung/5323,Terbayar,100000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Artati,Siti Farichah,62-089667981889,0.0,0.0
+temanggung/5324,Gratis,0.0,0.0,Doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Fr Blacius.,Bp Trimo,62-0000000000000,0.0,0.0
+temanggung/5325,Terbayar,100000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Mam,Rosna,62-0000000000000,0.0,0.0
+temanggung/5326,Terbayar,40000.0,0.0,Bandeng,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Bandeng Presto,Thalita Madha A.,62-082110182238,0.0,0.0
+jakarta/5327,Terbayar,108000.0,0.0,KARDUS ISI SPARE PATS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),10-9-2021,NURIE,BENGKEL BABAHE,62-82241698742,0.0,0.0
+temanggung/5328,Terbayar,50000.0,0.0,Bandeng,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Bandeng presto,Segar,62-087884516930,0.0,0.0
+temanggung/5329,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Giok Lian,Tante Christine,62-081215356679,0.0,0.0
+temanggung/5330,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),10-9-2021,Yustika Ayubi Harsoyo,Yusuf Harsoyo,62-081384949499,0.0,0.0
+jakarta/5331,Gratis,0.0,0.0,DOKUMEN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),10-9-2021,OBL.PUSAT JAKARTA,IBU.MARISSA,62-0293491195,0.0,0.0
+jakarta/5332,Terbayar,133500.0,0.0,"KARDUS ISI KIPAS,KARDUS ISI KIPAS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),10-9-2021,RIDWAN,AINUN/FAUZIAH,62-85238902025,0.0,0.0
+jakarta/5333,Terbayar,450000.0,0.0,KARDUS,3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),11-9-2021,H. AHMAD ABDURAHMAN,BP. RIDWAN. PERATE,62-081237118047,0.0,0.0
+jakarta/5334,Terbayar,45000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Malang(OBL MLG),11-9-2021,PT. RODA MULIA ABADI.,PT. ADI PUTRO WIRA SEJATI,62-0341491139,0.0,0.0
+temanggung/5335,Gratis,0.0,0.0,Kardus,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,A,D,62-0000000000000,0.0,0.0
+jakarta/5336,Terbayar,67600.0,0.0,KARDUS DI LAKBAN COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Singaraja(OBL Singaraja),11-9-2021,TATA. W.,TITI  CALAME.,62-87854011030,0.0,0.0
+temanggung/5337,Gratis,0.0,0.0,Doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,OBL,Bp Reza,62-0000000000000,0.0,0.0
+temanggung/5338,Gratis,0.0,0.0,Doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,OBL,Bp Reza,62-0000000000000,0.0,0.0
+temanggung/5339,Gratis,0.0,0.0,Doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,OBL,Bp Reza,62-0000000000000,0.0,0.0
+temanggung/5340,Terbayar,50000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,122A,Ida Yuwati,62-087788636305,0.0,0.0
+temanggung/5341,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Zumar.,Yayuk,62-081542849933,0.0,0.0
+temanggung/5342,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Mb.Ayu,Ibu Indah /bp Arif,62-081514116579,0.0,0.0
+temanggung/5343,Gratis,0.0,0.0,Doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,OBL,Bp Reza.,62-0000000000000,0.0,0.0
+jakarta/5344,Terbayar,1454200.0,0.0,"KAEDUS TOYS,KARDUS HIJAU,KARDUS COKLAT GEDE",9,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),11-9-2021,PACIL.,UDA   EDI,62-85338767557,0.0,0.0
+jakarta/5345,Terbayar,262500.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),11-9-2021,ABDUL MULUK.,TAHYUDIN,62-83114422757,0.0,0.0
+jakarta/5346,Gratis,0.0,0.0,1  DOC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),11-9-2021,SAFARI DHARMA SAKTI  JAKARTA,CIK MARISSA,62-0293491195,0.0,0.0
+temanggung/5347,Terbayar,50000.0,0.0,Kerupuk,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Handoko,Lidya Wahyu Widyati,62-085217116659,0.0,0.0
+temanggung/5348,Terbayar,80000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Wiwiek Setyowati,Diena Prastiwi.,62-081210888820,0.0,0.0
+jakarta/5349,Terbayar,131460.0,0.0,PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),11-9-2021,IBU IDA,JAYATI,62-082144613026,0.0,0.0
+temanggung/5350,Terbayar,40000.0,0.0,Bandeng,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Presto,Yulia Wibowo,62-085310005677,0.0,0.0
+jakarta/5352,Terbayar,72000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),11-9-2021,LETKOL. INF. MUHAMAD HANAFI.,SERMA NURDIN.,62-822342263775,0.0,0.0
+jakarta/5362,Gratis,0.0,0.0,DOKUMEN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),11-9-2021,YATI,ADINTA SANTOSA,62-0293491195,0.0,0.0
+jakarta/5372,Terbayar,132000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),11-9-2021,FAUZI,IFAH GADRE,62-081933116550,0.0,0.0
+temanggung/5600,Terbayar,45000.0,0.0,Makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,Pertapaan,Mb Fetria,62-0812966159,0.0,0.0
+temanggung/5601,Terbayar,95000.0,0.0,Makanan,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,Fr Blacius,Ibu Sonny,62-081280478041,0.0,0.0
+temanggung/5602,Terbayar,55000.0,0.0,Makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,Fr Blacius,Tjitjik Fransisca Iskandar,62-0000000000000,0.0,0.0
+temanggung/5379,Terbayar,60000.0,0.0,Magig com,1,Dipesan,Temanggung Regency(OBL Diponegoro),Mataram(OBL MTR),11-9-2021,Ni Ketut Ari.,Ibu Nyoman Sri.,62-081907868059,0.0,0.0
+surabaya/5380,Terbayar,49500.0,0.0,kerdus,1,Dipesan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),11-9-2021,test,test,62-8111111111,0.0,0.0
+temanggung/5381,Gratis,0.0,0.0,1,1,Dibatalkan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Jemiper,Imah,62-000000000,0.0,0.0
+temanggung/5381,Gratis,-0.0,-0.0,1,1,Dibatalkan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Jemiper,Imah,62-000000000,-0.0,-0.0
+jakarta/5382,Terbayar,112970.0,0.0,"KARDUS,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),11-9-2021,DR. MITA.,BP. KURDIMAN.,62-81328747892,0.0,0.0
+temanggung/5383,Terbayar,40000.0,0.0,Kopi,1,Dipesan,Temanggung Regency(OBL Diponegoro),Malang(OBL MLG),11-9-2021,Arfianto,Ibu Pipit.,62-08111236868,0.0,0.0
+temanggung/5384,Gratis,0.0,0.0,Tape,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,OBL,Ibu Sally S,62-0000000000000,0.0,0.0
+temanggung/5385,Gratis,0.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Ibu Sally S,Drg Thresiani,62-0213454524,0.0,0.0
+temanggung/5386,Terbayar,90000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),11-9-2021,Vera,Ibu Hj dr Sundari R.,62-0217972402,0.0,0.0
+jakarta/5387,Terbayar,40000.0,0.0,KARDUS ISI MAKANAN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),11-9-2021,ISTANTO,ANGGA ZUNAS,62-82250001520,0.0,0.0
+jakarta/5388,Terbayar,65000.0,0.0,KARDUS MAKANAN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),11-9-2021,IBU.LASTRI,ABU SULTHON,62-8123700646,0.0,0.0
+jakarta/5389,Terbayar,40000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),11-9-2021,KAWAHARA RACING,FAJAR MOTOR,62-85643460043,0.0,0.0
+sdr/5390,On-Account,40000.0,0.0,Kardus,1,Dipesan,Temanggung Regency(Kantor Pusat),JAKARTA(OBL Kebayoran Lama),11-9-2021,Pertapaan rowoseneng,Siska,62-00889987,0.0,0.0
+temanggung/5391,Terbayar,115000.0,0.0,MKANA,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),12-9-2021,oma santiwati,dNIEL TAN,62-0361424108,0.0,0.0
+temanggung/5392,Terbayar,60000.0,0.0,BUAH,1,Dipesan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),12-9-2021,MADINA,ERWIN,62-082191779678,0.0,0.0
+jakarta/5393,Terbayar,445000.0,0.0,"SPAR PART GILING BUMBU,SPAR PART GILING BUMBU",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),12-9-2021,BP.ABIDIN,YTH.ASMAN ISMAIL,62-85338212076,0.0,0.0
+jakarta/5394,Terbayar,151350.0,0.0,BAGOR HIJAU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),12-9-2021,ANANDA SYAKILA,DIDAN ANALIA,62-85338011180,0.0,0.0
+temanggung/5395,Terbayar,75000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),12-9-2021,Yuli Restiana,Enny Yuliani,62-085107216262,0.0,0.0
+jakarta/5396,Gratis,0.0,0.0,KARDUS INCOE,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),12-9-2021,BP.ISWANTO,OBL.MATARAM,62-85238531019,0.0,0.0
+temanggung/5397,Terbayar,420000.0,0.0,Makanam,6,Dipesan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),12-9-2021,Tobama,Ibu Cecilia,62-081393716098,0.0,0.0
+temanggung/5603,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),18-9-2021,Fr Blacius,Nicovemus,62-0000000000000,0.0,0.0
+temanggung/5399,Terbayar,45000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),12-9-2021,Maya.,Ibu Emmy,62-081316602439,0.0,0.0
+temanggung/5400,Terbayar,90000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),12-9-2021,Kiki Ghofur,Nurul Azzati Pranoto,62-087785527482,0.0,0.0
+temanggung/5401,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),12-9-2021,Lany.,Ibu Sayar S,62-08568673245,0.0,0.0
+temanggung/5402,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Malang(OBL MLG),12-9-2021,Lany.,Ibu Henri,62-081945565236,0.0,0.0
+temanggung/5403,Terbayar,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),12-9-2021,Mami.,Ananda Yani,62-0000000000000,0.0,0.0
+jakarta/5404,Terbayar,65000.0,0.0,KARDUS MERAH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),12-9-2021,MUHAMMAD (AMES),H.ABD.RAHMAN ABDULLAH,62-85333539889,0.0,0.0
+temanggung/5405,Gratis,0.0,0.0,Doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),12-9-2021,OBL,Bp Reza,62-0000000000000,0.0,0.0
+temanggung/5406,Terbayar,60000.0,0.0,Makanan,2,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),12-9-2021,Ibu Susana,Aryawan,62-085101420232,0.0,0.0
+jakarta/5407,Terbayar,72000.0,0.0,PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),12-9-2021,RACHMAWATI,IBU.HJ.SYARIFAH,62-85205606209,0.0,0.0
+temanggung/5408,Terbayar,115000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),12-9-2021,Ibu Swie,Ibu Inge,62-0000000000000,0.0,0.0
+jakarta/5409,Terbayar,416760.0,0.0,"KARDUS COKLAT,KARDUS COKLAT,KARDUS COKLAT,KARDUS COKLAT",4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),12-9-2021,SYAMSUL HADI,MUKSIN ALIAS USSY,62-087700931050,0.0,0.0
+temanggung/5410,Terbayar,90000.0,0.0,Bandeng,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),12-9-2021,Ptesto,Irma.,62-08161878768,0.0,0.0
+jakarta/5411,Terbayar,96800.0,0.0,KARDUS SYRINGE,1,Dibatalkan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Jombor),12-9-2021,YAYUK,LESTARI,62-812323916014,0.0,0.0
+jakarta/5411,Terbayar,-96800.0,-0.0,KARDUS SYRINGE,1,Dibatalkan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Jombor),12-9-2021,YAYUK,LESTARI,62-812323916014,-0.0,-0.0
+jakarta/5412,Terbayar,96800.0,0.0,KARDUS SYRINGE,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),12-9-2021,YAYUK,LESTARI,62-82323916014,0.0,0.0
+temanggung/5413,Terbayar,50000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),12-9-2021,Vera,Ibu Hj Dr Sundari R,62-0217972402,0.0,0.0
+jakarta/5414,Terbayar,75000.0,0.0,KARDUS PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),12-9-2021,SIN UNG,KIM JAYA ( YUL ),62-811380969,0.0,0.0
+jakarta/5415,Terbayar,498000.0,0.0,"KARDUS COKLAT,KARUNG PUTIH,KARUNG PUTIH",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),12-9-2021,IRFAN,IRFAN,62-85894015912,0.0,0.0
+temanggung/5416,Terbayar,40000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,SALFA kurniawan,rosi aryana,62-085717119962,0.0,0.0
+jakarta/5417,Terbayar,450000.0,0.0,DUS DI KARUNG HIJAU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),13-9-2021,HERBAL BAROKAH.,FIHRI LOMBOK.,62-81917727367,0.0,0.0
+temanggung/5418,Terbayar,40000.0,0.0,makanan1,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,Wiwik Setyowati,Tatik Suprapti,62-081219368616,0.0,0.0
+temanggung/5419,Terbayar,40000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,Yati Pamungkasis,bp Mujiono,62-087771432488,0.0,0.0
+temanggung/5420,Terbayar,40000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,Andri,Yul Budhi,62-082280403333,0.0,0.0
+temanggung/5421,Gratis,0.0,0.0,DOC,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,OBL,BP Reza,62-0000000000000,0.0,0.0
+jakarta/5422,Terbayar,40000.0,0.0,DOC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),13-9-2021,SHANTY SORMIN,BP.TJHIN TJONG GIONG/HENRY GUNAWAN,62-293491195,0.0,0.0
+jakarta/5423,Gratis,0.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),13-9-2021,ANANDA YANI.,IBU KIAT,62-0293491195,0.0,0.0
+temanggung/5424,On-Account,40000.0,0.0,Makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,Pertapaan rowoseneng,A,62-0000000000000,0.0,0.0
+jombor/5425,Terbayar,50000.0,0.0,makanan,1,Ditentukan,Yogyakarta(OBL Jombor),JAKARTA(OBL Kebayoran Lama),13-9-2021,Catur Prasaja,Nataya/ Ani,62-81934191806,0.0,0.0
+temanggung/5426,On-Account,60000.0,0.0,makanan3,3,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,Pertapaan rowoseneng,Dina Santoso,62-083895304405,0.0,0.0
+temanggung/5427,On-Account,40000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,Pertapaan rowoseneng,Ratna,62-08977868001,0.0,0.0
+temanggung/5428,On-Account,40000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,Pertapaan rowoseneng,ibu Sonni,62-081280478041,0.0,0.0
+temanggung/5429,Gratis,0.0,0.0,doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,FR BLASIUS,BP TRIMO,62-0000000000000,0.0,0.0
+jakarta/5430,Terbayar,84480.0,0.0,KARDUS BUAH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),13-9-2021,ROSNA,MAMA,62-0895335152396,0.0,0.0
+temanggung/5431,Terbayar,70000.0,0.0,makanan1,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,mirasa,marcella maya,62-0000000000000,0.0,0.0
+jakarta/5432,Terbayar,48000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),13-9-2021,KARUNIA JAYA,BENGKEL  BEWOK SPEED,62-81310076981,0.0,0.0
+temanggung/5433,On-Account,40000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,Pertapaan rowoseneng,rosie darmono,62-08161853067,0.0,0.0
+temanggung/5434,On-Account,40000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,Pertapaan rowoseneng,ibu ario,62-06111725799,0.0,0.0
+temanggung/5435,On-Account,40000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,Pertapaan rowoseneng,ibu sony,62-081280478041,0.0,0.0
+temanggung/5436,Terbayar,80000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,murni,han kwan ping,62-087883896278,0.0,0.0
+temanggung/5437,Terbayar,50000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,mustakimah,nurul lutfia,62-0000000000000,0.0,0.0
+temanggung/5438,Terbayar,40000.0,0.0,miniatur,1,Dipesan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),13-9-2021,miniatur,daniel kurnia,62-0000000000000,0.0,0.0
+temanggung/5439,Dibayar,40000.0,0.0,polibeck,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,dani,parno,62-0000000000000,0.0,0.0
+temanggung/5440,Terbayar,60000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),13-9-2021,nana purwati,ibu tukiyem,62-085770281630,0.0,0.0
+jakarta/5441,Gratis,0.0,0.0,1 DOC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),14-9-2021,PT. SAFARI DHARMA SAKTI,BP. ANTOK / JONDAN,62-082233799928,0.0,0.0
+temanggung/5442,Terbayar,45000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),14-9-2021,AGUS,valent,62-089603249468,0.0,0.0
+temanggung/5443,Terbayar,45000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),14-9-2021,Agus,Valent,62-089603249468,0.0,0.0
+temanggung/5444,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,oma,eleonora,62-081210294170,0.0,0.0
+temanggung/5445,Terbayar,70000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),14-9-2021,Lis,Lasmini,62-0818567300,0.0,0.0
+temanggung/5446,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,els AssaKalempouw,Taffi Sastrawiguna,62-08118622929,0.0,0.0
+jakarta/5447,Terbayar,236080.0,0.0,ROLL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),14-9-2021,BANGUN CIPTA MARGA,IBU KADEK./CV TRI MANUNGGAL,62-081236195882,0.0,0.0
+jakarta/5448,Gratis,0.0,0.0,DOC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),14-9-2021,PT. SAFARI DHARMA SAKTI,MBAK AYESA,62-0293491195,0.0,0.0
+temanggung/5449,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,Nur Achi Ria,Sutarto,62-0888077777740,0.0,0.0
+temanggung/5450,Gratis,0.0,0.0,doc,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,OBL,bpReza,62-0000000000000,0.0,0.0
+temanggung/5451,Terbayar,40000.0,0.0,doc,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,Hengki GUNAWAN,Shanty SORMIN,62-081288114515,0.0,0.0
+jakarta/5452,Terbayar,45000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),14-9-2021,D. PARIS  JAKARTA,D. PARIS SURABAYA,62-03181234818,0.0,0.0
+temanggung/5453,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,Agus prasetyo,Jesicca Wijaya,62-081310330432,0.0,0.0
+jakarta/5454,Terbayar,80000.0,0.0,"DOKUMEN,KOTAK KECIL",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),14-9-2021,PT.GELORA CITRA KIMIA ABADI.JAKARTA,PT.GELORA CITRA KIMIA ABADI.KRANGGAN,62-02933219966,0.0,0.0
+temanggung/5455,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,yarti,ibu Lusy,62-081905013341,0.0,0.0
+jakarta/5456,Terbayar,469200.0,0.0,"KARDUS,KARDUS,KARDUS PANJANG",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),14-9-2021,SOFIYAH,SAMIAH.,62-085711493231,0.0,0.0
+jakarta/5457,Terbayar,65000.0,0.0,STEROFOM PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Singaraja(OBL Singaraja),14-9-2021,YUNI,IVAN PUTRA LESMANA,62-87708534073,0.0,0.0
+temanggung/5458,Gratis,0.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,prtapaan,ibu Aming,62-0816889766,0.0,0.0
+jakarta/5459,Terbayar,394000.0,0.0,KARUNG,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),14-9-2021,DHAFIR,DISTRO OLIVE,62-081336301111,0.0,0.0
+temanggung/5460,Terbayar,40000.0,0.0,makan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,eddie yusuf,dicky sutanto,62-08161900989,0.0,0.0
+temanggung/5461,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,edt,erny,62-081356277797,0.0,0.0
+jakarta/5462,Terbayar,40000.0,0.0,KARDUS VIT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),14-9-2021,BP.  IRWAN,BP. ROZIKIN.,62-85292255882,0.0,0.0
+temanggung/5463,On-Account,155000.0,0.0,makaanan,6,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,Pertapaan rowoseneng,Alien dan Firmus,62-0000000000000,0.0,0.0
+temanggung/5464,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,Pertapaan rowoseneng,Lucia Kupok,62-081316776082,0.0,0.0
+temanggung/5465,On-Account,40000.0,0.0,makanan1,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,Pertapaan rowoseneng,LUCY kupqk,62-0000000000000,0.0,0.0
+temanggung/5466,On-Account,40000.0,0.0,manana,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,Pertapaan rowoseneng,Johanna,62-081313157942,0.0,0.0
+temanggung/5467,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,Pertapaan rowoseneng,Kevin printing,62-081386358466,0.0,0.0
+jakarta/5468,Terbayar,99220.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),14-9-2021,PT. SWADESI CS.,IBU IKE SUKMAWATI N.,62-08164235931,0.0,0.0
+temanggung/5469,On-Account,140000.0,0.0,susu dan makanan,4,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,Pertapaan rowoseneng,Veronica Nani Muljati,62-08176581158,0.0,0.0
+temanggung/5470,Terbayar,95000.0,0.0,MAKAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,MAMI,ROSNA,62-00000000000,0.0,0.0
+temanggung/5471,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,Pertapaan rowoseneng,Haryanto Sutedjo,62-0000000000000,0.0,0.0
+temanggung/5472,On-Account,40000.0,0.0,susu,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),14-9-2021,Pertapaan rowoseneng,Lucia,62-081316776082,0.0,0.0
+surabaya/5473,Gratis,0.0,0.0,2,2,Dipesan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),14-9-2021,OBL Surabaya,Fauza Amir,62-82222222222,0.0,0.0
+jakarta/5474,Terbayar,97020.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),14-9-2021,DAMAN FLORIS,MM DEKOR YOGYA,62-85868229022,0.0,0.0
+jakarta/5475,Terbayar,49280.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),14-9-2021,FARIS,IBU ATIN MARTITININGSIH,62-088225460662,0.0,0.0
+sdr/5476,Terbayar,45000.0,0.0,Kardus,1,Dipesan,Temanggung Regency(Kantor Pusat),Denpasar(OBL Gunung Agung Denpasar),14-9-2021,Aris,Abimanyu,62-087734347986,0.0,0.0
+temanggung/5477,Terbayar,110000.0,0.0,MAKANAN,2,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Renon),15-9-2021,SYIFA JAWAS,RASYIDAH JAWAS,62-081999780516,0.0,0.0
+jakarta/5478,Terbayar,198000.0,0.0,KARUNG.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),15-9-2021,PENJAHIT GR,SALON CHIBA AL MUSALLY,62-85337810642,0.0,0.0
+jakarta/5479,Gratis,0.0,0.0,MAP HIJAU/ DOC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),15-9-2021,BP. DUDUNG RUDIANTO,IBU KIAT.,62-0293491195,0.0,0.0
+temanggung/5480,Terbayar,150000.0,0.0,keripik,3,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),15-9-2021,teguh sapto aji,sutkno,62-085792858656,0.0,0.0
+temanggung/5481,Terbayar,140000.0,0.0,makanan,4,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,yulmaris,iantii,62-081285069739,0.0,0.0
+jakarta/5482,Terbayar,60000.0,0.0,ROL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),15-9-2021,PT. GELORA CITRA KIMIA  ABADI,PT. CENTRAL JAWA WOOD INDUSTRY,62-081379319192,0.0,0.0
+temanggung/5483,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,galuh windiartias,yakhob mubiarto,62-08111770046,0.0,0.0
+temanggung/5484,Terbayar,45000.0,0.0,TEMBAKAU,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Gunung Agung Denpasar),15-9-2021,NURAENI,EKO TRI HANDOKO,62-082334795539,0.0,0.0
+jakarta/5485,Terbayar,540720.0,0.0,"KARDUS.,KARDUS.,KARDUS",3,Diterima,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),15-9-2021,BP. ANDRE.,MAS DANDUNG.,62-871253675,0.0,0.0
+jakarta/5486,Terbayar,526500.0,0.0,KARUNG,3,Diterima,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),15-9-2021,PT. SINAR MUTIARA.,PT. AKR. CORPORINDO.,62-81284843838,0.0,0.0
+janti/5487,Terbayar,100000.0,0.0,Makanan,1,Ditentukan,Yogyakarta(OBL Janti),Denpasar(OBL Renon),15-9-2021,Maria M,Adi Laksana,62-87859496678,0.0,350.0
+temanggung/5488,Terbayar,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,SITTA IRANA,NIZAR MAULANA KHARIS,62-087888508008,0.0,0.0
+jakarta/5489,Terbayar,120120.0,0.0,KARDUS,1,Diterima,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),15-9-2021,ZODIAK,NY. SYLVIA,62-818311533,0.0,0.0
+jakarta/5490,Terbayar,40000.0,0.0,KARDUS KECIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Jombor),15-9-2021,BP. GUNANTO.,SUTRISNO.,62-82137826985,0.0,0.0
+jakarta/5491,Terbayar,195000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Singaraja(OBL Singaraja),15-9-2021,KETUT YULI,DANNA ADITRY WIJAYA,62-88213380884,0.0,0.0
+temanggung/5492,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,ibu lis,Ibu ALIA,62-08119277487,0.0,0.0
+surabaya/5493,Gratis,0.0,0.0,2,2,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),15-9-2021,OBL Surabaya,Fauza Amir,62-082257477406,0.0,0.0
+jakarta/5494,Terbayar,61820.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),15-9-2021,PT. ZETA UTAMA SATYA,BP. ARIFIN,62-87839143195,0.0,0.0
+jakarta/5495,Gratis,0.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),15-9-2021,ANANDA YANI.,IBU KIAT,62-0293491195,0.0,0.0
+jakarta/5496,Gratis,0.0,0.0,KOTAK KECIL COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Malang(OBL MLG),15-9-2021,OBL. JAKARTA,BP. PERMADI / PT. RIMBA KENCANA.,62-0341354373,0.0,0.0
+temanggung/5497,On-Account,60000.0,0.0,makanan,3,Dipesan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),15-9-2021,Pertapaan rowoseneng,Dedrina,62-0000000000000,0.0,0.0
+temanggung/5498,Terbayar,80000.0,0.0,makanan,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,Jesiaca,Eliyana CiaCia,62-087830008751,0.0,0.0
+temanggung/5499,On-Account,45000.0,0.0,makanan,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,Pertapaan rowoseneng,ibu Veronica yudi,62-087885182316,0.0,0.0
+jakarta/5500,Terbayar,274500.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),15-9-2021,ABDUL MULUK,HUSNI MUBAROK,62-83295436533,0.0,0.0
+jakarta/5501,Gratis,0.0,0.0,DOKUMEN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),15-9-2021,OBL.PUSAT JAKARTA,BP.THOMAS SUHONO,62-87701431555,0.0,0.0
+jakarta/5502,Terbayar,40000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),15-9-2021,ADI GUNAWAN,TJHING THONG GIONG,62-811282290,0.0,0.0
+jakarta/5503,Terbayar,40000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),15-9-2021,SANTI HANDAYANI,THE SIOK LEN,62-81225793172,0.0,0.0
+temanggung/5504,On-Account,340000.0,0.0,makanandan susu,13,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,Pertapaan rowoseneng,Hilda,62-0000000000000,0.0,0.0
+jakarta/5505,Terbayar,66330.0,0.0,PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),15-9-2021,SANTHI.,IBU. SUTIKNO,62-816686889,0.0,0.0
+temanggung/5506,On-Account,320000.0,0.0,makanan dan susu12,12,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,Pertapaan rowoseneng,Vera supriyadi,62-081383988768,0.0,0.0
+temanggung/5507,On-Account,40000.0,0.0,makanan,2,Dibatalkan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,Pertapaan rowoseneng,Ver0nica Yudi,62-087885182316,0.0,0.0
+temanggung/5507,On-Account,-40000.0,-0.0,makanan,2,Dibatalkan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,Pertapaan rowoseneng,Ver0nica Yudi,62-087885182316,-0.0,-0.0
+surabaya/5508,Gratis,0.0,0.0,3,3,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),15-9-2021,Jondan,Pak Hendro,62-082257477406,0.0,0.0
+jakarta/5509,Terbayar,40000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),15-9-2021,ACAI,AMELIA PRATAMA,62-87877979393,0.0,0.0
+temanggung/5510,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,Pertapaan rowoseneng,Theo MASSI,62-0000000000000,0.0,0.0
+surabaya/5511,Gratis,0.0,0.0,2,2,Dipesan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),15-9-2021,obl sby,obl sby,62-315461667,0.0,0.0
+temanggung/5512,On-Account,40000.0,0.0,makana,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,Pertapaan rowoseneng,Donda,62-08111022078,0.0,0.0
+jakarta/5513,Terbayar,282000.0,0.0,KARDUS DI BAGORIN,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),15-9-2021,YOO HE,IBU SUM,62-81353471638,0.0,0.0
+temanggung/5514,On-Account,40000.0,0.0,makana,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,Pertapaan rowoseneng,Tji tji Farida,62-0000000000000,0.0,0.0
+temanggung/5515,On-Account,60000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),15-9-2021,Pertapaan rowoseneng,maIrene,62-0000000000000,0.0,0.0
+temanggung/5516,Terbayar,490000.0,0.0,kipas,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Gunung Agung Denpasar),15-9-2021,Muktolih,DEWA AYU EKA YULIANINGSIH,62-087862057089,0.0,0.0
+jakarta/5517,Terbayar,90000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),15-9-2021,PT.BANGUN PANCA SARANA ABADI,YTH.BP.RUBY RIANTO (BPSA),62-82144052229,0.0,0.0
+jakarta/5518,Terbayar,85000.0,0.0,KARDUS LE MINERAL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),15-9-2021,AMI,IRINE SUSHANTY,62-82111926123,0.0,0.0
+jakarta/5519,Terbayar,105600.0,0.0,PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),16-9-2021,FAKAR DEKORASI,NURMALA,62-82339180346,0.0,0.0
+jakarta/5520,Terbayar,251680.0,0.0,SCOOTER,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),16-9-2021,M RIFKI,WAWAN,62-89508168080,0.0,0.0
+jakarta/5521,Terbayar,329840.0,0.0,"KARUNG.,KARUNG.",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),16-9-2021,MAFAZA,SYARIF SYAHRUDIN/ PT. INDOMINE UTAMA.,62-081338434337,0.0,0.0
+jakarta/5522,Terbayar,160000.0,0.0,KARDUS PLASTIK PUTIH.,3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),16-9-2021,PT. ALAM RAYA,BP. FRATER YOHANES.,62-082225188330,0.0,0.0
+jakarta/5523,Terbayar,300300.0,0.0,KARDUS.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),16-9-2021,WAWAN,ARYO.,62-85275528895,0.0,0.0
+jakarta/5524,Gratis,0.0,0.0,AMPLOP PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),16-9-2021,OZA / OBL. JAKARTA,BP. GIARTO,62-0293491195,0.0,0.0
+jakarta/5525,Gratis,0.0,0.0,TAS DI IKAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),16-9-2021,RAJAWALI  JAKARTA,RAJAWALI .  TMG,62-8568333778,0.0,0.0
+temanggung/5526,Terbayar,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),16-9-2021,IBU SUGENG BIANTORO,IBU ESTI Y. CAHYONO,62-0214611221,0.0,0.0
+temanggung/5527,Terbayar,125000.0,0.0,PEYEK,3,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),16-9-2021,IKA DIAH M,ARI PUSPITA,62-082324237253,0.0,0.0
+jakarta/5528,Terbayar,40000.0,0.0,JRIGEN SAMPO MOBIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),16-9-2021,AGUS,MUH.LISUN,62-82322130535,0.0,0.0
+jakarta/5529,Terbayar,85500.0,0.0,BAGOR ISI BAJU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),16-9-2021,M.HAIKAL,IBU.ENDANG,62-82339597696,0.0,0.0
+Solo/5530,On-Account,44550.0,0.0,Pakaian,1,Dibatalkan,Solo(OBL Tirtonadi),Denpasar(OBL Gunung Agung Denpasar),16-9-2021,Bes blibli solo,Gavin,62-081223467891,0.0,0.0
+Solo/5530,On-Account,-44550.0,-0.0,Pakaian,1,Dibatalkan,Solo(OBL Tirtonadi),Denpasar(OBL Gunung Agung Denpasar),16-9-2021,Bes blibli solo,Gavin,62-081223467891,-0.0,-0.0
+jakarta/5531,Terbayar,40000.0,0.0,KOTAK KECIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),16-9-2021,NURIE,BENGKEL BABAHE,62-0293491195,0.0,0.0
+temanggung/5532,Terbayar,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),16-9-2021,PAPI,ANANDA YANI,62-0000000000000,0.0,0.0
+temanggung/5533,Terbayar,45000.0,0.0,CRIPING,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Renon),16-9-2021,RUTH SARIMAH,SUMIYATI,62-081999380351,0.0,0.0
+temanggung/5534,Terbayar,50000.0,0.0,BUKU,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),16-9-2021,CV NEW FREEDOM,IBU ANIS / P2M,62-081389566406,0.0,0.0
+temanggung/5535,Gratis,0.0,0.0,"ROTI,SUSU",5,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),16-9-2021,PERTAPAAN RAWA SENENG,IBU AMING / TINI,62-0816889766,0.0,0.0
+temanggung/5536,On-Account,70000.0,0.0,MAKANAN,3,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),16-9-2021,Pertapaan rowoseneng,STEPHANUS HIKMAT,62-08161178763,0.0,0.0
+temanggung/5537,On-Account,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),16-9-2021,Pertapaan rowoseneng,KOKO BENY GUNAWAN,,0.0,0.0
+jakarta/5538,Terbayar,130000.0,0.0,"PLASTIK HITAM ISI KORDEN,ALUMUNIUM KORDEN",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),16-9-2021,TOKO MAJDI BARKAH,IBU DELY YUNITA,62-82359125084,0.0,0.0
+temanggung/5539,On-Account,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),16-9-2021,Pertapaan rowoseneng,IVAN,,0.0,0.0
+temanggung/5540,On-Account,45000.0,0.0,MAKANAN,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),16-9-2021,Pertapaan rowoseneng,IBU LENA TANADJAJA,62-08158738719,0.0,0.0
+jakarta/5541,Terbayar,163800.0,0.0,KARUNG HIJAU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),16-9-2021,BADRIAH,MUH.ALI,62-8123739429,0.0,0.0
+temanggung/5542,On-Account,40000.0,0.0,SUSU,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),16-9-2021,Pertapaan rowoseneng,LUCI KUPOK,62-081316776082,0.0,0.0
+surabaya/5543,Gratis,0.0,0.0,2,2,Ditentukan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),16-9-2021,obl sby,obl sby,62-315461667,0.0,0.0
+temanggung/5544,Terbayar,55000.0,0.0,TOMAT CHERRY,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),16-9-2021,MADINA FARM,ALI SOEGIHARTO,62-0000000000000,0.0,0.0
+jakarta/5545,Terbayar,40000.0,0.0,DOC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),16-9-2021,PT.SARANA SUMBER ABADI,PT.PRIMA WANA KREASI WOOD INDUSTRY,62-81227727563,0.0,0.0
+jakarta/5546,Terbayar,922200.0,0.0,"KARDUS KARUNG PUTIH,KARDUS KARUNG PUTIH,KARDUS KARUNG PUTIH,KARDUS KARUNG PUTIH,KARDUS KARUNG PUTIH",5,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),16-9-2021,YOO HEE,OCENG,62-85239747794,0.0,0.0
+jakarta/5547,Terbayar,65000.0,0.0,PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),16-9-2021,WINDAYANI.,REALIS SUDARLIANA,62-85338717908,0.0,0.0
+jakarta/5548,Gratis,0.0,0.0,STEROFOM,6,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),16-9-2021,OBL.PUSAT JAKARTA,PERTAPAAN ROWO SENENG,62-0293491195,0.0,0.0
+jakarta/5549,Terbayar,508170.0,0.0,"KARDUS COKLAT,KARDUS COKLAT,KARDUS COKLAT",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),16-9-2021,EVIE,TIWI,62-89662191165,0.0,0.0
+jakarta/5550,Terbayar,40000.0,0.0,KOTAK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),16-9-2021,VINNA,AMELIA P,62-82226889375,0.0,0.0
+jakarta/5551,Terbayar,40000.0,0.0,PLASTIK HITAM,1,Dipesan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),16-9-2021,MIRA OBL JAKARTA,YESA OBL TMG,62-293495195,0.0,0.0
+jakarta/5552,Terbayar,219600.0,0.0,"KOTAK BAGOR PUTIH,KOTAK BAGOR PUTIH",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),16-9-2021,IBU DENNY,IBU DENNY,62-81293955322,0.0,0.0
+temanggung/5553,Terbayar,45000.0,0.0,PAKAIAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Renon),17-9-2021,INDRIYATI,BPK YUDI SUSANTO,62-085338178538,0.0,0.0
+temanggung/5554,Terbayar,120000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Mataram(OBL MTR),17-9-2021,IBU HARTOMO,IBU ELVI YANUARITA,62-0811285987,0.0,0.0
+jakarta/5555,Terbayar,360000.0,0.0,KARDUS,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),17-9-2021,BP. ANTON.,BALI VENER./ BP. WAYAN ARYA.,62-81916144908,0.0,0.0
+jakarta/5556,Gratis,0.0,0.0,VELK,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),17-9-2021,BP. HENDRO.,BP. GIARTO,62-0293491195,0.0,0.0
+temanggung/5557,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,Wiwiek etyowati,Tatik uptrapti,62-081219368616,0.0,0.0
+temanggung/5558,Gratis,0.0,0.0,doc,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,OBL,Bp Reza,62-0000000000000,0.0,0.0
+surabaya/5559,On-Account,367500.0,0.0,karung,5,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),17-9-2021,Bes blili sby,hub blibli denpasar,62-81359292416,0.0,0.0
+jakarta/5560,Gratis,0.0,0.0,PLASTIK PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),17-9-2021,OBL JAKARTA.,BP. SAIFUL. / OBL BIMA,62-08241777767,0.0,0.0
+temanggung/5561,Terbayar,80000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,Rit YULIANTI,Putri Ayu,62-085729794670,0.0,0.0
+jakarta/5562,Terbayar,78540.0,0.0,BUNGKUS KARUNG.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),17-9-2021,PT. PERFORMA. INDO LESTARI.,LAKSANA MOTOR./ BP. IVAN.,62-81804000500,0.0,0.0
+jakarta/5563,Terbayar,40000.0,0.0,DUS BUNGKUS PLASTIK,1,Dipesan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(Agen Parakan Diponegoro),17-9-2021,SANTHI.,IBU. SUTIKNO.,62-816686889,0.0,0.0
+jakarta/5564,Gratis,0.0,0.0,KARDUS [ KOMPUTER ],1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),17-9-2021,FAUZA.,BP. DAHLAN / IBU MARISSA.,62-085100718399,0.0,0.0
+jakarta/5565,Terbayar,234780.0,0.0,KARDUS BUNGKUS HIJAU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),17-9-2021,HARI.,DEWI.,62-85715378044,0.0,0.0
+jakarta/5566,Terbayar,40000.0,0.0,DOC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),17-9-2021,IBU. SHANTY.,BP. TJHING TJONG GIONG/ HENRY . G,62-0811250333,0.0,0.0
+jakarta/5567,Terbayar,83720.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),17-9-2021,DESI RATNA SARI.,IBU AYU.,62-85238715788,0.0,0.0
+jakarta/5568,Terbayar,77850.0,0.0,PLASTIK MERAH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),17-9-2021,HJ. GAMAR.,NOLY,62-081382397386,0.0,0.0
+temanggung/5569,Terbayar,140000.0,0.0,Jenderal singkong,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,bp Y0t0,Bp ir Suryanto,62-0000000000000,0.0,0.0
+jakarta/5570,Terbayar,40000.0,0.0,KARDUS KECIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),17-9-2021,BP. NURI,BENGKEL BABAHE.,62-81319501168,0.0,0.0
+temanggung/5571,Terbayar,45000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,ibu Christin,ibu Maya,62-081511643833,0.0,0.0
+jakarta/5572,Terbayar,270300.0,0.0,KARDUS,11,Dibatalkan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),17-9-2021,PT. ENVIRO ENERGI LESTARI,BP. DASMA BANJAR NAHOR,62-8111041959,0.0,0.0
+jakarta/5572,Terbayar,-270300.0,-0.0,KARDUS,11,Dibatalkan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),17-9-2021,PT. ENVIRO ENERGI LESTARI,BP. DASMA BANJAR NAHOR,62-8111041959,-0.0,-0.0
+temanggung/5573,On-Account,180000.0,0.0,susu dan makanan,6,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,Pertapaan rowoseneng,Desi Fandi,62-082122441126,0.0,0.0
+jakarta/5574,Terbayar,127050.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),17-9-2021,IBU SUNDARI,BP. SUDARSONO,62-81578925193,0.0,0.0
+temanggung/5575,Terbayar,40000.0,0.0,buah,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,Madina farm,Ali ugiharto,62-0000000000000,0.0,0.0
+temanggung/5576,Terbayar,75000.0,0.0,TAS,5,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,LOQOLA,IBU SASHA AB,62-0000000000000,0.0,0.0
+temanggung/5577,On-Account,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,Pertapaan rowoseneng,VERA SUPRIYADI,62-081383988768,0.0,0.0
+jakarta/5578,Terbayar,55000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),17-9-2021,C.V.CAHAYA ABADI,PT.FLAMBOYAN BALI,62-0361254672,0.0,0.0
+temanggung/5579,Terbayar,173000.0,0.0,mamakanankanan,1,Dibatalkan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,mam,Rosna,62-000000000000,0.0,0.0
+temanggung/5579,Terbayar,-173000.0,-0.0,mamakanankanan,1,Dibatalkan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,mam,Rosna,62-000000000000,-0.0,-0.0
+temanggung/5580,Terbayar,120000.0,0.0,Buah,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,mama,Hanny,62-0000000000000,0.0,0.0
+surabaya/5581,Gratis,0.0,0.0,kardus,2,Ditentukan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),17-9-2021,jondan,Fauza Amir,62-082257477406,0.0,0.0
+temanggung/5582,Terbayar,40000.0,0.0,mainan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,aulia Restiana,Balqis Tiara,62-0000000000000,0.0,0.0
+temanggung/5583,Terbayar,100000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,MAM,Rosna,62-0000000000000,0.0,0.0
+temanggung/5584,Gratis,0.0,0.0,doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),17-9-2021,fr Blaius,bp Trimo,62-0000000000000,0.0,0.0
+jakarta/5585,Terbayar,290680.0,0.0,"KARDUS,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),18-9-2021,ANUGRAH CAHAYA ABADI,BALAI BESAR PENGAWASAN OBAT DAN MAKANAN,62-0361223763,0.0,0.0
+jakarta/5586,Terbayar,221900.0,0.0,"KARUNG HIJAU,KARUNG PUTIH",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),18-9-2021,BP. UMAR.,NUR HIDAYATI.,62-81995895108,0.0,0.0
+surabaya/5587,Terbayar,50000.0,0.0,kardus,1,Dibatalkan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),18-9-2021,daniel kurnia,yuli crisstiawan,62-085741563160,0.0,0.0
+surabaya/5587,Terbayar,-50000.0,-0.0,kardus,1,Dibatalkan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),18-9-2021,daniel kurnia,yuli crisstiawan,62-085741563160,-0.0,-0.0
+jakarta/5588,Terbayar,221830.0,0.0,"KARDUS,KARDUS,KARDUS",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),18-9-2021,ETIK,PENI MARDIKAWATI,62-81230651505,0.0,0.0
+jakarta/5589,Terbayar,56000.0,0.0,PLASTIK HITAM.,1,Dipesan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(Agen Parakan Diponegoro),18-9-2021,SUMARYONO.,RAFAEL.,62-82136321002,0.0,0.0
+jakarta/5590,Terbayar,1373190.0,0.0,ALAT OLAHRAGA,1,Tidak Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),18-9-2021,FATIHY FARHANY,FATHY FARHANY,62-85691381774,0.0,0.0
+jakarta/5591,Terbayar,505000.0,0.0,DRIGEN  DI KARUNGIN,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),18-9-2021,ANTO TRI GONA.,BP. MADE CUPLIS.,62-81238702912,0.0,0.0
+surabaya/5592,Terbayar,50000.0,0.0,Kardus,1,Dipesan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),18-9-2021,Daniel kurnia,Yuli Cristiawan,62-85741563160,0.0,0.0
+jakarta/5593,Terbayar,50000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),18-9-2021,MULYA AYAL. .,BP. WELLEM AYAL.,62-85282894420,0.0,0.0
+surabaya/5594,Terbayar,50000.0,0.0,kardus,1,Dipesan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),18-9-2021,anne,lak widagdo,62-82222222,0.0,0.0
+surabaya/5595,Terbayar,50000.0,0.0,kardus,1,Dipesan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),18-9-2021,cv cahaya citra surya indoprima,pt dharma satya nusantara,62-315040287,0.0,0.0
+jakarta/5596,Gratis,0.0,0.0,AMPLOP PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),18-9-2021,OBL.PUSAT JAKARTA,BP.SARFAN,62-85238531019,0.0,0.0
+temanggung/5597,On-Account,405000.0,0.0,makanan,14,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,Pertapaan rowoseneng,Thres Gosal,62-0000000000000,0.0,0.0
+temanggung/5598,On-Account,320000.0,0.0,makanan,11,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,Pertapaan rowoseneng,Liliana,62-08161387525,0.0,0.0
+temanggung/5599,Gratis,0.0,0.0,doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,OBL,Bp Hendro,62-0000000000000,0.0,0.0
+temanggung/5604,Terbayar,40000.0,0.0,doc,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,papi,mbak Yani,62-0000000000000,0.0,0.0
+temanggung/5605,Terbayar,55000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,Mirasa,ib Wenny,62-08129555889,0.0,0.0
+temanggung/5606,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,Mama,Nichol,62-081210294170,0.0,0.0
+jakarta/5607,Gratis,0.0,0.0,KADO KECIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),18-9-2021,IBU.YATI,BP.BUDI HARTOMO,62-0293491195,0.0,0.0
+jakarta/5608,Gratis,0.0,0.0,DOKUMEN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),18-9-2021,OBL.PUSAT JAKARTA,BP.ADINTA SANTOSA,62-0293491195,0.0,0.0
+jakarta/5609,Terbayar,403350.0,0.0,"BUNGKUS KARUNG,BUNGKUS KARUNG,BUNGKUS KARUNG",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),18-9-2021,JOSU CELL.,TECHNO NY LIVE,62-81210107033,0.0,0.0
+jakarta/5610,Terbayar,995000.0,0.0,KARUNG,6,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),18-9-2021,BERKAH AJI,APOTIK CAHAYA.,62-81933068050,0.0,0.0
+jakarta/5611,Terbayar,40000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),18-9-2021,IKE . S.,TJHING TJ0NG GIONG.,62-811282290,0.0,0.0
+temanggung/5612,On-Account,80000.0,0.0,makanan dan susu,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,Pertapaan rowoseneng,Veronica Nani Mulyati,62-08176581158,0.0,0.0
+jakarta/5613,Terbayar,40000.0,0.0,SPARE PATS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),18-9-2021,NURIE,WAWAN,62-0293491195,0.0,0.0
+temanggung/5614,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,Pertapaan rowoseneng,Benidektus Gunawan,62-083144131117,0.0,0.0
+temanggung/5615,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,Pertapaan rowoseneng,Bernadus Ji Achdiat,62-08118788068,0.0,0.0
+jakarta/5616,Terbayar,52000.0,0.0,KARDUS ISI PAKAIAN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),18-9-2021,NINIK,MAMA HARSONO,62-89612800800,0.0,0.0
+temanggung/5617,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,toko daniel,Daniel A Wibowo,62-08122756412,0.0,0.0
+jakarta/5618,Terbayar,524440.0,0.0,"ROLL,ROLL,HPL",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),18-9-2021,DAVID FERIYANDI.,ISMU WIHADI,62-81325369855,0.0,0.0
+temanggung/5619,Terbayar,96000.0,0.0,ikan 1,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,Dany Artadi,Amalia AP,62-089628091914,0.0,0.0
+temanggung/5620,Terbayar,60000.0,0.0,ikan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),18-9-2021,Dani Artadi,Amalia,62-0000000000000,0.0,0.0
+Solo/5621,Terbayar,50000.0,0.0,obat,1,Dipesan,Solo(OBL Tirtonadi),Denpasar(OBL Renon),18-9-2021,beni,nawang,62-85725550585,0.0,0.0
+temanggung/5622,Terbayar,60000.0,0.0,miniatur2,2,Ditentukan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),18-9-2021,MINIATUr artwork,Bp Danie Kurnia,62-081223801126,0.0,0.0
+jakarta/5623,Gratis,0.0,0.0,AMPLOP PUTIH ISI STNK,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),18-9-2021,Mas Noel,MR.OENTOYO,62-0293491195,0.0,0.0
+jakarta/5624,Terbayar,252620.0,0.0,"KARDUS,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),18-9-2021,BAYU,BAYU,62-81339346971,0.0,0.0
+jakarta/5625,Terbayar,361200.0,0.0,"KARDUS COKLAT,KARDUS COKLAT",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),18-9-2021,TITIN SUPENTI,DESI FEBRYANTI,62-81806108689,0.0,0.0
+jakarta/5626,Terbayar,60000.0,0.0,KARDUS ISI PAKAIAN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),18-9-2021,MUH.FURGAN,FITRAHTUNNISA,62-85338043622,0.0,0.0
+jakarta/5627,Gratis,0.0,0.0,KARET PINTU,1,Dipesan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),18-9-2021,GARASI GAPLEK,BP.GIYARTO,62-0293491195,0.0,0.0
+jakarta/5628,Terbayar,65000.0,0.0,KOTAK HITAM ISI ROLL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),18-9-2021,OCTHA,MBA.HARTUTI,62-82340530387,0.0,0.0
+temanggung/5629,Terbayar,45000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),19-9-2021,maya,ibu emmy,62-081316602439,0.0,0.0
+jakarta/5630,Terbayar,159000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),19-9-2021,SUJOKO,H.PANGGU GANI,62-82340858052,0.0,0.0
+jakarta/5631,Terbayar,40000.0,0.0,KARDUS HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),19-9-2021,RAYAN,TOKO MEBEL MUTIARA,62-82129027700,0.0,0.0
+jakarta/5632,Terbayar,608850.0,0.0,"KARDUS COKLAT,KARDUS COKLAT",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),19-9-2021,BP.JAYA,IBU.HADIJAH,62-85337831065,0.0,0.0
+jakarta/5633,Terbayar,58300.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),19-9-2021,ATIK,IRIANDONO,62-81328585194,0.0,0.0
+jakarta/5634,Terbayar,874950.0,0.0,"KOTAK KAYU.KARDUS,KARDUS SUSUN,KARDUS GUDANG GARAM,KARDUS GUDANG GARAM",5,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),19-9-2021,SERLI,JAHARA,62-87863748583,0.0,0.0
+jakarta/5635,Terbayar,115640.0,0.0,KARUNG PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),19-9-2021,DIVYA,NURMAWATI,62-87841912553,0.0,0.0
+jakarta/5636,Terbayar,83270.0,0.0,STEROFOM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),19-9-2021,IKE S,TJHING TJONG GIONG,62-811282290,0.0,0.0
+jakarta/5637,Terbayar,67210.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),19-9-2021,WIDURI,SUSANA,62-293491316,0.0,0.0
+jakarta/5638,Gratis,0.0,0.0,KARDUS SNK,5,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),19-9-2021,IBU SUSI OBL JAKARTA,BP AGUS HRD,62-293491195,0.0,0.0
+jakarta/5639,Terbayar,40000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),19-9-2021,SRIYONO,SODIKIN,62-87738937389,0.0,0.0
+jakarta/5640,Terbayar,76340.0,0.0,STEROFOM MERAH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),19-9-2021,GATHAN DAN  PRINCESSNAJE,BP.BUDI.P ( METRIC ),62-85643548199,0.0,0.0
+surabaya/5641,Gratis,0.0,0.0,kardus,1,Dipesan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),19-9-2021,jondan,Fauza Amir,62-82222222,0.0,0.0
+surabaya/5642,Terbayar,85500.0,0.0,kardus,2,Dipesan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),19-9-2021,mbk nah,Fauza Amir,62-82222222,0.0,0.0
+jakarta/5643,Terbayar,65520.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),19-9-2021,PT.PROSTERRA CITRA ANUGRAH,I GUSTI AGUNG BUDI DHARMA,62-81803650066,0.0,0.0
+jakarta/5644,Terbayar,170000.0,0.0,KOTAK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),19-9-2021,YUNI PRATIWI UTAMI,KUSNARDI,62-85934280888,0.0,0.0
+surabaya/5645,Terbayar,50400.0,0.0,kardus,1,Dipesan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),19-9-2021,silvia,zodiak,62-315030913,0.0,0.0
+jakarta/5646,Terbayar,191000.0,0.0,KARDUS MESIN AIR,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),19-9-2021,TOPEK,BP SIDIK,62-81269390850,0.0,0.0
+jakarta/5647,Terbayar,184000.0,0.0,"KARDUS,KARDUS",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),19-9-2021,HENDRO,RETNO,62-293363993,0.0,0.0
+jakarta/5648,Terbayar,40000.0,0.0,KANTONG  MERAH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),19-9-2021,FEBRIYANTI LESMANA,DIDI ROHANI,62-81328644889,0.0,0.0
+temanggung/5649,Gratis,0.0,0.0,amplop besar,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,obl,bp Hendro,62-0000000000000,0.0,0.0
+jakarta/5650,Terbayar,77700.0,0.0,KARDUS.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),20-9-2021,SURYATI,ROSITA,62-82112782527,0.0,0.0
+jakarta/5651,Terbayar,204000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),20-9-2021,NABAWI HERBA,BAHRUL ULUM AHMAD.,62-87864506761,0.0,0.0
+temanggung/5652,Terbayar,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,arlin alviana,DITA FEBRIANTI,62-089648699534,0.0,0.0
+jakarta/5653,Terbayar,210000.0,0.0,KARUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),20-9-2021,ASTUTI,FAHMI / TRI H.,62-81311243396,0.0,0.0
+surabaya/5654,Terbayar,85500.0,0.0,Kardus Indomie,1,Dipesan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),20-9-2021,mbk nah,Fauza Amir,62-82222222,0.0,0.0
+jakarta/5655,Terbayar,40000.0,0.0,KARDU VIT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),20-9-2021,PT.GELORA CITRA KIMIA,PT.GELORA CITRA KIMIA ABADI,62-2933219966,0.0,0.0
+temanggung/5656,Terbayar,45000.0,0.0,bawang,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),20-9-2021,MAHMUDI,rRiziq,62-087761857192,0.0,0.0
+jakarta/5657,Terbayar,220220.0,0.0,PLASTIK HITAM.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),20-9-2021,EMY.,AGUS  / DONO.,62-82325570158,0.0,0.0
+jakarta/5658,Terbayar,131100.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),20-9-2021,H.WAHAB NURDIN,HJ.SRI HARTATI H.ABIDIN,62-81320778878,0.0,0.0
+jakarta/5659,Terbayar,181940.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),20-9-2021,RENI OKTAVIA,PRISCILLA SAPUTRO. / BATIK NYONYA INDO,62-81227227100,0.0,0.0
+temanggung/5660,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,wr Liem,Ratna Foeng,62-08170818711,0.0,0.0
+temanggung/5661,Gratis,0.0,0.0,ampl0p \STNK,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Oentoyo,anak Noel,62-0000000000000,0.0,0.0
+temanggung/5662,Gratis,0.0,0.0,amplop STNK,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Oentoyo,anak Noel,62-0000000000000,0.0,0.0
+temanggung/5663,Gratis,0.0,0.0,amplop,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,OBL,Bp Reza,62-0000000000000,0.0,0.0
+temanggung/5664,Terbayar,155000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,ibu Jubaini,Ika,62-08158753073,0.0,0.0
+temanggung/5665,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Pertapaan rowoseneng,kawan lis kurniasaih,62-081806501958,0.0,0.0
+temanggung/5666,On-Account,120000.0,0.0,makanan4,4,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Pertapaan rowoseneng,ibu Nina,62-0000000000000,0.0,0.0
+temanggung/5667,On-Account,40000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Pertapaan rowoseneng,AI,62-081287959299,0.0,0.0
+temanggung/5668,On-Account,240000.0,0.0,susu dan makanan,9,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Pertapaan rowoseneng,Sinta,62-08161680379,0.0,0.0
+temanggung/5669,On-Account,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Pertapaan rowoseneng,KAWAN DEWI HANDOKO,62-0816657319,0.0,0.0
+temanggung/5670,On-Account,60000.0,0.0,MAKANAN,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Pertapaan rowoseneng,BRUDER PETRUS PATRONI,62-0214401928,0.0,0.0
+temanggung/5671,On-Account,40000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Pertapaan rowoseneng,AI,62-081328882028,0.0,0.0
+temanggung/5672,On-Account,40000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Pertapaan rowoseneng,AI,62-081287959299,0.0,0.0
+jakarta/5673,Terbayar,50000.0,0.0,kotak kardus kecil,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),20-9-2021,MC QUEEN,ibu Ita,62-821459999050,0.0,0.0
+jakarta/5674,Terbayar,117000.0,0.0,KARUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),20-9-2021,PT. SINAR MUTIARA . EPC.,PT. AKR CORPORINDO,62-81284843838,0.0,0.0
+temanggung/5675,On-Account,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Pertapaan rowoseneng,AI,62-081287959299,0.0,0.0
+temanggung/5676,Gratis,0.0,0.0,doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,OBL,Bp Reza,62-0000000000000,0.0,0.0
+temanggung/5677,On-Account,240000.0,0.0,MAKANAN,9,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Pertapaan rowoseneng,SINTA,62-08161680379,0.0,0.0
+jakarta/5678,Terbayar,40000.0,0.0,KOTAK KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),20-9-2021,NURIE,BENGKEL BABAHE,62-0293491195,0.0,0.0
+temanggung/5679,Gratis,0.0,0.0,doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,OBL,bp Reza,62-0000000000000,0.0,0.0
+temanggung/5680,Gratis,0.0,0.0,AMPLOP,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,OBL,BP REZA,62-0000000000000,0.0,0.0
+temanggung/5681,Gratis,0.0,0.0,DOKUMEN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,obl temanggung,PAK REZA,62-000000000000,0.0,0.0
+temanggung/5682,Terbayar,90000.0,0.0,KARDUS,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,HERMAN SUJADI,RATNA YULIANA,62-082113000778,0.0,0.0
+temanggung/5683,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Lian,bpBUdi Setiawan,62-0000000000000,0.0,0.0
+temanggung/5684,Terbayar,45000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,Giok Lian,Tante Chritine,62-081215356679,0.0,0.0
+temanggung/5685,Terbayar,45000.0,0.0,KARDUS,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,GIOK LIAN,TANTE CHRITINE,62-08125356679,0.0,0.0
+temanggung/5686,Terbayar,45000.0,0.0,KARDUS,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),20-9-2021,GIOK LIAN,TANTE CHRISTINE,62-081215356679,0.0,0.0
+jakarta/5687,Gratis,0.0,0.0,KARDUS AQUA KECIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),20-9-2021,BP.HENDRO DHARMO YUWONO,BP. ARI,,0.0,0.0
+surabaya/5688,On-Account,46550.0,0.0,Karung,1,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),20-9-2021,Bes blili sby,Blibli HUB Denpasar,62-81359292416,0.0,0.0
+temanggung/5689,Terbayar,95000.0,0.0,BAD COVER 7 KERDUS,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,AULIA RESTANIA,BALQIS TIARA J,62-082133603699,0.0,0.0
+temanggung/5690,Terbayar,170000.0,0.0,KERIPIK,3,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,WARUNG LIEM,ENRICA INDRIYANI,62-08111008222,0.0,0.0
+jakarta/5691,Terbayar,330550.0,0.0,"KARDUS.,KARDUS,KARDUS,KARDUS,KARDUS BUNGKUS PLASTIK",5,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),21-9-2021,PT. ZETA UTAMA SATYA.,PT. ZETA UTAMA SATYA.,62-87839143195,0.0,0.0
+jakarta/5692,Terbayar,3215000.0,0.0,KARDUS BUNGKUS KARUNG.,14,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),21-9-2021,ASEP,V I T A,62-82339797781,0.0,0.0
+temanggung/5693,Terbayar,80000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,BPK TEGUH,PRAMITA ELFA,62-081282049167,0.0,0.0
+jakarta/5694,Terbayar,58500.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),21-9-2021,D PARIS JAKARTA,TEGUH D PARIS SURABAYA,62-0821394442621,0.0,0.0
+jakarta/5695,Gratis,0.0,0.0,DOC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),21-9-2021,SUSI OBL JAKARTA,PAK YANTO,62-81578500225,0.0,0.0
+temanggung/5696,Terbayar,40000.0,0.0,doc,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,AL Sugiri,bp  s uwartono,62-081310282828,0.0,0.0
+temanggung/5697,On-Account,70000.0,0.0,dus coklat,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Pertapaan rowoseneng,Lanni\Harry,62-081310684999,0.0,0.0
+temanggung/5698,On-Account,190000.0,0.0,makanan,4,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Pertapaan rowoseneng,Lily Aslim,62-0811854658,0.0,0.0
+temanggung/5699,On-Account,70000.0,0.0,kardus coklat,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Pertapaan rowoseneng,suster Margaretha FSGM,62-08128092347,0.0,0.0
+temanggung/5700,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Yohanes M Biyarto,Alfonso galih prahesti,62-08562562034,0.0,0.0
+jakarta/5701,Terbayar,217620.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),21-9-2021,RODA MAS MOTOR,PT. DIGI FON. [MISS. ELVANA.],62-82298930747,0.0,0.0
+temanggung/5702,On-Account,65000.0,0.0,makanan,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Pertapaan rowoseneng,Ratna B,62-0816701680,0.0,0.0
+jakarta/5703,Terbayar,298610.0,0.0,DUS BUNGKUS KARUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),21-9-2021,BATIK PARANG KENCANA.,BATIK PARANG KENCANA.,62-0361752494,0.0,0.0
+temanggung/5704,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Pertapaan rowoseneng,ibu Nina,62-0818471547,0.0,0.0
+temanggung/5705,Terbayar,40000.0,0.0,doc,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Nita S,IBU Minar,62-0000000000000,0.0,0.0
+temanggung/5706,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Christin,ibu Riana,62-08129692712,0.0,0.0
+temanggung/5707,Terbayar,40000.0,0.0,pakaian,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,bambang panuju muritno,Hascaryo Rat Kusumo,62-08119440900,0.0,0.0
+jakarta/5708,Terbayar,66330.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),21-9-2021,IBU. RINI,WULAN - KONTA.,62-895606314231,0.0,0.0
+temanggung/5709,Gratis,0.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,obl,BP Hendro,62-0000000000000,0.0,0.0
+surabaya/5710,Terbayar,72000.0,0.0,kardus,1,Dipesan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),21-9-2021,universal elektronik,bu yuli,62-315322810,0.0,0.0
+jakarta/5711,Terbayar,136950.0,0.0,"KARDUS,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),21-9-2021,ACAI,ISABELLA PRATAMA.,62-81290010222,0.0,0.0
+temanggung/5712,Terbayar,95000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Lestari,Rahayu praptiningsih,62-0000000000000,0.0,0.0
+temanggung/5713,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Pertapaan rowoseneng,ibu Budi antoso,62-087885182316,0.0,0.0
+temanggung/5714,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Pertapaan rowoseneng,bp Frans utrisno,62-0816907785,0.0,0.0
+temanggung/5715,Terbayar,100000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Mam,ROSNA,62-0000000000000,0.0,0.0
+temanggung/5716,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Pertapaan rowoseneng,bu Linda,62-08161846111,0.0,0.0
+temanggung/5717,On-Account,80000.0,0.0,susu dan makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Pertapaan rowoseneng,ibu Yovita,62-08161112839,0.0,0.0
+temanggung/5718,On-Account,80000.0,0.0,susu dan makanan,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Pertapaan rowoseneng,ibu ibowo,62-0000000000000,0.0,0.0
+temanggung/5719,Terbayar,80000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),21-9-2021,Rita yulianti,putri Ayu,62-085729794670,0.0,0.0
+jakarta/5720,Gratis,0.0,0.0,PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),21-9-2021,SAFARI DHARMA SAKTI /MBAK MIRA,AYESA DELAINA,62-0293491195,0.0,0.0
+jakarta/5721,Terbayar,79000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),21-9-2021,HAMDAN,NURUL FITRIANI,62-82340087799,0.0,0.0
+temanggung/5722,On-Account,160000.0,0.0,makanan,5,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),21-9-2021,Pertapaan rowoseneng,Mame Astari,62-0818353611,0.0,0.0
+jakarta/5723,Terbayar,162510.0,0.0,"STEROFOM,KARDUS,KARDUS",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),21-9-2021,SALLY,HARYANTO,62-81228575758,0.0,0.0
+jakarta/5724,Terbayar,40000.0,0.0,SHOCK BEKR KECIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),21-9-2021,KUNCORO,BENGKEL BABAHE,62-02933219966,0.0,0.0
+jakarta/5725,Terbayar,95000.0,0.0,KARDUS PANJANG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Singaraja(OBL Singaraja),21-9-2021,PT MILENIAL,BP SANTIKA,62-81237495233,0.0,0.0
+surabaya/5726,On-Account,49000.0,0.0,karung,1,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),21-9-2021,Bes blili sby,Bes blibli dps,62-6281359292416,0.0,0.0
+temanggung/5727,Terbayar,45000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Renon),22-9-2021,IBU TUTIK,ANANDA CHOIRI/ IDA SURYANI,62-081339596358,0.0,0.0
+jakarta/5728,Terbayar,415000.0,0.0,KARDUS DI IKAT.,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),22-9-2021,BP. AGUS SUJIANTO,LENY SUSANTI,62-81311452991,0.0,0.0
+jakarta/5729,Gratis,0.0,0.0,DOC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),22-9-2021,PT. SAFARI DHARMA SAKTI,BP. ANTOK  / JONDAN.,62-82233799928,0.0,0.0
+temanggung/5730,Terbayar,45000.0,0.0,kop,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),22-9-2021,Muji Iryanti,Linda,62-0000000000000,0.0,0.0
+jakarta/5731,Terbayar,90000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),22-9-2021,ZODIAK,NY. SYLVIA,62-818311533,0.0,0.0
+temanggung/5732,Terbayar,50000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),22-9-2021,V Ze,Karen,62-08978060029,0.0,0.0
+jakarta/5733,Terbayar,1058720.0,0.0,"KARUNG,KARUNG.,KARDUS,KARDUS",4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),22-9-2021,HARTINI,MUHAMAD NUR.,62-85333182833,0.0,0.0
+jakarta/5734,Terbayar,71640.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Malang(OBL MLG),22-9-2021,MASENAH,ROBI DAN NANA,62-81310722600,0.0,0.0
+jakarta/5735,Terbayar,81620.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),22-9-2021,ROCKY,TOKO  37,62-0293493431,0.0,0.0
+temanggung/5736,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),22-9-2021,Pertapaan rowoseneng,Theresia Maria Setiawan,62-08217500454,0.0,0.0
+jakarta/5737,Terbayar,135000.0,0.0,PLASTIK HIJAU DI LAKBAN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),22-9-2021,U L F A,HAJI  ERNI,62-85333356602,0.0,0.0
+jakarta/5738,Terbayar,170400.0,0.0,KARUNG HIJAU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),22-9-2021,ANINDYA SHAKYLA.,BIDAN  ANALIA.,62-85338011180,0.0,0.0
+jakarta/5739,Terbayar,95290.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),22-9-2021,ADA LIMA BALON.,DEWA PUTU ARIANA,62-81238106785,0.0,0.0
+jakarta/5740,Terbayar,173470.0,0.0,TAS BESAR MERAH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),22-9-2021,IDA,HANISTA,62-81999332672,0.0,0.0
+jakarta/5741,Terbayar,75900.0,0.0,KARUNG PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),22-9-2021,IBU UKE,M FATHIR/DEVI,62-82278296668,0.0,0.0
+jakarta/5742,Terbayar,40000.0,0.0,DOC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),22-9-2021,HERU AGUS SUSILO,NAZIHUDDIN   AL  ZUHUD,62-85711151809,0.0,0.0
+temanggung/5743,Terbayar,240000.0,0.0,kerupuk sayur,3,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),22-9-2021,BP Tulus,gudeg bu Iin,62-081281757621,0.0,0.0
+jakarta/5744,Terbayar,708000.0,0.0,KARDUS,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),22-9-2021,TAMI.,IBU. DENTY EKA WIDI PRATIWI.,62-85228664878,0.0,0.0
+jakarta/5745,Terbayar,146250.0,0.0,PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),22-9-2021,RACHMAWATI NUGROHO,IBUNDA HJ. SYARIFAH,62-85205606209,0.0,0.0
+temanggung/5746,Gratis,0.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),22-9-2021,OBL TMG,ibu Sally,62-0000000000000,0.0,0.0
+jakarta/5747,Terbayar,265500.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),22-9-2021,ERNI HOHAN.,SURYANI  H. MUHTAR.,62-85333235333,0.0,0.0
+temanggung/5748,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),22-9-2021,Pertapaan rowoseneng,Indra Suryadi,62-08999838509,0.0,0.0
+temanggung/5749,Gratis,0.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),22-9-2021,OBL TMG,ibu Sally,62-0000000000000,0.0,0.0
+jakarta/5750,Terbayar,128000.0,0.0,KARUNG PLASTIK,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),22-9-2021,BP.  AJI BUDIONO,BP. AGUS BUDIONO,62-85228486288,0.0,0.0
+temanggung/5751,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),22-9-2021,Mam,Rosna,62-0000000000000,0.0,0.0
+temanggung/5752,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),22-9-2021,Christin,ibu Vivi,62-08118426311,0.0,0.0
+surabaya/5753,Terbayar,249750.0,0.0,petis,4,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),22-9-2021,travel surya jember,bu lilik,62-0852231393084,0.0,0.0
+jakarta/5754,Terbayar,65000.0,0.0,PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),22-9-2021,WINDAYANI,IBU MILAWATI,62-81210093930,0.0,0.0
+jakarta/5755,Terbayar,300000.0,0.0,KARDUS PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),22-9-2021,FAKAR DEKORASI,ISMIYATI,62-81338008046,0.0,0.0
+surabaya/5756,Gratis,0.0,0.0,kardus,1,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),22-9-2021,jondan,Fauza Amir,62-08222222,0.0,0.0
+jakarta/5757,Terbayar,40000.0,0.0,AMPLOP,1,Dibatalkan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),22-9-2021,ROY,CIK KIAT,62-293491195,0.0,0.0
+jakarta/5757,Terbayar,-40000.0,-0.0,AMPLOP,1,Dibatalkan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),22-9-2021,ROY,CIK KIAT,62-293491195,-0.0,-0.0
+surabaya/5758,On-Account,77000.0,0.0,karung,1,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),22-9-2021,Bes blili sby,Bes blibli dps,62-6281359292416,0.0,0.0
+temanggung/5759,Terbayar,40000.0,0.0,MAKANAN TONG CU PIA,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),23-9-2021,LAURA,IBU KWIK SIEN HWA,62-0811881245,0.0,0.0
+temanggung/5760,Gratis,0.0,0.0,SURAT,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),23-9-2021,TICKETING TMG,BP. REZA / IBU ANIK,62-0000000000000,0.0,0.0
+surabaya/5761,Terbayar,70000.0,0.0,kardus,1,Ditentukan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),23-9-2021,sumber agung,christine,62-087734120199,0.0,0.0
+surabaya/5762,Terbayar,130005.0,0.0,kardus,1,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),23-9-2021,muhammad ali,sardar habibur rahman,62-087822536042,0.0,0.0
+temanggung/5763,Terbayar,40000.0,0.0,ROTI,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),23-9-2021,IMER,IBU LINDA,62-0811823823,0.0,0.0
+surabaya/5764,Terbayar,87750.0,0.0,kardus,1,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),23-9-2021,"drs h warsito,mm","astrid warsito ,msc",62-0217394160,0.0,0.0
+temanggung/5765,Terbayar,65000.0,0.0,KECAP,1,Dipesan,Temanggung Regency(OBL Diponegoro),Mataram(OBL MTR),23-9-2021,AGUS BUNTORO,BENNY PERMANA,62-085643252656,0.0,0.0
+obl/5766,Terbayar,70000.0,0.0,kardus,2,Dibatalkan,Singaraja(OBL Singaraja),Magelang(OBL MGL),23-9-2021,wahyu,rahman,62-085672354987,0.0,0.0
+obl/5766,Terbayar,-70000.0,-0.0,kardus,2,Dibatalkan,Singaraja(OBL Singaraja),Magelang(OBL MGL),23-9-2021,wahyu,rahman,62-085672354987,-0.0,-0.0
+obl/5767,Terbayar,145000.0,0.0,karung,2,Dibatalkan,Singaraja(OBL Singaraja),JAKARTA(OBL Kebayoran Lama),23-9-2021,wahyu,budi,62-82236214771,0.0,0.0
+obl/5767,Terbayar,-145000.0,-0.0,karung,2,Dibatalkan,Singaraja(OBL Singaraja),JAKARTA(OBL Kebayoran Lama),23-9-2021,wahyu,budi,62-82236214771,-0.0,-0.0
+obl/5768,Terbayar,135000.0,0.0,koper,2,Dibatalkan,Singaraja(OBL Singaraja),JAKARTA(OBL Kebayoran Lama),23-9-2021,jarwo,ida,62-85338484878,0.0,0.0
+obl/5768,Terbayar,-135000.0,-0.0,koper,2,Dibatalkan,Singaraja(OBL Singaraja),JAKARTA(OBL Kebayoran Lama),23-9-2021,jarwo,ida,62-85338484878,-0.0,-0.0
+jakarta/5769,Terbayar,65000.0,0.0,KARDUS SEDANG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),23-9-2021,EVAN DISTRO,NASRUDIN,62-82111344122,0.0,0.0
+jakarta/5770,Gratis,0.0,0.0,KOTAK KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),23-9-2021,IBU YANI,IBU KIAT,62-293491195,0.0,0.0
+jakarta/5771,Terbayar,45000.0,0.0,KARDUS,13,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),23-9-2021,RUDY HARTONO,BP. GEORGE KURNIAWAN,62-081288557809,0.0,0.0
+jakarta/5772,Terbayar,158400.0,0.0,KARDUS.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),23-9-2021,SAMSUL.,RIZA NURLAILA.,62-85253726999,0.0,0.0
+temanggung/5773,On-Account,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),23-9-2021,Pertapaan rowoseneng,POERNOMO,62-0811856578,0.0,0.0
+jakarta/5774,Terbayar,40000.0,0.0,KARDUS STECKER,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),23-9-2021,NURIE,BENGKEL BABAHE,,0.0,0.0
+temanggung/5775,On-Account,50000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),23-9-2021,Pertapaan rowoseneng,INA WAHYUNINGSIH,62-087877203567,0.0,0.0
+temanggung/5776,On-Account,50000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),23-9-2021,Pertapaan rowoseneng,INDRIATI ARMAN,62-081808810157,0.0,0.0
+temanggung/5777,Terbayar,85000.0,0.0,CRIPING,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),23-9-2021,JEFRFRY  HARYANTO,ASAD GIBRAN,62-083867558484,0.0,0.0
+temanggung/5778,On-Account,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),23-9-2021,Pertapaan rowoseneng,KAWAN RATNA B,62-0816701680,0.0,0.0
+temanggung/5779,On-Account,50000.0,0.0,1,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),23-9-2021,Pertapaan rowoseneng,KAWAN LIA,62-081908742230,0.0,0.0
+jakarta/5780,Terbayar,40000.0,0.0,AMPLOP PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),23-9-2021,LAURENT,BP. SYAM / BENGKEL BABAHE.,62-81328639755,0.0,0.0
+temanggung/5781,On-Account,50000.0,0.0,MAKANAN,1,Dipesan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),23-9-2021,Pertapaan rowoseneng,KAWAN ALICIA DAN KELG,62-08155100168,0.0,0.0
+jakarta/5782,Terbayar,93000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),23-9-2021,BEST INK,BINTANG PRINT /IBU HALIMAH.,62-85338927005,0.0,0.0
+jakarta/5783,Terbayar,40000.0,0.0,KOTAK STEROFOM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),23-9-2021,DR ROSA,DR IRAWAN,62-8129699888,0.0,0.0
+obl/5784,Terbayar,95000.0,0.0,kardus,2,Dibatalkan,Singaraja(OBL Singaraja),Magelang(OBL MGL),23-9-2021,wahyu,budi,62-85673456123,0.0,0.0
+obl/5784,Terbayar,-95000.0,-0.0,kardus,2,Dibatalkan,Singaraja(OBL Singaraja),Magelang(OBL MGL),23-9-2021,wahyu,budi,62-85673456123,-0.0,-0.0
+jakarta/5785,Gratis,0.0,0.0,TIKET,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),23-9-2021,SUSI OBL JAKARTA,IBU NINGSIH,62-293491195,0.0,0.0
+obl/5786,Terbayar,90000.0,0.0,kardus dan koper,3,Ditentukan,Singaraja(OBL Singaraja),Yogyakarta(OBL Janti),23-9-2021,ade resaldi,bambang irianto,62-8122515171,0.0,0.0
+jakarta/5787,Terbayar,89980.0,0.0,KARDUS CHAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),23-9-2021,ROSNA,MAMI,,0.0,0.0
+temanggung/5788,Terbayar,40000.0,0.0,DOKUMEN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),23-9-2021,MAMI TMG,IBU YANI,,0.0,0.0
+jakarta/5789,Terbayar,284050.0,0.0,"KARDUS,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),23-9-2021,AMALA DEWI,COK BAGUS KARYA NEGARA,62-81239349109,0.0,0.0
+jakarta/5790,Terbayar,400920.0,0.0,"KOPER HITAM,KOPER BIRU,KOPER UNGU",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Singaraja(OBL Singaraja),23-9-2021,MORENZY,MORENZY /RONI SINGARAJA,62-81933079815,0.0,0.0
+surabaya/5791,On-Account,35000.0,0.0,dos,1,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),23-9-2021,Bes blili sby,Bes blibli dps,62-6281359292416,0.0,0.0
+jakarta/5792,Terbayar,540000.0,0.0,3 BUNGKUS KARUNG+ PELASTIK MERAH.,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),24-9-2021,MAS NO.,DENY  MP.,62-81907575109,0.0,0.0
+temanggung/5793,Terbayar,65000.0,0.0,MAKANAN,2,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Renon),24-9-2021,TK DANIEL,BP FREDIDYNANDUS,62-087762256999,0.0,0.0
+temanggung/5794,Terbayar,60000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Mataram(OBL MTR),24-9-2021,Bp SUJONO,dwiatma mandala putra,62-082341899145,0.0,0.0
+temanggung/5795,Terbayar,70000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,All Ghazali,Ririn INDRASWARI,62-08129522021,0.0,0.0
+jakarta/5796,Terbayar,309320.0,0.0,"2 KARDUS,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),24-9-2021,IBU GINA,IBU IKE SUMAWATI.,62-08164235931,0.0,0.0
+jakarta/5797,Terbayar,40000.0,0.0,AMPLOP COKLAT./ DOC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),24-9-2021,PT. GELORA CITRA KIMIA ABADI,PT. GELORA CITRA KIMIA ABADI.,62-02933219966,0.0,0.0
+jakarta/5798,Terbayar,40000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),24-9-2021,PT. GELORA CITRA KIMIA ABADI.,PT. GELORA CITRA KIMIA ABADI/ BP. NANDA,62-029333219966,0.0,0.0
+temanggung/5799,On-Account,45000.0,0.0,makanan,3,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,Pertapaan rowoseneng,ibu Ela Sunarto,62-087785609520,0.0,0.0
+surabaya/5800,Terbayar,164000.0,0.0,pail sog white + spg peacok,1,Ditentukan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),24-9-2021,rex ink,sinar bermuda/bpk niam,62-085713187289,0.0,0.0
+jakarta/5801,Terbayar,79000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),24-9-2021,N I A,GAMAL MIRDAD,62-82147486767,0.0,0.0
+obl/5802,Terbayar,70000.0,0.0,Kardus,1,Dibatalkan,Singaraja(OBL Singaraja),JAKARTA(OBL Kebayoran Lama),24-9-2021,putu astita,ibu ketut wirasata,62-217542840,0.0,0.0
+obl/5802,Terbayar,-70000.0,-0.0,Kardus,1,Dibatalkan,Singaraja(OBL Singaraja),JAKARTA(OBL Kebayoran Lama),24-9-2021,putu astita,ibu ketut wirasata,62-217542840,-0.0,-0.0
+jakarta/5803,Gratis,0.0,0.0,DOC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),24-9-2021,OBL. JAKARTA,BP. ADINTA,62-0293491195,0.0,0.0
+temanggung/5804,Terbayar,60000.0,0.0,makanan,1,Dipesan,Temanggung Regency(OBL Diponegoro),Malang(OBL MLG),24-9-2021,bu Yayuk,Cik Erly,62-0818381322,0.0,0.0
+jakarta/5805,Gratis,0.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),24-9-2021,ANANDA YANI.,IBU KIAT,62-0293491195,0.0,0.0
+temanggung/5806,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,Ling Ling,Indarawati,62-0214527828,0.0,0.0
+temanggung/5807,On-Account,145000.0,0.0,susu dan makanan,5,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,Pertapaan rowoseneng,conny Handayani,62-0817290949,0.0,0.0
+temanggung/5808,Terbayar,60000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,SODIKIN,ENI/ AYU,62-081387600904,0.0,0.0
+temanggung/5809,On-Account,145000.0,0.0,susu danmakanan,5,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,Pertapaan rowoseneng,Conny Handayany,62-0817290949,0.0,0.0
+temanggung/5810,On-Account,115000.0,0.0,makanan dan susu,3,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,Pertapaan rowoseneng,ibu Nina,62-0818471547,0.0,0.0
+temanggung/5811,Terbayar,135000.0,0.0,BAJU DAN MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,ADEK DHYAS,IBU SITI RAHAYU,62-08159906095,0.0,0.0
+jakarta/5812,Terbayar,286000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),24-9-2021,IPAY.,RESTORAN SEDERHANA.,62-81227156395,0.0,0.0
+temanggung/5813,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,Pertapaan rowoseneng,Sr Dionesia Kartika Osu,62-0218192817,0.0,0.0
+temanggung/5814,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,Pertapaan rowoseneng,ibu Lisa Kartika DEWI,62-082125503400,0.0,0.0
+temanggung/5815,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,Pertapaan rowoseneng,Dewiyanti Budiman,62-081297426216,0.0,0.0
+temanggung/5816,On-Account,40000.0,0.0,av pomakananlri,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,Pertapaan rowoseneng,Vera Supriyadi,62-081383988768,0.0,0.0
+temanggung/5817,On-Account,40000.0,0.0,susu,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,Pertapaan rowoseneng,Oma Irene Hamsaruddin,62-0811949252,0.0,0.0
+jakarta/5818,Terbayar,159000.0,0.0,KARUNG PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),24-9-2021,ANINDIYA SHAKILA,BIDAN ANALIA,62-85339011180,0.0,0.0
+temanggung/5819,Terbayar,70000.0,0.0,MAINAN DAN MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),24-9-2021,GUNAWAN,LIDIYA REDNA NINGSIH,62-087781166944,0.0,0.0
+jakarta/5820,Terbayar,339460.0,0.0,"KARDUS DUNHIL,KARDUS DUNHIL",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),24-9-2021,KARTIKA PUTRI DD KHAIRARI,KARTIKA PUTRI DD KHAIRARI,62-85961132348,0.0,0.0
+jakarta/5821,Gratis,0.0,0.0,PLASTIK HITAMSI CEPAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),24-9-2021,MBK YATI,BP BUDI HARTOMO,62-293491195,0.0,0.0
+jakarta/5822,Gratis,0.0,0.0,STEROFOM,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),24-9-2021,OBL PAKET JKT,PERTAPAAN RW SENENG,62-293491195,0.0,0.0
+surabaya/5823,On-Account,52500.0,0.0,karung,1,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),24-9-2021,Bes blili sby,Bes blibli dps,62-6281359292416,0.0,0.0
+temanggung/5824,Terbayar,120000.0,0.0,MAKANAN,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),25-9-2021,Enny,Enny Safitri,62-0000000000000,0.0,0.0
+jakarta/5825,Terbayar,85200.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),25-9-2021,SRI ROHANI,NURHAYATI. H. M,62-82340145552,0.0,0.0
+surabaya/5826,Terbayar,45000.0,0.0,kardus9 jamu0,1,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),25-9-2021,ibu eni dewi a,ibu novi arimuko,62-081231691927,0.0,0.0
+jakarta/5827,Terbayar,847500.0,0.0,"KARDUS,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),25-9-2021,T A M I,BP. YAMIN.,62-85333968721,0.0,0.0
+temanggung/5828,Terbayar,45000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),25-9-2021,AdsraNeofalinda,Letza,62-085741321051,0.0,0.0
+jakarta/5829,Terbayar,65000.0,0.0,KARDUS AIR ZAM2,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),25-9-2021,ABU BAKAR,IBU. HALIMAH A. GANI.,62-85338890584,0.0,0.0
+jakarta/5830,Gratis,0.0,0.0,GALON  LE MINERAL,3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),25-9-2021,IBU SALLY,IBU KIAT,62-0293491195,0.0,0.0
+jakarta/5831,Terbayar,910050.0,0.0,"KARUNG.,KARUNG",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),25-9-2021,R F. SPORT.,BOBBY HANDY.,62-81915815999,0.0,0.0
+jakarta/5832,Terbayar,180000.0,0.0,KOTAK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),25-9-2021,SR  /SUMBER REJEKI,JOSU CELL,62-87863899001,0.0,0.0
+temanggung/5833,Terbayar,90000.0,0.0,makanan,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),25-9-2021,Mirasa,Bp PAULUS Dwi,62-085215350022,0.0,0.0
+jakarta/5834,Terbayar,192000.0,0.0,BUNGKUS LAKBAN.,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),25-9-2021,PRIMA  SINDO,DHARMA SATYA NUSANTARA,62-02934901277,0.0,0.0
+temanggung/5835,Terbayar,50000.0,0.0,makanan,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),25-9-2021,IBU Tri Wahyuni,Tyasseptina wati,62-081808592142,0.0,0.0
+jakarta/5836,Terbayar,40000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),25-9-2021,HERU. S,BP. SOEHARSO.,62-85868512464,0.0,0.0
+temanggung/5837,Terbayar,90000.0,0.0,asesoris,5,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),25-9-2021,Laqolla,ibu Sasha,62-0000000000000,0.0,0.0
+temanggung/5838,Terbayar,55000.0,0.0,KARDUS,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),25-9-2021,DAROJI,DEDY SULISTYO PURNOMO,62-087881125002,0.0,0.0
+temanggung/5839,On-Account,150000.0,0.0,makanan,4,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),25-9-2021,Pertapaan rowoseneng,Lanny \Harry,62-081310684999,0.0,0.0
+temanggung/5840,Terbayar,100000.0,0.0,Makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),25-9-2021,Mam,Rosna,62-0000000000000,0.0,0.0
+surabaya/5841,Terbayar,100000.0,0.0,kardus [mainan ],1,Ditentukan,Surabaya(OBL Surabaya),Yogyakarta(OBL Janti),25-9-2021,sonic,bp ridwan /lala toys,62-081328747127,0.0,0.0
+jakarta/5842,Terbayar,436440.0,0.0,KARUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),25-9-2021,ANDRI GAGAP.,HAJI.  DJAMAL,62-01399983371,0.0,0.0
+jakarta/5843,Terbayar,40000.0,0.0,PLASTIK MERAH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),25-9-2021,VERA,RM. EDY PRASETYA.,62-81313157942,0.0,0.0
+surabaya/5844,Terbayar,100000.0,0.0,Kardus,1,Ditentukan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),25-9-2021,Cecilia suciati,Bp. Julius,62-81294400033,0.0,0.0
+surabaya/5845,Terbayar,100000.0,0.0,Syerofoam,1,Ditentukan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),25-9-2021,Pretty,KIKY / Toko OBRAS,62-8112588875,0.0,0.0
+jakarta/5846,Terbayar,401380.0,0.0,"KOTAK OVAL,KOTAK OVAL LAKBAN",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),25-9-2021,RUSLAN ABDUL GANI,BP SAHUDIN,62-81917184478,0.0,0.0
+surabaya/5847,On-Account,49000.0,0.0,karung,1,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),25-9-2021,Bes blili sby,Bes blibli dps,62-6281359292416,0.0,0.0
+temanggung/5848,Terbayar,95000.0,18500.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),26-9-2021,RAKABERY PRAKOSO,DANIEL FEBRIYANTO,62-087838111178,0.0,0.0
+temanggung/5849,Terbayar,45000.0,0.0,sayuran,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),26-9-2021,Wiwi,Endah,62-081236213217,0.0,0.0
+jakarta/5850,Terbayar,72000.0,0.0,kardus,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),26-9-2021,lia,bo Ali lisfa,62-08188520008,0.0,0.0
+temanggung/5851,Terbayar,40000.0,0.0,buah,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Malang(OBL MLG),26-9-2021,The Ping Hok,Cindy,62-03415076786,0.0,0.0
+temanggung/5852,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),26-9-2021,Pertapaan rowoseneng,Dr LUSANDRA  Agung,62-081318323250,0.0,0.0
+temanggung/5853,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),26-9-2021,Pertapaan rowoseneng,Dr Shenny Nurmala,62-087886026060,0.0,0.0
+temanggung/5854,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),26-9-2021,Pertapaan rowoseneng,bp Ryandi Irawan,62-02129558400,0.0,0.0
+temanggung/5855,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),26-9-2021,Pertapaan rowoseneng,ibu Johana,62-081510838335,0.0,0.0
+jakarta/5856,Terbayar,590000.0,0.0,KABEL/GULUNGANHITAM EMAS,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),26-9-2021,NURYANTO,AGUS,62-81210897321,0.0,0.0
+jakarta/5857,Terbayar,40000.0,0.0,KARDUS CRISTINE,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),26-9-2021,YUNASTIKA ASTRIDA UTAMI,HERMAWAN FAJAR RESMOKO,62-81807787800,0.0,0.0
+temanggung/5858,Terbayar,45000.0,0.0,DOC,1,Dipesan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),26-9-2021,Bp Dahono,Alfa Didin,62-087834093492,0.0,0.0
+jakarta/5859,Terbayar,65000.0,0.0,PLASTIK LAKBAN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),26-9-2021,HUSAEN,ABDUL HARIS,62-85338598248,0.0,0.0
+jakarta/5860,Terbayar,65000.0,0.0,KOTAKMPLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),26-9-2021,RACHMAWATI,IBUNDA HJ SYARIFAH,62-85205606209,0.0,0.0
+temanggung/5861,Terbayar,50000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),26-9-2021,om Ming Ming,ibu Sarbiyonq,62-087887265256,0.0,0.0
+temanggung/5862,Gratis,0.0,0.0,doc,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),26-9-2021,OBL,BP Reza,62-0000000000000,0.0,0.0
+surabaya/5863,Terbayar,265000.0,0.0,KARDUS MAKANAN,6,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),26-9-2021,IBU NENENG,IBU NUNG SHADIK,62-6287853274411,0.0,0.0
+jakarta/5864,Terbayar,266380.0,0.0,"STEROFOM,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),26-9-2021,BENTA BENTO,AGNES LESTARY,62-85777769698,0.0,0.0
+surabaya/5865,Terbayar,160000.0,0.0,kardus makanan,2,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),26-9-2021,ibu ellyza,bpk hariadi,62-0816520002,0.0,0.0
+surabaya/5866,On-Account,92470.0,0.0,koli,1,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),26-9-2021,Bes blili sby,Bes blibli dps,62-6281359292416,0.0,0.0
+surabaya/5867,Terbayar,40000.0,0.0,koli,1,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Renon),26-9-2021,PT. Industri Balonku,Hokky Kids Party Bali / Dewa Badut,62-81238106785,0.0,0.0
+jakarta/5868,Terbayar,296400.0,0.0,KARUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Singaraja(OBL Singaraja),27-9-2021,KETUT WIDIADA.,LUH EKA KAMAYANI,62-87897947482,0.0,0.0
+jakarta/5869,Terbayar,140000.0,0.0,PLASTIK HITAM DAN BIRU,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),27-9-2021,RIAN.,IBU MURTIRINA,62-85326422157,0.0,0.0
+jakarta/5870,Terbayar,40000.0,0.0,PLASTIK MERAH.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),27-9-2021,WIDI,DINA ASTRI,62-85292683421,0.0,0.0
+jakarta/5871,Terbayar,204820.0,0.0,KARUNG.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),27-9-2021,AURANY MUSLIMAH,NUR KOMALAS.,62-81917700770,0.0,0.0
+jakarta/5872,Terbayar,50000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),27-9-2021,CV. SURYA MITRA BERSAMA.,PT. PRAJA  BALI  TRANSPORTASI.,62-0361702000,0.0,0.0
+temanggung/5873,Terbayar,135000.0,0.0,beras dan makanan,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,warung Liem,ibu Min,62-0000000000000,0.0,0.0
+jakarta/5874,Terbayar,162580.0,0.0,"KARDUS,KRDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),27-9-2021,IBU HJ. BAMBANG,OLIFIA  HARAHAP,62-81392255405,0.0,0.0
+surabaya/5875,Terbayar,45000.0,0.0,kardus ( dupa ),1,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),27-9-2021,pt perdana chemindo perkasa,elita halim (ebert dewantara ),62-0818852552,0.0,0.0
+jakarta/5876,Terbayar,596960.0,0.0,"KARDUS,KARDUS,KARDUS,KARDUS",4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),27-9-2021,PT.MULTI EKA CHEMICALINDO,IBU INONG MUTIA / PT. SUCOFINDO,62-811494058,0.0,0.0
+temanggung/5877,Terbayar,40000.0,0.0,doc,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,ibu Kiat,ytc Ananda Yani,62-0000000000000,0.0,0.0
+jakarta/5878,Terbayar,40000.0,0.0,AMPLO BESAR,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),27-9-2021,PT.GELORA CITRA KIMIA ABADI,PT.GELORA CITRA KIMAI ABADI,62-2933219966,0.0,0.0
+jakarta/5879,Terbayar,107140.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),27-9-2021,PT . ALAM RAYA ESSINDO,BP. YOHANES RATER.,62-82225188330,0.0,0.0
+temanggung/5880,Gratis,0.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,ibu Kiat,anada Yani,62-0000000000000,0.0,0.0
+jakarta/5881,Gratis,0.0,0.0,AMPLOP PUTIH.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),27-9-2021,OBL JAKARTA.,BP. ADINTA,62-0293491195,0.0,0.0
+temanggung/5882,Terbayar,65000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,lenteng murni,Aryawan,62-082110757724,0.0,0.0
+jakarta/5883,Gratis,0.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),27-9-2021,OBL. JAKARTA.,IBU KIAT,62-0293491195,0.0,0.0
+temanggung/5884,Terbayar,40000.0,0.0,makanan,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,ibu Sumardi,ibu St Ch Adytyasari,62-0000000000000,0.0,0.0
+temanggung/5885,Terbayar,40000.0,0.0,tembakau,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,Saras,Yul budi H,62-082280403333,0.0,0.0
+jakarta/5886,Terbayar,420000.0,0.0,KARDUS,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),27-9-2021,"FU,AD",ANGGER.,62-85743582525,0.0,0.0
+temanggung/5887,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,mamaa Ken Susi,Aryo,62-08531012610,0.0,0.0
+temanggung/5888,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,mama Ken susi,Sita,62-08111878299,0.0,0.0
+temanggung/5889,On-Account,375000.0,0.0,susu dan makanan,18,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,Pertapaan rowoseneng,AKiang,62-081901202008,0.0,0.0
+temanggung/5890,Gratis,0.0,0.0,bawang dan roti,3,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,ibu Sally,yth ny SOPUTAN,62-0000000000000,0.0,0.0
+jakarta/5891,Terbayar,1320000.0,0.0,"KARDUS,KARDUS",12,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),27-9-2021,CV. TOGA NUSANTARA / BP. ACENG SOPYAN,TOKO BUKU TITIAN HIDAYAH./ BP. ISHAR,62-87765471532,0.0,0.0
+temanggung/5892,On-Account,65000.0,0.0,makanan,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,Pertapaan rowoseneng,drg Alphonsus R Quindangen SPOF,62-081282586371,0.0,0.0
+temanggung/5893,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,Pertapaan rowoseneng,tyityik Yuni,62-08128952226,0.0,0.0
+temanggung/5894,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,Pertapaan rowoseneng,Gabiel A H,62-0818810108,0.0,0.0
+jakarta/5895,Terbayar,299120.0,0.0,"KARDUS,KARDUS,KARDUS,KARDUS",4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),27-9-2021,ROBBY SUSANTO,OLIFIA  .K,62-81328751211,0.0,0.0
+temanggung/5896,On-Account,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,Pertapaan rowoseneng,Jeny,62-08128156918,0.0,0.0
+temanggung/5897,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),27-9-2021,Aan,Agiz Sharulloh,62-085327440900,0.0,0.0
+temanggung/5898,Terbayar,60000.0,0.0,careca,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Surabaya(OBL Surabaya),27-9-2021,Vani,Diana,62-081234747372,0.0,0.0
+jakarta/5899,Terbayar,730000.0,0.0,KOTAK PLASTIK PUTIH,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),27-9-2021,PRISMA PLAST,PT.CITRA BAHANA MIGAS,62-085237812473,0.0,0.0
+surabaya/5900,On-Account,56980.0,0.0,karung,1,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),27-9-2021,Bes blili sby,Bes blibli dps,62-6281359292416,0.0,0.0
+jakarta/5901,Terbayar,60000.0,0.0,KARDU HUANGPO,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),27-9-2021,CV.CAHAYA ABADI,PT.GAJAH TERBANG,62-361819627,0.0,0.0
+jakarta/5902,Terbayar,40000.0,0.0,PLASTIK SOLASI HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Jombor),27-9-2021,PAK RULI,SUTRISNO,62-82137826985,0.0,0.0
+jakarta/5903,Terbayar,91960.0,0.0,KARDUS SWEET APPLE,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),27-9-2021,ANDI,MAMA,62-0293491195,0.0,0.0
+jakarta/5904,Terbayar,245700.0,0.0,BEMPER MOBIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),27-9-2021,HERU,BP MUNAHAR,62-8194010007,0.0,0.0
+jakarta/5905,Terbayar,79000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),28-9-2021,RITA,YUYUN.,62-82339049498,0.0,0.0
+jakarta/5906,Terbayar,549900.0,0.0,"TAS PLASTIK MERAH,TAS PLASTIK PINK",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),28-9-2021,ULAN SARI,IBNU CHAN TAWANG / PUTRI HANDAYANI,62-81284805424,0.0,0.0
+temanggung/5907,Terbayar,70000.0,0.0,BENIH,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Gunung Agung Denpasar),28-9-2021,ARIF SAM'ANI,KADEK PANDU BUDIARTA S.Sos,62-087700993634,0.0,0.0
+jakarta/5908,Terbayar,186030.0,0.0,KARDUS.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),28-9-2021,TISNA.,LUKMAN.,62-87822524645,0.0,0.0
+jakarta/5909,Terbayar,192000.0,0.0,PLATIK PUTIH,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),28-9-2021,PT. DIAN NIAG,PT. DIAN NIAGA YOGYA.,62-85329691945,0.0,0.0
+temanggung/5910,Terbayar,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),28-9-2021,ENNY,R. SETYANINGSIH,62-08128093699,0.0,0.0
+temanggung/5911,Terbayar,75000.0,0.0,sayurasn,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),28-9-2021,Intaarti,Anggita Rizky,62-0895342777537,0.0,0.0
+jakarta/5912,Terbayar,70000.0,0.0,KARDUS/ PAK,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),28-9-2021,PT. PHONIX COMMUNICATIONS,NOW  !  BALI MAGAZINE,62-811380850,0.0,0.0
+jakarta/5913,Terbayar,129250.0,0.0,PETI,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),28-9-2021,LAURENT,HAUKE.,62-818181854,0.0,0.0
+obl/5914,Terbayar,916630.0,0.0,karung,3,Dipesan,Mataram(OBL MTR),JAKARTA(OBL Kebayoran Lama),28-9-2021,cuem,joni,62-037447111,0.0,0.0
+jakarta/5915,Terbayar,794640.0,0.0,"KARDUS,KARDUS,KARRDUS",3,Dibatalkan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),28-9-2021,HARTINI.,MUHAMAD NUR.,62-81353627888,0.0,0.0
+jakarta/5915,Terbayar,-794640.0,-0.0,"KARDUS,KARDUS,KARRDUS",3,Dibatalkan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),28-9-2021,HARTINI.,MUHAMAD NUR.,62-81353627888,-0.0,-0.0
+obl/5916,Terbayar,137500.0,0.0,kardus gudang garam,1,Dipesan,Mataram(OBL MTR),Magelang(terminalmagelang),28-9-2021,cuem,nilam,62-037478655,0.0,0.0
+jakarta/5917,Terbayar,628320.0,0.0,"KARDUS,KARDUS,KARDUS",3,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),28-9-2021,HARTINI,MUHAMAD NUR.,62-81353627888,0.0,0.0
+surabaya/5918,Terbayar,305000.0,0.0,kardus makanan,4,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),28-9-2021,bu fivie,bu kusdian,62-0315945164,0.0,0.0
+jakarta/5919,Terbayar,50000.0,0.0,PLASTIK HITAM.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),28-9-2021,CV. PRADHITA  MEDIA TAMA.,IBU LOLITA.,62-81337189502,0.0,0.0
+jakarta/5920,Terbayar,40000.0,0.0,KARDUS DI LAKBAN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),28-9-2021,ADDO,ANFA CELL,62-8971111818,0.0,0.0
+obl/5921,Terbayar,330000.0,0.0,kardus akua,2,Dipesan,Mataram(OBL MTR),JAKARTA(OBL Kebayoran Lama),28-9-2021,amiri,cuem,62-08123705387,0.0,0.0
+jakarta/5922,Terbayar,40000.0,0.0,KARDUS.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),28-9-2021,IBU ARI HARIYATI,IBU WURI / IBU. HJ. TENTREM,62-87834161191,0.0,0.0
+temanggung/5923,Terbayar,40000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),28-9-2021,Giok Lian,ibu Novelia,62-0000000000000,0.0,0.0
+jakarta/5924,Terbayar,89870.0,0.0,KARDUS,1,Dibatalkan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),28-9-2021,LANNY KUSWANDI,BIDAN DIAN / BP. EKA.,62-81393300808,0.0,0.0
+jakarta/5924,Terbayar,-89870.0,-0.0,KARDUS,1,Dibatalkan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),28-9-2021,LANNY KUSWANDI,BIDAN DIAN / BP. EKA.,62-81393300808,-0.0,-0.0
+temanggung/5925,On-Account,320000.0,0.0,makanan dan susu,10,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),28-9-2021,Pertapaan rowoseneng,Lily Aslim,62-0811854658,0.0,0.0
+temanggung/5926,Terbayar,70000.0,0.0,TAS,6,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),28-9-2021,LOQOLA,IBU SASHA AB,62-0000000000000,0.0,0.0
+temanggung/5927,On-Account,120000.0,0.0,makanan dan susu,5,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),28-9-2021,Pertapaan rowoseneng,Veronica Nani Muljati,62-08176581158,0.0,0.0
+temanggung/5928,Terbayar,50000.0,0.0,makanan,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),28-9-2021,Fr Blacius,Tjitjik Yana,62-0817865736,0.0,0.0
+jakarta/5929,Terbayar,316810.0,0.0,"KARDUS.,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),28-9-2021,PT. CAHAYA TIARA MUSTIKA SCIENTIFIC .,IBU MANIK SRI UTAMI. /BALAI BESAR PENGAWAS.,62-8123990239,0.0,0.0
+surabaya/5930,On-Account,171500.0,0.0,karung,1,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),28-9-2021,Bes blili sby,Bes blibli dps,62-6281359292416,0.0,0.0
+jakarta/5931,Terbayar,95260.0,0.0,KARDUS BITEC.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),28-9-2021,PT. KARYA JAYAABADI PERKASA.,BP. MOH. DJUPRI  [ PT. KJAP JOGJA ],62-81314746363,0.0,0.0
+temanggung/5932,Terbayar,40000.0,0.0,buah,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),28-9-2021,Mami,ananda Yani,62-0000000000000,0.0,0.0
+obl/5933,Terbayar,120000.0,0.0,kardus,2,Ditentukan,Mataram(OBL MTR),Yogyakarta(OBL Janti),28-9-2021,Hamiri,Nana,62-0274565680,0.0,0.0
+jakarta/5934,Terbayar,203550.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),28-9-2021,SYAMSUL,RIZA NURLEILA,62-85253726999,0.0,0.0
+obl/5935,Terbayar,90000.0,0.0,karung,3,Ditentukan,Mataram(OBL MTR),Yogyakarta(OBL Janti),28-9-2021,gasti,hamiri,62-0274565656,0.0,0.0
+temanggung/5936,Terbayar,100000.0,0.0,makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),28-9-2021,Mam,Rosna,62-0000000000000,0.0,0.0
+jakarta/5937,Terbayar,60000.0,0.0,PLASTIK KOTAK MERAH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),28-9-2021,AMIR,BP.AGUS ARDIANTO,62-83876719093,0.0,0.0
+temanggung/5938,Terbayar,120000.0,0.0,lenteng,3,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),28-9-2021,istiyani,Rama Sudjana Sedjati,62-085156299019,0.0,0.0
+jakarta/5939,Gratis,0.0,0.0,DOKUMEN,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),28-9-2021,AGUS DEVISI PAKET,BP.ADINTA,62-0293491195,0.0,0.0
+jakarta/5940,Gratis,0.0,0.0,KOTAK DI BUNGKUS CKLT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),28-9-2021,AGUS DEVISI PAKET,YTH.IBU KIAT,62-0293491195,0.0,0.0
+jakarta/5941,Terbayar,81000.0,0.0,KARDUS COKLAT ISI ACC,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),28-9-2021,D'PARIS JAKARTA,D'PARIS SURABAYA,62-82139444026,0.0,0.0
+obl/5942,Terbayar,120000.0,0.0,kardus,2,Dipesan,Mataram(OBL MTR),Yogyakarta(OBL Janti),28-9-2021,hamiri,nana,62-083129103195,0.0,0.0
+jakarta/5943,Terbayar,88550.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Jombor),28-9-2021,LANNY KUSWANDI,BIDAN DIAN / BP.EKA,62-81393300808,0.0,0.0
+jakarta/5944,Gratis,0.0,0.0,KOTAK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),28-9-2021,OBL PAKET JAKARTA,BP SAIFUL OBL BIMA,62-82341777767,0.0,0.0
+obl/5945,Terbayar,150000.0,0.0,kardus gg,1,Dipesan,Mataram(OBL MTR),Solo(OBL Tirtonadi),28-9-2021,Marisa,Gavin,62-81329325716,0.0,0.0
+jakarta/5946,Terbayar,107520.0,0.0,DUS BUNGKUS KARUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),29-9-2021,BP. UMAR.,NURHIDAYATI.,62-8995895108,0.0,0.0
+jakarta/5947,Terbayar,45000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Malang(OBL MLG),29-9-2021,CV. CAHAYA ABADI.,CV. UNGGUL PUTRA SAMUDRA.,62-0341452322,0.0,0.0
+temanggung/5948,Gratis,0.0,0.0,Doc,1,Dipesan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),29-9-2021,A,B,62-0000000000000,0.0,0.0
+jakarta/5949,Terbayar,186030.0,0.0,KARDUS GUDANG GARAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),29-9-2021,TISNA.,BP. LUKMAN.,62-87822524645,0.0,0.0
+jakarta/5950,Terbayar,50000.0,0.0,KARDUS  SHIMIZU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Singaraja(OBL Singaraja),29-9-2021,BP. BECONG.,BP. DEDOT.,62-81916818065,0.0,0.0
+surabaya/5951,Terbayar,45000.0,0.0,kardus,1,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),29-9-2021,shevilla marsha,bpk agus /fadil/mba apri,62-087888366296,0.0,0.0
+jakarta/5952,Terbayar,141480.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),29-9-2021,TIO  SARAGI.,NOTARIS LINDA SM. SAHONO S. H.,62-81332000861,0.0,0.0
+surabaya/5953,On-Account,176365.0,0.0,karung,1,Dipesan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),29-9-2021,Bes blili sby,Bes blibli dps,62-6281359292416,0.0,0.0
+jakarta/5954,Gratis,0.0,0.0,ROLL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Malang(OBL MLG),29-9-2021,FAUZA   AMIR,A R I,62-0341354373,0.0,0.0
+surabaya/5955,On-Account,176365.0,0.0,karung,1,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),29-9-2021,Bes blili sby,Bes blibli dps,62-6281359292416,0.0,0.0
+surabaya/5956,Gratis,0.0,0.0,kardus,1,Dipesan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),29-9-2021,mbk nah,Fauza Amir,62-82222222,0.0,0.0
+jakarta/5957,Terbayar,288000.0,0.0,KARDUS,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),29-9-2021,PT. SINAR MUTIARA INDAH. EPC.,PT. AKR. CORPORINDO TBK. / BP. DONI,62-81284843838,0.0,0.0
+jakarta/5958,Terbayar,125510.0,0.0,SETEROFOM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),29-9-2021,IKE . S,TJHING TJONG GIONG.,62-811282290,0.0,0.0
+jakarta/5959,Terbayar,40000.0,0.0,PLASTIK HITAM.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),29-9-2021,LAURENT,HAUKE,62-818181854,0.0,0.0
+jakarta/5960,Terbayar,122520.0,0.0,KARDUS ISI BAJU,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),29-9-2021,LUCIA INDRAKUSUMA,DRG.EKA.R.RAHARDJA,62-8123107383,0.0,0.0
+jakarta/5961,Gratis,0.0,0.0,DOC / AMPLOP COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),29-9-2021,TONO,BP. SUGIRI,62-0293491195,0.0,0.0
+jakarta/5962,Terbayar,100000.0,0.0,KARDUS.,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),29-9-2021,MBAK ZUB.,SITI ROHMATUN NAZILAH.,62-85878074267,0.0,0.0
+temanggung/5963,Terbayar,40000.0,0.0,buah,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),29-9-2021,Dina,Rahendita,62-081391709201,0.0,0.0
+jakarta/5964,Terbayar,155000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),29-9-2021,JAKARTA POWDER SUPPLY,SANG KOMPYANG. SUMADIASA.,62-81338038361,0.0,0.0
+jakarta/5965,Terbayar,40000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),29-9-2021,PT. CENTRAL JAWA WOOD. INDUSTRI.,PT. CENTRAL JAWA WOOD INDUSTRI,62-02933219966,0.0,0.0
+obl/5966,Terbayar,120000.0,0.0,kardus,2,Dipesan,Mataram(OBL MTR),Yogyakarta(OBL Janti),29-9-2021,nia,agusta,62-081990011145,0.0,0.0
+jakarta/5967,Terbayar,40000.0,0.0,AMPLOP COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),29-9-2021,PT. GELORA CITRA KIMIA ABADI.,PT. GELORA CITRA KIMIA  ABADI,62-02933219966,0.0,0.0
+temanggung/5968,Terbayar,40000.0,0.0,Makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),29-9-2021,Papa,Magdalena Mellisa,62-0000000000000,0.0,0.0
+jakarta/5969,Terbayar,40000.0,0.0,KARDUS KECIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),29-9-2021,HENDY.,BP. ISMU WIHADI.,62-81325369855,0.0,0.0
+temanggung/5970,Terbayar,45000.0,0.0,Buah,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),29-9-2021,Mama,Hannt,62-0215826135,0.0,0.0
+jakarta/5971,Terbayar,205000.0,0.0,KARDUS DI LAKBAN.,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),29-9-2021,PT. NUSATARA CENTRAL TEKNOTAMA,PT. PUTERA KONTRINDO ABADI.,62-81367404972,0.0,0.0
+jakarta/5972,Terbayar,108080.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),29-9-2021,PT. BANGUN PANCA SARANA ABADI.,BP. RUBY RIANTO / PT. PLN. PERSERO,62-82144052229,0.0,0.0
+jakarta/5973,Gratis,0.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),29-9-2021,OZA. / OBL JAKARTA,BP. ADINTA.,62-0293491195,0.0,0.0
+temanggung/5974,On-Account,80000.0,0.0,Susu dan makanan,3,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),29-9-2021,Pertapaan rowoseneng,Lucia,62-087886376181,0.0,0.0
+obl/5975,Terbayar,330000.0,0.0,kardus,3,Dipesan,Mataram(OBL MTR),Solo(OBL Tirtonadi),29-9-2021,nana,agusta,62-083129103195,0.0,0.0
+surabaya/5976,Gratis,0.0,0.0,kardus,1,Dipesan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),29-9-2021,mbk nah,bu yuli,62-82222222,0.0,0.0
+surabaya/5977,Terbayar,96000.0,0.0,kardus makanan,4,Ditentukan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),29-9-2021,roti susan,ny hoo tjien lien,62-0818572528,0.0,0.0
+surabaya/5978,Terbayar,60000.0,4000.0,kardus,1,Ditentukan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),29-9-2021,roti susan,warung liem,62-08185772528,0.0,0.0
+jakarta/5979,Terbayar,50000.0,0.0,KARDUS ITEM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),29-9-2021,DIAN GAS SENTOSA,PT.SINAR MUTIARA INDAH EPC,62-0361720833,0.0,0.0
+janti/5980,Terbayar,65000.0,0.0,kardus plastik hitam,1,Ditentukan,Yogyakarta(OBL Janti),JAKARTA(OBL Kebayoran Lama),30-9-2021,Aldo,Teatines rumah makan / Abbi,62-81328530123,0.0,0.0
+janti/5981,Terbayar,80000.0,0.0,kardus lemineral,1,Ditentukan,Yogyakarta(OBL Janti),Mataram(OBL MTR),30-9-2021,Retno D,Eko,62-87757924589,0.0,400.0
+surabaya/5982,Terbayar,63000.0,0.0,kardus makanan,1,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),30-9-2021,sumarji,ibu lenna,62-02129688743,0.0,0.0
+obl/5983,Terbayar,330000.0,0.0,karung,2,Dibatalkan,Mataram(OBL MTR),Yogyakarta(OBL Janti),30-9-2021,cuem,nana,62-0813395111000,0.0,0.0
+obl/5983,Terbayar,-330000.0,-0.0,karung,2,Dibatalkan,Mataram(OBL MTR),Yogyakarta(OBL Janti),30-9-2021,cuem,nana,62-0813395111000,-0.0,-0.0
+jakarta/5984,Terbayar,236170.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),30-9-2021,M J K  JAKARTA,M J K . TEMANGGUNG.,62-818269269,0.0,0.0
+jakarta/5985,Terbayar,116000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),30-9-2021,PT. CENTRAL JAWA WOOD. INDUSTRI,PT. CENTRAL JAWA WOOD INDUSTRI.,62-02934901152,0.0,0.0
+jakarta/5986,Terbayar,354480.0,0.0,"KARDUS,KARDUS,KARDUS,KARDUS",4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),30-9-2021,PT. PENELINDO SARANA BAKTI.,PT. SENGGIGI PRATAMA.,62-0370693210,0.0,0.0
+temanggung/5987,Terbayar,100000.0,20000.0,BUMPER BOX,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),30-9-2021,arlin,IBU RITA /DAUD,62-00000000000,0.0,0.0
+jakarta/5988,Terbayar,441840.0,0.0,"KARUNG,KARUNG",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),30-9-2021,SANDY SPORT.,BP. IHWAN,62-81803623163,0.0,0.0
+jakarta/5989,Terbayar,40000.0,0.0,DOC1,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),30-9-2021,HENDRA.,NURDIANSYAH.,62-81392068674,0.0,0.0
+jakarta/5990,Terbayar,240000.0,0.0,BAGOR PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),30-9-2021,AL-ASAS,BP.RUSTAM,62-82339648534,0.0,0.0
+jakarta/5991,Gratis,0.0,0.0,PLAT NO.STNK B.7051.SAA,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),30-9-2021,OM AGUS,YTH.BP.SUGIARTO,62-0293491195,0.0,0.0
+surabaya/5992,Gratis,0.0,0.0,-dinamo,1,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),30-9-2021,obl sby,Fauza Amir/bp turiman,62-0217432092,0.0,0.0
+jakarta/5993,Gratis,0.0,0.0,STEROFOM 4 UNIT,4,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),30-9-2021,OBL.PUSAT JAKARTA,PERTAPAAN ROWO SENENG,62-0293491195,0.0,0.0
+jakarta/5994,Terbayar,478000.0,0.0,DUS BUNGKUS KARUNG,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),30-9-2021,VIVI,IBU SUM.,62-82236959551,0.0,0.0
+jakarta/5995,Terbayar,180000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),30-9-2021,MIZAN.,BP. KHALID BAGES.,62-818365129,0.0,0.0
+temanggung/5996,Terbayar,60000.0,0.0,KARDUS,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),30-9-2021,BU SUSANA,IBI WIDURI,62-0215329090,0.0,0.0
+surabaya/5997,Terbayar,70000.0,7000.0,kardus,1,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),30-9-2021,ibu in soetopo,budi hartanto,62-0811949009,0.0,0.0
+temanggung/5998,Terbayar,40000.0,0.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),30-9-2021,EDDIE YUSUF,WAN CHEN,62-081510800909,0.0,0.0
+temanggung/5999,Gratis,0.0,0.0,CABE,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),30-9-2021,TEMANGGUNG,IBU SALLY S,62-0000000000000,0.0,0.0
+temanggung/6000,On-Account,40000.0,0.0,KARDUS,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),30-9-2021,Pertapaan rowoseneng,SIONG JUNG,62-081317910888,0.0,0.0
+temanggung/6001,Terbayar,55000.0,3000.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),30-9-2021,JENNY,NY LINDRA GUNAWAN HANDANA,62-08128479251,0.0,0.0
+surabaya/6002,On-Account,120400.0,0.0,karung,1,Ditentukan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),30-9-2021,Bes blili sby,Bes blibli dps,62-6281359292416,0.0,0.0
+temanggung/6003,On-Account,40000.0,0.0,KARDUS,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),30-9-2021,Pertapaan rowoseneng,TERESA SINGGIH,62-0217996896,0.0,0.0
+temanggung/6004,On-Account,125000.0,1000.0,MAKANAN+ SUSU,6,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),30-9-2021,Pertapaan rowoseneng,DESI FANDI,62-082122441126,0.0,0.0
+temanggung/6005,On-Account,90000.0,2000.0,MAKANAN,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),30-9-2021,Pertapaan rowoseneng,DEDEK ELISABETH LYSA,62-081318515146,0.0,0.0
+temanggung/6006,Gratis,0.0,0.0,3 DOS 1 BOX,4,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),30-9-2021,RAWASENENG,IBU AMING,62-0816889766,0.0,0.0
+surabaya/6007,Terbayar,100000.0,2000.0,kardus,1,Ditentukan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),30-9-2021,lutekindo,pt sahabat sekawan sejati,62-08223251850,0.0,0.0
+temanggung/6008,Terbayar,120000.0,20000.0,MAKANAN,2,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),30-9-2021,PUSPITA,PUTRI AYU,62-085729794670,0.0,0.0
+jakarta/6009,Terbayar,40000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),30-9-2021,NURIE,WAWAN,62-0293491195,0.0,0.0
+jakarta/6010,Terbayar,40000.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),30-9-2021,PRIMA SINDO,PT.DHARMA SATYA NUSANTARA,62-2934901227,0.0,0.0
+jakarta/6011,Terbayar,352000.0,0.0,KARDUS DIBAGORIN,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),30-9-2021,YOO HEE,SUM SUMBAWA,62-81353471638,0.0,0.0
+jakarta/6012,Terbayar,240000.0,0.0,KARDUS DI BAGORIN,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),30-9-2021,YOO HEE,OCENG SUMBAWA,62-85239747794,0.0,0.0
+temanggung/6013,Terbayar,50000.0,500.0,MAKANAN,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),01-10-2021,amme,didit,62-081353399000,0.0,0.0
+temanggung/6014,Terbayar,80000.0,0.0,DUS,3,Ditentukan,Temanggung Regency(OBL Diponegoro),Denpasar(OBL Dip. DPS),01-10-2021,MELANI,YOAN,62-0361222730,0.0,0.0
+jakarta/6015,Terbayar,40000.0,0.0,DOC.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),01-10-2021,WAHYU ARIANTO,IBU ISMIYATI,62-87772781783,0.0,0.0
+temanggung/6016,Terbayar,170000.0,0.0,Makanan dan pakaian,1,Ditentukan,Temanggung Regency(OBL Diponegoro),Mataram(OBL MTR),01-10-2021,Saiful,Ningrum,62-082359128717,0.0,0.0
+jakarta/6017,Terbayar,45000.0,0.0,KARDUS.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Surabaya(OBL Surabaya),01-10-2021,L I A,BP. ALI USFA.,62-818520008,0.0,0.0
+jakarta/6018,Terbayar,191000.0,0.0,KARDUS.,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),01-10-2021,PT. NUSANTARA SENTRAL TEKNOTAMA,PUTRA KONTRINDO ABADI PT./ BP. YANTO,62-081367404972,0.0,0.0
+jakarta/6019,Terbayar,92400.0,0.0,KARDUS VIT,10,Ditentukan,JAKARTA(OBL Kebayoran Lama),Bima(OBL Bima),01-10-2021,MARJUNI.,NURHAYATI SYAMSUDIN.,62-82339455021,0.0,0.0
+jombor/6020,Terbayar,2600000.0,0.0,buku,15,Ditentukan,Yogyakarta(OBL Jombor),Mataram(OBL MTR),01-10-2021,sis wuryanto,Dr. Syamsuriansyah MM Mkes,62-081805711121,0.0,0.0
+jakarta/6021,Gratis,0.0,0.0,AMPLOP PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Sumbawa(OBL Sumbawa),01-10-2021,SAFARI DHARMA SAKTI .,CIK  MARISSA,62-85100718399,0.0,0.0
+tugu/6022,Terbayar,45000.0,0.0,1 Dus,1,Ditentukan,Yogyakarta(OBL Tugu),Denpasar(OBL Dip. DPS),01-10-2021,lily,bp sasmito,62-8123806639,0.0,0.0
+temanggung/6023,On-Account,45000.0,0.0,Makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-10-2021,Pertapaan rowoseneng,Mama Betty.,62-087788778201,0.0,0.0
+temanggung/6024,On-Account,40000.0,0.0,Makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-10-2021,Pertapaan rowoseneng,Steohanus Go Kong Tek,62-087883948559,0.0,0.0
+temanggung/6025,On-Account,45000.0,0.0,Makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-10-2021,Pertapaan rowoseneng,Mama Aria dan papa Johan,62-0816907612,0.0,0.0
+obl/6026,Terbayar,90000.0,0.0,kardus,1,Dipesan,Mataram(OBL MTR),JAKARTA(OBL Kebayoran Lama),01-10-2021,candra motor,pt sinar harapan jaya,62-08111287368,0.0,0.0
+surabaya/6027,Terbayar,85000.0,4000.0,kardus (krupuk ),1,Ditentukan,Surabaya(OBL Surabaya),JAKARTA(OBL Kebayoran Lama),01-10-2021,bu nur,bp. cuk budiono,62-082336238289,0.0,0.0
+janti/6028,Terbayar,200000.0,0.0,Koper Merah,2,Ditentukan,Yogyakarta(OBL Janti),Denpasar(OBL Gunung Agung Denpasar),01-10-2021,Betie,ibu Christi,62-81328748862,0.0,250.0
+obl/6029,Terbayar,390000.0,0.0,karung,2,Dipesan,Mataram(OBL MTR),JAKARTA(OBL Kebayoran Lama),01-10-2021,cuem,p haji,62-207477777,0.0,0.0
+jakarta/6030,Terbayar,104130.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),01-10-2021,PT. CAHAYA TIARA.MUSTIKA SCIENTIFIC,AMS. MEDIKA HEALTCARE. / IBU WIJA.,62-85738230235,0.0,0.0
+jakarta/6031,Terbayar,221650.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Denpasar(OBL Renon),01-10-2021,PT. CAHAYA TIARA MUSTIKA SCIETIFIC,PT. CITA SWARA SF. SEJAHTERA./IBU SUSI,62-818349567,0.0,0.0
+jakarta/6032,Terbayar,48290.0,0.0,STEROFOM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),01-10-2021,IKE SUTJIPTO,TJHIN TJONG GIONG,62-811282290,0.0,0.0
+temanggung/6033,Terbayar,80000.0,0.0,Lenteng,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-10-2021,Lenteng murni,Han Kwan Ping,62-087883896278,0.0,0.0
+temanggung/6034,On-Account,40000.0,0.0,Makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-10-2021,Pertapaan rowoseneng,Winny,62-08568158873,0.0,0.0
+temanggung/6035,Terbayar,135000.0,0.0,Makanan,3,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-10-2021,Warung Liem,Ibu Yuyu,62-0811145168,0.0,0.0
+temanggung/6036,Terbayar,40000.0,0.0,SAyuran,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-10-2021,Eny,Eny Sawitri,62-08129418998,0.0,0.0
+jakarta/6037,Terbayar,40000.0,0.0,AMPLOP COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),01-10-2021,SANTY SORMIN.,BP. TJHIN TJONG GIONG/ HENRY GUNAWAN,62-811250333,0.0,0.0
+jakarta/6038,Terbayar,40000.0,0.0,BUNGKUS PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),01-10-2021,WILDAN.,TOKO MEBEL. MUTIARA.,62-81390047174,0.0,0.0
+temanggung/6039,Terbayar,95000.0,0.0,Makanan,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-10-2021,Mam,Rosna,62-0000000000000,0.0,0.0
+jakarta/6040,Gratis,0.0,0.0,PLASTIK PUTIH,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),01-10-2021,IBU BENYAMIN,CIK KIAT,62-0293491195,0.0,0.0
+jakarta/6041,Terbayar,60000.0,0.0,SETEROFOM,2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),01-10-2021,OBL JAKARTA,PERTAPAAN SANTA MARIA,62-0293491195,0.0,0.0
+temanggung/6042,Terbayar,40000.0,0.0,Garam,1,Ditentukan,Temanggung Regency(OBL Diponegoro),JAKARTA(OBL Kebayoran Lama),01-10-2021,Wiwiek Setyowati,Tatiek Suprapti,62-081219368616,0.0,0.0
+obl/6043,Terbayar,70000.0,0.0,dus,1,Ditentukan,Singaraja(OBL Singaraja),JAKARTA(OBL Kebayoran Lama),01-10-2021,nindy,arnanda,62-081281761738,0.0,0.0
+jakarta/6044,Terbayar,78000.0,0.0,KARDUS,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),01-10-2021,PT. ARTINDO PRIMA GRAHA.,BP. DONI / BP. RONGKOT.,62-81210892305,0.0,0.0
+obl/6045,Terbayar,270000.0,0.0,karung,4,Dipesan,Mataram(OBL MTR),Solo(OBL Tirtonadi),01-10-2021,nana,jarwo,62-085238531019,0.0,0.0
+jakarta/6046,Terbayar,231000.0,0.0,"KARDUS.,KARDUS",2,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),01-10-2021,H. HARPANUDIN.,SARIPUDIN.,62-83114572792,0.0,0.0
+jakarta/6047,Terbayar,240000.0,0.0,KARUNG,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),01-10-2021,ASTUTI,FAHMI / SRI HARMIATI,62-81311243396,0.0,0.0
+surabaya/6048,On-Account,182000.0,0.0,karung,1,Dibatalkan,Surabaya(OBL Surabaya),Denpasar(OBL Gunung Agung Denpasar),01-10-2021,Bes blili sby,Bes blibli dps,62-6281359292416,0.0,0.0
+jakarta/6049,Terbayar,40000.0,0.0,KARDUS COKLAT KECIL,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Temanggung Regency(OBL Diponegoro),01-10-2021,NURI,BENGKEL BABAHE,62-82241698742,0.0,0.0
+jakarta/6050,Terbayar,149710.0,0.0,KARDUS COKLAT,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Yogyakarta(OBL Janti),01-10-2021,DINI,DINI,62-811881047,0.0,0.0
+surabaya/6051,Terbayar,360000.0,0.0,karung kerudung,2,Dibatalkan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),01-10-2021,rabbani,bu yuyung,62-081227383739,0.0,0.0
+surabaya/6052,Terbayar,430000.0,0.0,karung kerudung,2,Ditentukan,Surabaya(OBL Surabaya),Temanggung Regency(OBL Diponegoro),01-10-2021,rabbani,bu yuyung,62-081227383739,0.0,0.0
+jakarta/6053,Terbayar,78000.0,0.0,BUNKUS PLASTIK HITAM,1,Ditentukan,JAKARTA(OBL Kebayoran Lama),Mataram(OBL MTR),01-10-2021,LASTRI RADIT,SITI YULIATI,62-81931055358,0.0,0.0
+janti/6054,Terbayar,40000.0,0.0,kardus coklat,1,Ditentukan,Yogyakarta(OBL Janti),Malang(OBL MLG),01-10-2021,kamaya,i gede putu sugiarta,62-81805022001,0.0,0.0
+Halaman Total,,126824525.05,82000.0,,1758,,,,,,,,0.0,3000.0
+
+"","",Citywise Terbayar / Dibayar / On-Account Details
+Source City,Temanggung Regency
+Kota Tujuan,Cabang Tujuan,Jumlah yang dibayar,Jumlah To Pay,On-Account,Jumlah yang dibatalkan,Biaya Penanganan,Jumlah Total
+JAKARTA,OBL Kebayoran Lama,16839000.05,615000.0,7790000.0,393000.0,46000.0,24851000.05
+Denpasar,OBL Dip. DPS,1865000.0,45000.0,160000.0,0,19000.0,2070000.0
+Denpasar,OBL Renon,855000.0,0,0,0,0.0,855000.0
+Denpasar,OBL Gunung Agung Denpasar,815000.0,0,0,0,0.0,815000.0
+Malang,OBL MLG,290000.0,0,0,0,0.0,290000.0
+Surabaya,OBL Surabaya,1335000.0,0,110000.0,0,0.0,1445000.0
+Mataram,OBL MTR,475000.0,0,0,0,0.0,475000.0
+Halaman Total,,22474000.05,660000.0,8060000.0,393000.0,65000.0,30801000.05
+
+"","",Citywise Terbayar / Dibayar / On-Account Details
+Source City,JAKARTA
+Kota Tujuan,Cabang Tujuan,Jumlah yang dibayar,Jumlah To Pay,On-Account,Jumlah yang dibatalkan,Biaya Penanganan,Jumlah Total
+Yogyakarta,OBL Janti,3258730.0,0,0,0,0.0,3258730.0
+Denpasar,OBL Renon,11473000.0,0,0,0,0.0,11473000.0
+Surabaya,OBL Surabaya,3998580.0,0,0,0,0.0,3998580.0
+Mataram,OBL MTR,21927060.0,0,0,794640.0,0.0,21132420.0
+Temanggung Regency,OBL Diponegoro,11964410.0,0,0,129870.0,0.0,11834540.0
+Malang,OBL MLG,666060.0,0,0,0,0.0,666060.0
+Sumbawa,OBL Sumbawa,16065650.0,0,0,270300.0,0.0,15795350.0
+Singaraja,OBL Singaraja,2078500.0,0,0,0,0.0,2078500.0
+Bima,OBL Bima,10269050.0,0,0,0,0.0,10269050.0
+Temanggung Regency,Agen Parakan Diponegoro,136000.0,0,0,0,0.0,136000.0
+Yogyakarta,OBL Jombor,1013770.0,0,0,96800.0,0.0,916970.0
+Halaman Total,,82850810.0,0,0,1291610.0,0.0,81559200.0
+
+"","",Citywise Terbayar / Dibayar / On-Account Details
+Source City,Yogyakarta
+Kota Tujuan,Cabang Tujuan,Jumlah yang dibayar,Jumlah To Pay,On-Account,Jumlah yang dibatalkan,Biaya Penanganan,Jumlah Total
+Denpasar,OBL Renon,170000.0,0,0,0,0.0,170000.0
+JAKARTA,OBL Kebayoran Lama,115000.0,0,0,0,0.0,115000.0
+Mataram,OBL MTR,2680000.0,0,0,0,0.0,2680000.0
+Denpasar,OBL Dip. DPS,45000.0,0,0,0,0.0,45000.0
+Denpasar,OBL Gunung Agung Denpasar,200000.0,0,0,0,0.0,200000.0
+Malang,OBL MLG,40000.0,0,0,0,0.0,40000.0
+Halaman Total,,3250000.0,0,0,0,0.0,3250000.0
+
+"","",Citywise Terbayar / Dibayar / On-Account Details
+Source City,Surabaya
+Kota Tujuan,Cabang Tujuan,Jumlah yang dibayar,Jumlah To Pay,On-Account,Jumlah yang dibatalkan,Biaya Penanganan,Jumlah Total
+JAKARTA,OBL Kebayoran Lama,1821405.0,0,0,0,11000.0,1821405.0
+Temanggung Regency,OBL Diponegoro,1752000.0,0,0,50000.0,6000.0,1702000.0
+Denpasar,OBL Gunung Agung Denpasar,0,0,1652630.0,0,0.0,1652630.0
+Yogyakarta,OBL Janti,100000.0,0,0,0,0.0,100000.0
+Denpasar,OBL Renon,40000.0,0,0,0,0.0,40000.0
+Halaman Total,,3713405.0,0,1652630.0,50000.0,17000.0,5316035.0
+
+"","",Citywise Terbayar / Dibayar / On-Account Details
+Source City,Solo
+Kota Tujuan,Cabang Tujuan,Jumlah yang dibayar,Jumlah To Pay,On-Account,Jumlah yang dibatalkan,Biaya Penanganan,Jumlah Total
+Denpasar,OBL Gunung Agung Denpasar,0,0,44550.0,44550.0,0.0,0.0
+Denpasar,OBL Renon,50000.0,0,0,0,0.0,50000.0
+Halaman Total,,50000.0,0,44550.0,44550.0,0.0,50000.0
+
+"","",Citywise Terbayar / Dibayar / On-Account Details
+Source City,Singaraja
+Kota Tujuan,Cabang Tujuan,Jumlah yang dibayar,Jumlah To Pay,On-Account,Jumlah yang dibatalkan,Biaya Penanganan,Jumlah Total
+Magelang,OBL MGL,165000.0,0,0,165000.0,0.0,0.0
+JAKARTA,OBL Kebayoran Lama,420000.0,0,0,350000.0,0.0,70000.0
+Yogyakarta,OBL Janti,90000.0,0,0,0,0.0,90000.0
+Halaman Total,,675000.0,0,0,515000.0,0.0,160000.0
+
+"","",Citywise Terbayar / Dibayar / On-Account Details
+Source City,Mataram
+Kota Tujuan,Cabang Tujuan,Jumlah yang dibayar,Jumlah To Pay,On-Account,Jumlah yang dibatalkan,Biaya Penanganan,Jumlah Total
+JAKARTA,OBL Kebayoran Lama,1726630.0,0,0,0,0.0,1726630.0
+Magelang,terminalmagelang,137500.0,0,0,0,0.0,137500.0
+Yogyakarta,OBL Janti,780000.0,0,0,330000.0,0.0,450000.0
+Solo,OBL Tirtonadi,750000.0,0,0,0,0.0,750000.0
+Halaman Total,,3394130.0,0,0,330000.0,0.0,3064130.0
+
+"","",Categorywise Booking Details
+Tipe LR,Total Jumlah dari LR,Total banyaknya artikel,Pengiriman,Biaya Penanganan,Pajak Servis,Diskon,Total Pajak,Jumlah yang dibatalkan,Terbilang
+Terbayar,780,1286.0,115127145.0,79000.0,0.0,3000.0,979700.05,2539610.0,113867735.05
+Gratis,136,172.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dibayar,7,23.0,589000.0,0.0,0.0,0.0,71000.0,0,660000.0
+On-Account,114,277.0,9569280.0,3000.0,0.0,0.0,181900.0,84550.0,9672630.0
+Halaman Total,1037,1758.0,125285425.0,82000.0,0.0,3000.0,1232600.05,2624160.0,124200365.05

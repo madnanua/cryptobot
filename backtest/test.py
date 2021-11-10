@@ -1,15 +1,20 @@
-import pandas as pd
+import functools
+import logging
+import time
 
-df = pd.read_csv('branchwise_analysis_report (1).csv', skiprows=8)
-x = df.index[df['Nomor LR '] == "Halaman Total"]
-df.drop(df.index[[x[0]]], inplace=True)
-df = df[df['Pajak Servis'].notna()]
-resultdf = df[df['Nomor LR '] == "temanggung/4985"]
 
-if not resultdf.empty:
-    print("ok")
-else:
-    print("not ok")
+def timed(logger, level=None, format='%s: %s ms'):
+    if level is None:
+        level = logging.DEBUG
 
-# print("Paket Anda diterima pada Tanggal {} dengan tujuan {}".format(
-#     resultdf.iloc[0]['Tanggal Pemesanan'], resultdf.iloc[0]['Tujuan']))
+    def decorator(fn):
+        @functools.wraps(fn)
+        def inner(*args, **kwargs):
+            start = time.time()
+            result = fn(*args, **kwargs)
+            duration = time.time() - start
+            logger.log(level, format, repr(fn), duration * 1000)
+            return result
+        return inner
+
+    return decorator

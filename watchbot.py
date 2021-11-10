@@ -1,8 +1,13 @@
 import config
 import binance_acc
+# import screenerbinance
+from binance.client import Client
+from tqdm import tqdm
+
 import logging
 import pandas as pd
 import matplotlib.pyplot as plt
+import time
 
 from telegram import *
 from telegram.ext import *
@@ -27,7 +32,7 @@ def getid(update):
 
 
 def respon(update, input_text):
-    user_message = str(input_text)
+    user_message = str(input_text).lower()
     result = ''
     try:
         if user_message == "balance":
@@ -35,12 +40,13 @@ def respon(update, input_text):
             result = df
 
         if user_message == "stream":
-            df = binance_acc.stream
+            df = binance_acc.streams()
             result = df
     except:
         result = "yg lain"
 
-    result_msg = ("{} are : \n{}".format(user_message, result))
+    result_msg = ("{} close at : \n{}".format(
+        binance_acc.symbol_trade, result))
 
     return result_msg
 
@@ -48,26 +54,34 @@ def respon(update, input_text):
 def handle_message(update, context):
     text = str(update.message.text)
     getid(update)
-    response = respon(update, text)
-
-    update.message.reply_text(response)
+    while True:
+        response = respon(update, text)
+        update.message.reply_text(response)
 
 
 def start(update: Update, context: CallbackContext) -> int:
     user = update.message.from_user
-    logger.info("User %s started the conversation.", user.first_name)
-    # welcome message
-    update.message.reply_text(
-        'Selamat datang'
-    )
-    return HANDLE_MESSAGE
+    logger.info("User %s started the request..", user.first_name)
+    while True:
+        try:
+            # symbol = get_watchlists().to_string()
+            update.message.reply_text(
+                binance_acc.get_watchlists()
+            )
+            logger.info("Please wait for 5 minutes")
+            time.sleep(300)
+            logger.info("Thanks for Waiting.. Processing the data")
+        except:
+            update.message.reply_text(
+                "ERROR")
+            return HANDLE_MESSAGE
 
 
 def cancel(update: Update, context: CallbackContext) -> int:
     user = update.message.from_user
-    logger.info("User %s canceled the conversation.", user.first_name)
+    logger.info("User %s cancelled the request.", user.first_name)
     update.message.reply_text(
-        'Terimakasih sudah menggunakan jasa kami \n untuk kembali ke menu awal silahkan klik /start', reply_markup=ReplyKeyboardRemove()
+        'Terimakasih\nuntuk kembali ke menu awal silahkan klik /start', reply_markup=ReplyKeyboardRemove()
     )
 
     return ConversationHandler.END

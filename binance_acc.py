@@ -32,7 +32,7 @@ def get_watchlists():
     for symbol in relevant:
         if len(klines[symbol]) > 0:
             cumret = ((pd.DataFrame(klines[symbol])[
-                4].astype(float).pct_change()+1).prod()-1)*100
+                5].astype(float).pct_change()+1).prod()-1)*100
             returns.append(cumret)
             symbols.append(symbol)
     retdf = pd.DataFrame(returns, index=symbols, columns=['ret'])

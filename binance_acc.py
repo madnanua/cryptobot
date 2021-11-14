@@ -1,4 +1,5 @@
 from logging import error
+from os import sep
 import config
 import requests
 import pandas as pd
@@ -28,27 +29,36 @@ def get_watchlists():
     for symbol in tqdm(relevant):
         klines[symbol] = client.get_historical_klines(
             symbol, '5m', '1 hour ago UTC')
-    returns, symbols, links = [], [], []
+    returns, symbols, volumes, links = [], [], [], []
     for symbol in relevant:
         if len(klines[symbol]) > 0:
             cumret = ((pd.DataFrame(klines[symbol])[
                 4].astype(float).pct_change()+1).prod()-1)*100
+            cumvol = ((pd.DataFrame(klines[symbol])[
+                5].astype(float).pct_change()+1).prod()-1)*100
             returns.append(cumret)
+            volumes.append(cumvol)
             symbols.append(symbol)
     retdf = pd.DataFrame(returns, index=symbols, columns=['ret'])
+    voldf = pd.DataFrame(volumes, index=symbols, columns=['vol'])
     largest = retdf.ret.nlargest(3).index.tolist()
     smallest = retdf.ret.nsmallest(3).index.tolist()
+    volumest = voldf.vol.nlargest(3).index.tolist()
 
     for large in largest:
         links.append(
             "https://www.binance.com/en/trade/{}_USDT".format(large[:-4]))
+    for volume in volumest:
+        links.append(
+            "https://www.binance.com/en/trade/{}_USDT".format(volume[:-4]))
     for small in smallest:
         links.append(
             "https://www.binance.com/en/trade/{}_USDT".format(small[:-4]))
     # print(links)
 
-    message = ("Top 3 Winners & Top 3 Losers : \n{}".format(
-        links))
+    message = ("Top 3 : \n{}\nVolume 3 : \n{}\nBottom 3 : \n{}\nLinks : \n{}\n".format(
+        largest, volumest, smallest, ('\n'.join(links))))
+
     return message
 
 

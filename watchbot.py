@@ -31,6 +31,22 @@ def getid(update):
     bot = TelegramBot(key, int(user_id))
 
 
+def error_handle(update):
+    logger.info("There is an error once, retrying..")
+    while True:
+        try:
+            # symbol = get_watchlists().to_string()
+            update.message.reply_text(
+                binance_acc.get_watchlists()
+            )
+            logger.info("Please wait for 5 minutes")
+            time.sleep(300)
+        except:
+            update.message.reply_text(
+                "ERROR")
+            error_handle(update)
+
+
 def respon(update, input_text):
     user_message = str(input_text).lower()
     result = ''
@@ -70,11 +86,12 @@ def start(update: Update, context: CallbackContext) -> int:
             )
             logger.info("Please wait for 5 minutes")
             time.sleep(300)
-            logger.info("Thanks for Waiting.. Processing the data")
+            # logger.info("Thanks for Waiting.. Processing the data")
         except:
             update.message.reply_text(
                 "ERROR")
-            return HANDLE_MESSAGE
+            error_handle(update)
+            # return HANDLE_MESSAGE
 
 
 def cancel(update: Update, context: CallbackContext) -> int:

@@ -1,2 +1,2 @@
 # cryptobot
-ETHERIUM AUTO TRADING BOT
+TRADING BOT Journey

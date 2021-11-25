@@ -5,6 +5,11 @@ import pandas as pd
 import datetime as dt
 import websocket
 import json
+import logging
+logging.basicConfig(filename='autobot-2.log',
+    format='%(asctime)s - %(name)s - %(levelname)s : %(message)s', level=logging.INFO
+)
+logger = logging.getLogger(__name__)
 
 path = '/home/madnanua/git/csvs/'
 client = Client(key_binance, secret_binance)
@@ -38,28 +43,31 @@ prize = float(client.get_symbol_ticker(symbol=top_coin)['price'])
 buy_quantity = round(inv_amt/prize/lotsize)*lotsize
 
 if float([i for i in client.get_account()['balances'] if i['asset'] == 'USDT'][0]['free']) > inv_amt:
-    print('can buy')
-    order = client.order_limit_buy(
-        symbol=top_coin, quantity=buy_quantity, price=prize)
-    print(order)
+    buymsg = 'buying {} at {}'.format(top_coin,prize)
+    print(buymsg)
+    # order = client.order_limit_buy(
+    #     symbol=top_coin, quantity=buy_quantity, price=prize)
+    logging.info(buymsg)
+    buyprice = prize
     # print(prize)
 else:
     print('already invested')
     quit()
-buyprice = float(order['price'])
-# buyprice = prize
+# buyprice = float(order['price'])
 
 stream = f"wss://stream.binance.com:9443/ws/{top_coin.lower()}@trade"
 
 
 def on_message(ws, message):
     msg = json.loads(message)
-    print((msg['p']-buyprice)/buyprice*100)
-    if float(msg['p']) < buyprice * 0.98 or float(msg['p']) > 1.03*buyprice:
-        order = client.create_order(
-            symbol=top_coin, side='SELL', type='MARKET', quantity=buy_quantity)
-        print(order)
-        # print(msg['p'])
+    print(f"{(float(msg['p'])-float(buyprice))/float(buyprice)*100:,.2f}")
+    if float(msg['p']) < buyprice * 0.98 or float(msg['p']) > 1.05*buyprice:
+        # order = client.create_order(
+        #     symbol=top_coin, side='SELL', type='MARKET', quantity=buy_quantity)
+        # logging.info(top_coin)
+        sellmsg = 'selling {} at {}'.format(top_coin,msg['p'])
+        logging.info(sellmsg)
+        print(sellmsg)
         ws.close()
 
 

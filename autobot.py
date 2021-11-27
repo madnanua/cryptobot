@@ -2,6 +2,7 @@ import websocket
 import json
 import pandas as pd
 import logging
+from datetime import datetime
 logging.basicConfig(filename='autobot.log',
     format='%(asctime)s - %(name)s - %(levelname)s : %(message)s', level=logging.INFO
 )
@@ -24,8 +25,9 @@ def on_message(ws, message):
         data = frame[row:row+1]
         data[['E', 'c']].to_csv(
             path+data['s'].values[0], mode='a', header=False)
-    logging.info(frame['s'])
-
+    now = datetime.now()
+    dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+    logging.info(dt_string)
 
 ws = websocket.WebSocketApp(stream, on_message=on_message)
 ws.run_forever()

@@ -2,7 +2,7 @@ LOCAL MACHINE :
 chmod +x autobot.py && nohup python3 autobot.py &
 ----------------------------------------------------
 Cronjobs :
-* * * * * /usr/bin/python3  /home/madnanua/git/cryptobot/autobot-2.py >> autobot-2.txt
+* * * * * /usr/bin/python3  /home/madnanua/git/cryptobot/autobot-2.py >> /home/madnanua/git/cryptobot/autobot-2.txt
 ----------------------------------------------------
 Edit FROM Window SSH google File :
 sudo nano /etc/ssh/sshd_config
@@ -15,8 +15,10 @@ sudo passwd root
 sudo systemctl restart sshd
 ----------------------------------------------------
 TERMINAL :
-sudo ssh root@34.88.86.201
+sudo ssh root@35.193.233.182
 chmod +x gcpstream.py && nohup python3 gcpstream.py &
 ----------------------------------------------------
 Cronjobs :
-* * * * * /usr/bin/python3 gcptele.py >> gcptele.txt
+* * * * * /usr/bin/python3 /root/cryptobot/gcptele.py >> /root/cryptobot/gcptele.txt
+
+git clone https://github.com/madnanua/cryptobot

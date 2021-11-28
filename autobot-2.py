@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter("%(levelname)s:%(asctime)s: %(message)s",
                               "%Y-%m-%d %H:%M:%S")
-file_handler = logging.FileHandler('ERROR_autobot-2.log')
+file_handler = logging.FileHandler('/home/madnanua/git/cryptobot/ERROR_autobot-2.log')
 file_handler.setFormatter(formatter)
 file_handler.setLevel(logging.ERROR)
 
@@ -112,6 +112,7 @@ def on_message(ws, message):
     # if float(msg['p']) < buyprice * 0.985 or float(msg['p']) > 1.026*buyprice:
             # order = client.create_order(
             #     symbol=top_coin, side='SELL', type='MARKET', quantity=buy_quantity)
+        dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
         sellmsg = f"{dt_string} : sold   {top_coin} at {msg['p']}"
         try:
             traderes = (float(msg['p'])-float(buyprice))/float(buyprice)*100

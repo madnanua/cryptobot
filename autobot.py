@@ -8,7 +8,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter("%(levelname)s:%(asctime)s: %(message)s",
                               "%Y-%m-%d %H:%M:%S")
-file_handler = logging.FileHandler('ERROR_autobot.log')
+file_handler = logging.FileHandler('/home/madnanua/ERROR_autobot.log')
 file_handler.setFormatter(formatter)
 file_handler.setLevel(logging.ERROR)
 

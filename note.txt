@@ -2,7 +2,7 @@ LOCAL MACHINE :
 chmod +x autobot.py && nohup python3 autobot.py &
 ----------------------------------------------------
 Cronjobs :
-* * * * * /usr/bin/python3  /home/madnanua/git/cryptobot/autobot-2.py >> /home/madnanua/git/cryptobot/autobot-2.txt
+* * * * * /usr/bin/python3  /home/madnanua/git/cryptobot/autobot-2.py >> /home/madnanua/git/cryptobot/CRON_autobot-2.txt
 ----------------------------------------------------
 Edit FROM Window SSH google File :
 sudo nano /etc/ssh/sshd_config

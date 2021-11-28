@@ -1,0 +1,16 @@
+Edit FROM Window SSH google File :
+sudo nano /etc/ssh/sshd_config
+----------------------------------------------------
+PasswordAuthentication yes
+PermitRootLogin yes
+PubkeyAuthentication no
+----------------------------------------------------
+sudo passwd root
+sudo systemctl restart sshd
+----------------------------------------------------
+TERMINAL :
+sudo ssh root@34.88.86.201
+chmod +x gcpstream.py && nohup python3 gcpstream.py &
+----------------------------------------------------
+Cronjobs :
+* * * * * /usr/bin/python3 gcptele.py >> gcptele.txt

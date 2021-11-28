@@ -1,5 +1,5 @@
 import config
-import binance_acc
+import try.binance_acc as binance_acc
 from binance.client import Client
 from tqdm import tqdm
 

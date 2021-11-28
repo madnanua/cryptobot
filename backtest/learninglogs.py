@@ -16,7 +16,7 @@ logger.addHandler(stream_handler)
 
 def div(x,y):
    try:
-      result=x/yz
+      result=x/y
       logger.debug(result)
       # if x>y:
       #    raise Exception

@@ -8,7 +8,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter("%(levelname)s:%(asctime)s: %(message)s",
                               "%Y-%m-%d %H:%M:%S")
-file_handler = logging.FileHandler('autobot--ERROR.log')
+file_handler = logging.FileHandler('gcpstream--ERROR.log')
 file_handler.setFormatter(formatter)
 file_handler.setLevel(logging.ERROR)
 
@@ -19,7 +19,7 @@ logger.addHandler(file_handler)
 logger.addHandler(stream_handler)
 
 
-path = '/home/madnanua/git/csvs/'
+path = '/root/csvs/'
 
 stream = "wss://stream.binance.com:9443/ws/!miniTicker@arr"
 

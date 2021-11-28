@@ -1,4 +1,4 @@
-from config import binance_key,binance_secret,telegram_token_crypto,telegram_chatid
+from config import binance_key,binance_secret,telegram_token_goog_crpyto,telegram_chatid
 from binance.client import Client
 import os
 import pandas as pd
@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter("%(levelname)s:%(asctime)s: %(message)s",
                               "%Y-%m-%d %H:%M:%S")
-file_handler = logging.FileHandler('autobot-2--ERROR.log')
+file_handler = logging.FileHandler('gcptele--ERROR.log')
 file_handler.setFormatter(formatter)
 file_handler.setLevel(logging.ERROR)
 
@@ -24,13 +24,13 @@ logger.addHandler(file_handler)
 logger.addHandler(stream_handler)
 
 
-path = '/home/madnanua/git/csvs/'
+path = '/csvs/'
 client = Client(binance_key, binance_secret)
 symbols = os.listdir(path)
 rets = []
 
 def telegram_bot_sendtext(bot_message):
-    bot_token = telegram_token_crypto
+    bot_token = telegram_token_goog_crpyto
     bot_chatID = telegram_chatid
     try:
         send_text = 'https://api.telegram.org/bot' + bot_token + '/sendMessage?chat_id=' + bot_chatID + '&parse_mode=Markdown&text=' + bot_message
@@ -45,7 +45,7 @@ def telegram_bot_sendtext(bot_message):
 
 def last_n_min(symbol, lookback: int):
     try:
-        data = pd.read_csv('/home/madnanua/git/csvs/'+symbol, names=['E', 'c'])
+        data = pd.read_csv('/csvs/'+symbol, names=['E', 'c'])
         data['E'] = pd.to_datetime(data['E'])
         before = pd.to_datetime('now') - dt.timedelta(minutes=lookback)
         data = data[data.E >= before]
@@ -94,11 +94,11 @@ else:
 stream = f"wss://stream.binance.com:9443/ws/{top_coin.lower()}@trade"
 
 def add(retlast):
-    df = pd.read_csv("/home/madnanua/git/cryptobot/returns.csv",names=['r'])
+    df = pd.read_csv("returns.csv",names=['r'])
     retprev = df['r'].iloc[-1]
     retnew = float(retlast)+float(retprev)
     df2 = pd.DataFrame({'r': [retnew]})
-    df2.to_csv("/home/madnanua/git/cryptobot/returns.csv", mode='a', header=False,index=False)
+    df2.to_csv("returns.csv", mode='a', header=False,index=False)
 
     return retnew
 

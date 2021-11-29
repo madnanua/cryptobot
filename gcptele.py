@@ -32,9 +32,6 @@ symbols = os.listdir(path)
 rets = []
 client = Client(binance_key, binance_secret)
 
-now = datetime.now()
-proces = now.strftime("%d/%m/%Y %H:%M:%S")
-
 def telegram_bot_sendtext(bot_message):
     bot_token = telegram_token_goog_crpyto
     bot_chatID = telegram_chatid

@@ -95,7 +95,7 @@ def is_breaking_out(df, minutes,percentage):
     # cumret = (prices.c.pct_change()+1).prod()-1
     # rets.append(cumret)
 # top_coin = symbols[rets.index(max(rets))]
-top_coin = 'ETHUSDT'
+top_coin = 'BTCUSDT'
 
 try:
     inv_amt = 20

@@ -1,4 +1,4 @@
-from config import binance_key,binance_secret,telegram_token_goog_crpyto,telegram_chatid
+from config import binance_key,binance_secret,telegram_token_crypto,telegram_chatid
 from binance.client import Client
 import os
 import pandas as pd
@@ -36,7 +36,7 @@ now = datetime.now()
 proces = now.strftime("%d/%m/%Y %H:%M:%S")
 
 def telegram_bot_sendtext(bot_message):
-    bot_token = telegram_token_goog_crpyto
+    bot_token = telegram_token_crypto
     bot_chatID = telegram_chatid
     try:
         send_text = 'https://api.telegram.org/bot' + bot_token + '/sendMessage?chat_id=' + bot_chatID + '&parse_mode=Markdown&text=' + bot_message

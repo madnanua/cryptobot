@@ -19,8 +19,8 @@ logger.addHandler(file_handler)
 logger.addHandler(stream_handler)
 
 
-path = '/root/csvs/'
-
+path = '~/git/csvs/'
+print(path)
 stream = "wss://stream.binance.com:9443/ws/!miniTicker@arr"
 
 

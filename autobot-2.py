@@ -57,6 +57,7 @@ def last_n_min(symbol, lookback: int):
         logger.exception(f"Data : {e}")
     else:
         return data
+
 try:
     for symbol in symbols:
         prices = last_n_min(symbol, 5)
@@ -114,7 +115,7 @@ def on_message(ws, message):
     if float(msg['p']) > ath:
         ath = float(msg['p'])
 
-    if float(msg['p']) < ath * 0.95:
+    if float(msg['p']) < ath * 0.98:
     # if float(msg['p']) < buyprice * 0.985 or float(msg['p']) > 1.026*buyprice:
             # order = client.create_order(
             #     symbol=top_coin, side='SELL', type='MARKET', quantity=buy_quantity)

@@ -2,13 +2,19 @@ import websocket
 import json
 import pandas as pd
 from datetime import datetime
+import os
 import logging
+
+activename = os.path.basename(__file__)
+thisfilename = activename.replace(".py","")
+dirname = os.path.dirname(__file__)
+prevdir = os.path.dirname(dirname)
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter("%(levelname)s:%(asctime)s: %(message)s",
                               "%Y-%m-%d %H:%M:%S")
-file_handler = logging.FileHandler('ERROR_gcpstream.log')
+file_handler = logging.FileHandler(f"{thisfilename}-ERROR.log")
 file_handler.setFormatter(formatter)
 file_handler.setLevel(logging.ERROR)
 
@@ -18,8 +24,8 @@ stream_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 logger.addHandler(stream_handler)
 
+path = "/home/ronintoadin/csvs/"
 
-path = '~/git/csvs/'
 print(path)
 stream = "wss://stream.binance.com:9443/ws/!miniTicker@arr"
 

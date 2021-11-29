@@ -9,6 +9,8 @@ Cronjobs :
 ----------------------------------------------------
 Edit FROM Window SSH google File :
 sudo nano /etc/ssh/sshd_config
+git clone https://github.com/madnanua/cryptobot
+sudo apt update && sudo apt upgrade && sudo apt install python3-pip && pip3 install -r gcpreq.txt
 ----------------------------------------------------
 PasswordAuthentication yes
 PermitRootLogin yes
@@ -18,10 +20,6 @@ sudo passwd root
 sudo systemctl restart sshd
 ----------------------------------------------------
 TERMINAL :
-sudo ssh root@35.193.233.182
+sudo ssh root@34.95.63.203
 chmod +x gcpstream.py && nohup python3 gcpstream.py &
 ----------------------------------------------------
-Cronjobs :
-* * * * * /usr/bin/python3 /root/cryptobot/gcptele.py >> /root/cryptobot/gcptele.txt
-
-git clone https://github.com/madnanua/cryptobot

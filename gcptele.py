@@ -9,25 +9,31 @@ import requests
 from datetime import datetime
 import logging
 
+activename = os.path.basename(__file__)
+thisfilename = activename.replace(".py","")
+dirname = os.path.dirname(__file__)
+prevdir = os.path.dirname(dirname)
+
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter("%(levelname)s:%(asctime)s: %(message)s",
                               "%Y-%m-%d %H:%M:%S")
-file_handler = logging.FileHandler('ERROR_gcptele.log')
+file_handler = logging.FileHandler(f"{thisfilename}-ERROR.log")
 file_handler.setFormatter(formatter)
 file_handler.setLevel(logging.ERROR)
-
 stream_handler = logging.StreamHandler()
 stream_handler.setFormatter(formatter)
-
 logger.addHandler(file_handler)
 logger.addHandler(stream_handler)
 
 
-path = '/csvs/'
-client = Client(binance_key, binance_secret)
+path = f"{prevdir}/csvs/"
 symbols = os.listdir(path)
 rets = []
+client = Client(binance_key, binance_secret)
+
+now = datetime.now()
+proces = now.strftime("%d/%m/%Y %H:%M:%S")
 
 def telegram_bot_sendtext(bot_message):
     bot_token = telegram_token_goog_crpyto
@@ -45,23 +51,54 @@ def telegram_bot_sendtext(bot_message):
 
 def last_n_min(symbol, lookback: int):
     try:
-        data = pd.read_csv('/csvs/'+symbol, names=['E', 'c'])
+        data = pd.read_csv(path+symbol, names=['E', 'c'])
         data['E'] = pd.to_datetime(data['E'])
         before = pd.to_datetime('now') - dt.timedelta(minutes=lookback)
-        data = data[data.E >= before]
+        data = data[data.E >= before].reset_index(drop=True)
+        data.to_csv(
+                path+symbol, header=False)
     except Exception as e:
         logger.exception(f"Data : {e}")
     else:
         return data
-try:
-    for symbol in symbols:
-        prices = last_n_min(symbol, 3)
-        cumret = (prices.c.pct_change()+1).prod()-1
-        rets.append(cumret)
-except Exception as e:
-    logger.exception(f"Returns : {e}")
-else:
-    top_coin = symbols[rets.index(min(rets))]
+
+def is_consolidating(df, minutes, percentage):
+    sec= minutes*60 -1
+    recent_candlesticks = df[-sec:]
+    
+    max_close = recent_candlesticks.c.max()
+    min_close = recent_candlesticks.c.min()
+
+    threshold = 1 - (percentage / 100)
+    if min_close > (max_close * threshold):
+        return True        
+
+    return False
+
+def is_breaking_out(df, minutes,percentage):
+    last_close = df[-1:].c.values
+    sec = minutes*60-1
+    percentage=percentage
+
+    if is_consolidating(df=df[:-1],minutes=minutes, percentage=percentage):
+        recent_closes = df[-sec:-1]
+
+        if last_close > recent_closes.c.max():
+            cumret = (df.c.pct_change()+1).prod()-1
+            return cumret
+    return 0
+
+for symbol in symbols:
+    minutes = 5*60
+    percentage = 2
+    df = last_n_min(symbol, minutes)
+    ret= is_breaking_out(df=df,minutes=minutes,percentage=percentage)
+    rets.append(ret)
+    # prices = last_n_min(symbol, 5)
+    # cumret = (prices.c.pct_change()+1).prod()-1
+    # rets.append(cumret)
+top_coin = symbols[rets.index(max(rets))]
+
 
 try:
     inv_amt = 20
@@ -75,11 +112,12 @@ except Exception as e:
 
 if float([i for i in client.get_account()['balances'] if i['asset'] == 'USDT'][0]['free']) > inv_amt:
     try:
-        now = datetime.now()
-        dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+        buynow = datetime.now()
+        buystamp = buynow.strftime("%d/%m/%Y %H:%M:%S")
         # order = client.order_limit_buy(
         #     symbol=top_coin, quantity=buy_quantity, price=prize)
-        buymsg = f"{dt_string} : bought {top_coin} at {prize}"
+        telegram_bot_sendtext(f"{buystamp} : buying {top_coin}")
+        buymsg = f"{buystamp} : bought {top_coin} at {prize}"
     except Exception as e:
         logger.exception(f"Buying : {e}")
     else:
@@ -94,29 +132,37 @@ else:
 stream = f"wss://stream.binance.com:9443/ws/{top_coin.lower()}@trade"
 
 def add(retlast):
-    df = pd.read_csv("returns.csv",names=['r'])
+    try:
+        df = pd.read_csv(f"{thisfilename}-RETURN.csv",names=['r'])
+    except:
+        df = pd.DataFrame({'r':[0]})
+        df.to_csv(f"{thisfilename}-RETURN.csv", mode='a', header=False,index=False)
     retprev = df['r'].iloc[-1]
     retnew = float(retlast)+float(retprev)
     df2 = pd.DataFrame({'r': [retnew]})
-    df2.to_csv("returns.csv", mode='a', header=False,index=False)
+    df2.to_csv(f"{thisfilename}-RETURN.csv", mode='a', header=False,index=False)
 
     return retnew
 
 def on_message(ws, message):
     global ath
-    msg = json.loads(message)
+    try:
+        msg = json.loads(message)
+    except Exception as e:
+        logger.exception(f"Socket : {e}")
     if float(msg['p']) > ath:
         ath = float(msg['p'])
-
-    if float(msg['p']) < ath * 0.98:
+    if float(msg['p']) < ath * 0.985:
     # if float(msg['p']) < buyprice * 0.985 or float(msg['p']) > 1.026*buyprice:
             # order = client.create_order(
             #     symbol=top_coin, side='SELL', type='MARKET', quantity=buy_quantity)
-        sellmsg = f"{dt_string} : sold   {top_coin} at {msg['p']}"
+        sellnow = datetime.now()
+        sellstamp = sellnow.strftime("%d/%m/%Y %H:%M:%S")
+        sellmsg = f"{sellstamp} : sold   {top_coin} at {msg['p']}"
         try:
             traderes = (float(msg['p'])-float(buyprice))/float(buyprice)*100
             totret=add(retlast=traderes)
-            telegrambotmsg= f"{top_coin} result is {traderes:,.2f}%\nTotal Returns : {totret}"
+            telegrambotmsg= f"{sellstamp} : \n{top_coin} result is {traderes:,.2f}%\nTotal Returns : {totret:,.2f}%"
             telegram_bot_sendtext(telegrambotmsg)
         except Exception as e:
             logger.exception(f"Telegram : {e}")

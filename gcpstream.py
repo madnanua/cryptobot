@@ -43,7 +43,6 @@ logger.addHandler(stream_handler)
 path = f"{prevdir}/csvs/"
 if not os.path.exists(path):
     os.makedirs(path)
-print(path)
 stream = "wss://stream.binance.com:9443/ws/!miniTicker@arr"
 
 

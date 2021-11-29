@@ -95,7 +95,7 @@ def telegram_bot_sendtext(bot_message):
     # cumret = (prices.c.pct_change()+1).prod()-1
     # rets.append(cumret)
 # top_coin = symbols[rets.index(max(rets))]
-top_coin = 'BTCUSDT'
+top_coin = 'ETHUSDT'
 
 try:
     inv_amt = 20
@@ -114,7 +114,7 @@ if float([i for i in client.get_account()['balances'] if i['asset'] == 'USDT'][0
         order = client.order_limit_buy(
             symbol=top_coin, quantity=buy_quantity, price=prize)
         telegram_bot_sendtext(f"{buystamp} : buying {top_coin}")
-        buymsg = f"{buystamp} : bought {top_coin} at {order}"
+        buymsg = f"{buystamp} : bought {top_coin} at {order['price']}"
     except Exception as e:
         logger.exception(f"Buying : {e}")
     else:

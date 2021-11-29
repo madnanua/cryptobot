@@ -27,8 +27,8 @@ logger.addHandler(file_handler)
 logger.addHandler(stream_handler)
 
 
-path = f"{prevdir}/csvs/"
-symbols = os.listdir(path)
+# path = f"{prevdir}/csvs/"
+# symbols = os.listdir(path)
 rets = []
 client = Client(binance_key, binance_secret)
 
@@ -46,44 +46,44 @@ def telegram_bot_sendtext(bot_message):
     else:
         return response.json()
 
-def last_n_min(symbol, lookback: int):
-    try:
-        data = pd.read_csv(path+symbol, names=['E', 'c'])
-        data['E'] = pd.to_datetime(data['E'])
-        before = pd.to_datetime('now') - dt.timedelta(minutes=lookback)
-        data = data[data.E >= before].reset_index(drop=True)
-        data.to_csv(
-                path+symbol, header=False)
-    except Exception as e:
-        logger.exception(f"Data : {e}")
-    else:
-        return data
+# def last_n_min(symbol, lookback: int):
+#     try:
+#         data = pd.read_csv(path+symbol, names=['E', 'c'])
+#         data['E'] = pd.to_datetime(data['E'])
+#         before = pd.to_datetime('now') - dt.timedelta(minutes=lookback)
+#         data = data[data.E >= before].reset_index(drop=True)
+#         data.to_csv(
+#                 path+symbol, header=False)
+#     except Exception as e:
+#         logger.exception(f"Data : {e}")
+#     else:
+#         return data
 
-def is_consolidating(df, minutes, percentage):
-    sec= minutes*60 -1
-    recent_candlesticks = df[-sec:]
+# def is_consolidating(df, minutes, percentage):
+#     sec= minutes*60 -1
+#     recent_candlesticks = df[-sec:]
     
-    max_close = recent_candlesticks.c.max()
-    min_close = recent_candlesticks.c.min()
+#     max_close = recent_candlesticks.c.max()
+#     min_close = recent_candlesticks.c.min()
 
-    threshold = 1 - (percentage / 100)
-    if min_close > (max_close * threshold):
-        return True        
+#     threshold = 1 - (percentage / 100)
+#     if min_close > (max_close * threshold):
+#         return True        
 
-    return False
+#     return False
 
-def is_breaking_out(df, minutes,percentage):
-    last_close = df[-1:].c.values
-    sec = minutes*60-1
-    percentage=percentage
+# def is_breaking_out(df, minutes,percentage):
+#     last_close = df[-1:].c.values
+#     sec = minutes*60-1
+#     percentage=percentage
 
-    if is_consolidating(df=df[:-1],minutes=minutes, percentage=percentage):
-        recent_closes = df[-sec:-1]
+#     if is_consolidating(df=df[:-1],minutes=minutes, percentage=percentage):
+#         recent_closes = df[-sec:-1]
 
-        if last_close > recent_closes.c.max():
-            cumret = (df.c.pct_change()+1).prod()-1
-            return cumret
-    return 0
+#         if last_close > recent_closes.c.max():
+#             cumret = (df.c.pct_change()+1).prod()-1
+#             return cumret
+#     return 0
 
 # for symbol in symbols:
 #     minutes = 5*60

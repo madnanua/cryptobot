@@ -6,12 +6,12 @@ kill -9 [pid]
 Cronjobs :
 * * * * * /usr/bin/python3  /home/madnanua/git/cryptobot/autobot-2.py >> /home/madnanua/CRON-autobot-2.txt
 */6 * * * * /usr/bin/python3  /home/madnanua/git/cryptobot/test.py >> /home/madnanua/test-JOBS.txt
-*/5 * * * * /usr/bin/python3 /home/ronintoadin/cryptobot/gcptele.py >> gcptele-JOBS.txt
+*/5 * * * * /usr/bin/python3 /root/cryptobot/gcptele.py >> gcptele-JOBS.txt
 ----------------------------------------------------
 Edit FROM Window SSH google File :
 sudo nano /etc/ssh/sshd_config
 git clone https://github.com/madnanua/cryptobot
-sudo apt update && sudo apt upgrade && sudo apt install python3-pip && pip3 install -r gcpreq.txt
+mkdir csvs && cd cryptobot && sudo apt update && sudo apt upgrade && sudo apt install python3-pip && pip3 install -r gcpreq.txt
 ----------------------------------------------------
 chmod +x gcpstream.py && nohup python3 gcpstream.py &
 ps -ef|grep gcpstream.py
@@ -25,5 +25,5 @@ sudo passwd root
 sudo systemctl restart sshd
 ----------------------------------------------------
 TERMINAL :
-sudo ssh root@34.95.63.203
+sudo ssh root@34.65.165.55
 ----------------------------------------------------

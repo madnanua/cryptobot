@@ -4,6 +4,22 @@ import pandas as pd
 from datetime import datetime
 import os
 import logging
+import requests
+from config import telegram_token_error,telegram_chatid
+
+def telegram_bot_senderror(bot_message):
+    bot_token = telegram_token_error
+    bot_chatID = telegram_chatid
+    try:
+        send_text = 'https://api.telegram.org/bot' + bot_token + '/sendMessage?chat_id=' + bot_chatID + '&parse_mode=Markdown&text=' + bot_message
+    except Exception as e:
+        logger.exception(f"Telegram send : {e}")
+    try:
+        response = requests.get(send_text)
+    except Exception as e:
+        logger.exception(f"Request : {e}")
+    else:
+        return response.json()
 
 activename = os.path.basename(__file__)
 thisfilename = activename.replace(".py","")
@@ -24,7 +40,7 @@ stream_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 logger.addHandler(stream_handler)
 
-path = "/home/ronintoadin/csvs/"
+path = f"{prevdir}/csvs/"
 
 print(path)
 stream = "wss://stream.binance.com:9443/ws/!miniTicker@arr"
@@ -47,6 +63,24 @@ def on_message(ws, message):
         logging.info(dt_string)
     except Exception as e:
         logger.exception(f"Socket : {e}")
+        telegram_bot_senderror(f"{thisfilename} - Socket : {e}")
 
 ws = websocket.WebSocketApp(stream, on_message=on_message)
-ws.run_forever()
+
+def loop1():
+    try:
+        ws.run_forever()
+    except Exception as e:
+        telegram_bot_senderror(f"{thisfilename} - Socket : {e}")
+    else:
+        loop2()
+
+def loop2():
+    try:
+        ws.run_forever()
+    except Exception as e:
+        telegram_bot_senderror(f"{thisfilename} - Socket : {e}")
+    else:
+        loop1()
+
+loop1()

@@ -1,4 +1,4 @@
-from config import binance_key,binance_secret,telegram_token_goog_crpyto,telegram_chatid
+from config import binance_key,binance_secret,telegram_token_goog_crpyto,telegram_chatid,telegram_token_error
 from binance.client import Client
 import os
 import pandas as pd
@@ -39,12 +39,29 @@ def telegram_bot_sendtext(bot_message):
         send_text = 'https://api.telegram.org/bot' + bot_token + '/sendMessage?chat_id=' + bot_chatID + '&parse_mode=Markdown&text=' + bot_message
     except Exception as e:
         logger.exception(f"Telegram send : {e}")
+        telegram_bot_senderror(f"{thisfilename} - Telegram send : {e}")
+    try:
+        response = requests.get(send_text)
+    except Exception as e:
+        logger.exception(f"Request : {e}")
+        telegram_bot_senderror(f"{thisfilename} - Request : {e}")
+    else:
+        return response.json()
+
+def telegram_bot_senderror(bot_message):
+    bot_token = telegram_token_error
+    bot_chatID = telegram_chatid
+    try:
+        send_text = 'https://api.telegram.org/bot' + bot_token + '/sendMessage?chat_id=' + bot_chatID + '&parse_mode=Markdown&text=' + bot_message
+    except Exception as e:
+        logger.exception(f"Telegram send : {e}")
     try:
         response = requests.get(send_text)
     except Exception as e:
         logger.exception(f"Request : {e}")
     else:
         return response.json()
+
 
 def last_n_min(symbol, lookback: int):
     try:
@@ -56,6 +73,8 @@ def last_n_min(symbol, lookback: int):
                 path+symbol, header=False)
     except Exception as e:
         logger.exception(f"Data : {e}")
+        telegram_bot_senderror(f"{thisfilename} - Data : {e}")
+
     else:
         return data
 
@@ -106,6 +125,7 @@ try:
     buy_quantity = round(inv_amt/prize/lotsize)*lotsize
 except Exception as e:
     logger.exception(f"Trade Details : {e}")
+    telegram_bot_senderror(f"{thisfilename} - Trade Details : {e}")
 
 if float([i for i in client.get_account()['balances'] if i['asset'] == 'USDT'][0]['free']) > inv_amt:
     try:
@@ -117,6 +137,8 @@ if float([i for i in client.get_account()['balances'] if i['asset'] == 'USDT'][0
         buymsg = f"{buystamp} : bought {top_coin} at {prize}"
     except Exception as e:
         logger.exception(f"Buying : {e}")
+        telegram_bot_senderror(f"{thisfilename} - Buying : {e}")
+
     else:
         print(buymsg)
         # buyprice = float(order['price'])
@@ -147,6 +169,7 @@ def on_message(ws, message):
         msg = json.loads(message)
     except Exception as e:
         logger.exception(f"Socket : {e}")
+        telegram_bot_senderror(f"{thisfilename} - Socket : {e}")
     if float(msg['p']) > ath:
         ath = float(msg['p'])
     if float(msg['p']) < ath * 0.985:
@@ -163,6 +186,7 @@ def on_message(ws, message):
             telegram_bot_sendtext(telegrambotmsg)
         except Exception as e:
             logger.exception(f"Telegram : {e}")
+            telegram_bot_senderror(f"{thisfilename} - Telegram : {e}")
         else:
             print(sellmsg)
             ws.close()

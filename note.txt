@@ -11,6 +11,7 @@ Cronjobs :
 Edit FROM Window SSH google File :
 sudo nano /etc/ssh/sshd_config
 git clone https://github.com/madnanua/cryptobot
+
 mkdir csvs && cd cryptobot && sudo apt update && sudo apt upgrade && sudo apt install python3-pip && pip3 install -r gcpreq.txt
 ----------------------------------------------------
 chmod +x gcpstream.py && nohup python3 gcpstream.py &

@@ -17,7 +17,7 @@ prevdir = os.path.dirname(dirname)
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter("%(levelname)s:%(asctime)s: %(message)s",
-                              "%Y-%m-%d %H:%M:%S")
+                              "%m-%d %H:%M:%S")
 file_handler = logging.FileHandler(f"{thisfilename}-ERROR.log")
 file_handler.setFormatter(formatter)
 file_handler.setLevel(logging.ERROR)
@@ -130,7 +130,7 @@ except Exception as e:
 if float([i for i in client.get_account()['balances'] if i['asset'] == 'USDT'][0]['free']) > inv_amt:
     try:
         buynow = datetime.now()
-        buystamp = buynow.strftime("%d/%m/%Y %H:%M:%S")
+        buystamp = buynow.strftime("%m-%d %H:%M:%S")
         # order = client.order_limit_buy(
         #     symbol=top_coin, quantity=buy_quantity, price=prize)
         telegram_bot_sendtext(f"{buystamp} : buying {top_coin}")
@@ -177,7 +177,7 @@ def on_message(ws, message):
             # order = client.create_order(
             #     symbol=top_coin, side='SELL', type='MARKET', quantity=buy_quantity)
         sellnow = datetime.now()
-        sellstamp = sellnow.strftime("%d/%m/%Y %H:%M:%S")
+        sellstamp = sellnow.strftime("%m-%d %H:%M:%S")
         sellmsg = f"{sellstamp} : sold   {top_coin} at {msg['p']}"
         try:
             traderes = (float(msg['p'])-float(buyprice))/float(buyprice)*100

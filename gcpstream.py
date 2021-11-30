@@ -49,9 +49,9 @@ stream = "wss://stream.binance.com:9443/ws/!miniTicker@arr"
 def on_message(ws, message):
     try:
         msg = json.loads(message)
-        symbol = [x for x in msg if x['s'].endswith('USDT')]
-        # print(symbol)
+        symbol = [x for x in msg if (not (x['s'].endswith('UPUSDT') or x['s'].endswith('DOWNUSDT')) and x['s'].endswith('USDT'))]
         frame = pd.DataFrame(symbol)[['E', 's', 'c']]
+        print(frame)
         frame.E = pd.to_datetime(frame.E, unit='ms')
         frame.c = frame.c.astype(float)
         for row in range(len(frame)):

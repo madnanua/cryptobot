@@ -1,0 +1,66 @@
+ERROR:2021-11-30 17:54:09: Socket : "None of [Index(['E', 's', 'c'], dtype='object')] are in the [columns]"
+Traceback (most recent call last):
+  File "/home/madnanua/git/cryptobot/gcpstream.py", line 53, in on_message
+    frame = pd.DataFrame(symbol)[['E', 's', 'c']]
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/frame.py", line 3464, in __getitem__
+    indexer = self.loc._get_listlike_indexer(key, axis=1)[1]
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/indexing.py", line 1314, in _get_listlike_indexer
+    self._validate_read_indexer(keyarr, indexer, axis)
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/indexing.py", line 1374, in _validate_read_indexer
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['E', 's', 'c'], dtype='object')] are in the [columns]"
+ERROR:2021-11-30 17:54:10: Socket : "None of [Index(['E', 's', 'c'], dtype='object')] are in the [columns]"
+Traceback (most recent call last):
+  File "/home/madnanua/git/cryptobot/gcpstream.py", line 53, in on_message
+    frame = pd.DataFrame(symbol)[['E', 's', 'c']]
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/frame.py", line 3464, in __getitem__
+    indexer = self.loc._get_listlike_indexer(key, axis=1)[1]
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/indexing.py", line 1314, in _get_listlike_indexer
+    self._validate_read_indexer(keyarr, indexer, axis)
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/indexing.py", line 1374, in _validate_read_indexer
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['E', 's', 'c'], dtype='object')] are in the [columns]"
+ERROR:2021-11-30 17:54:49: Socket : "None of [Index(['E', 's', 'c'], dtype='object')] are in the [columns]"
+Traceback (most recent call last):
+  File "/home/madnanua/git/cryptobot/gcpstream.py", line 53, in on_message
+    frame = pd.DataFrame(symbol)[['E', 's', 'c']]
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/frame.py", line 3464, in __getitem__
+    indexer = self.loc._get_listlike_indexer(key, axis=1)[1]
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/indexing.py", line 1314, in _get_listlike_indexer
+    self._validate_read_indexer(keyarr, indexer, axis)
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/indexing.py", line 1374, in _validate_read_indexer
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['E', 's', 'c'], dtype='object')] are in the [columns]"
+ERROR:2021-11-30 17:54:53: Socket : "None of [Index(['E', 's', 'c'], dtype='object')] are in the [columns]"
+Traceback (most recent call last):
+  File "/home/madnanua/git/cryptobot/gcpstream.py", line 53, in on_message
+    frame = pd.DataFrame(symbol)[['E', 's', 'c']]
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/frame.py", line 3464, in __getitem__
+    indexer = self.loc._get_listlike_indexer(key, axis=1)[1]
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/indexing.py", line 1314, in _get_listlike_indexer
+    self._validate_read_indexer(keyarr, indexer, axis)
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/indexing.py", line 1374, in _validate_read_indexer
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['E', 's', 'c'], dtype='object')] are in the [columns]"
+ERROR:2021-11-30 17:54:54: Socket : "None of [Index(['E', 's', 'c'], dtype='object')] are in the [columns]"
+Traceback (most recent call last):
+  File "/home/madnanua/git/cryptobot/gcpstream.py", line 53, in on_message
+    frame = pd.DataFrame(symbol)[['E', 's', 'c']]
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/frame.py", line 3464, in __getitem__
+    indexer = self.loc._get_listlike_indexer(key, axis=1)[1]
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/indexing.py", line 1314, in _get_listlike_indexer
+    self._validate_read_indexer(keyarr, indexer, axis)
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/indexing.py", line 1374, in _validate_read_indexer
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['E', 's', 'c'], dtype='object')] are in the [columns]"
+ERROR:2021-11-30 17:55:01: Socket : "None of [Index(['E', 's', 'c'], dtype='object')] are in the [columns]"
+Traceback (most recent call last):
+  File "/home/madnanua/git/cryptobot/gcpstream.py", line 53, in on_message
+    frame = pd.DataFrame(symbol)[['E', 's', 'c']]
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/frame.py", line 3464, in __getitem__
+    indexer = self.loc._get_listlike_indexer(key, axis=1)[1]
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/indexing.py", line 1314, in _get_listlike_indexer
+    self._validate_read_indexer(keyarr, indexer, axis)
+  File "/home/madnanua/.local/lib/python3.8/site-packages/pandas/core/indexing.py", line 1374, in _validate_read_indexer
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['E', 's', 'c'], dtype='object')] are in the [columns]"

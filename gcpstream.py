@@ -29,7 +29,7 @@ prevdir = os.path.dirname(dirname)
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 formatter = logging.Formatter("%(levelname)s:%(asctime)s: %(message)s",
-                              "%m-%d %H:%M:%S")
+                              "%H:%M:%S")
 file_handler = logging.FileHandler(f"{thisfilename}-ERROR.log")
 file_handler.setFormatter(formatter)
 file_handler.setLevel(logging.ERROR)
@@ -65,7 +65,7 @@ def on_message(ws, message):
             data[['E', 'c']].to_csv(
                 path+data['s'].values[0], mode='a', header=False)
         now = datetime.now()
-        dt_string = now.strftime("%m-%d %H:%M:%S")
+        dt_string = now.strftime("%H:%M:%S")
         logging.info(dt_string)
     except Exception as e:
         logger.exception(f"Socket : {e}")

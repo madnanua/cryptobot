@@ -27,3 +27,21 @@ sudo systemctl restart sshd
 TERMINAL :
 sudo ssh root@34.65.165.55
 ----------------------------------------------------
+Nov 30 11:25:48 binance systemd[847]: Listening on GnuPG network certificate management daemon.
+Nov 30 11:25:48 binance systemd[847]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Nov 30 11:25:48 binance systemd[847]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Nov 30 11:25:48 binance systemd[847]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Nov 30 11:25:48 binance systemd[847]: Listening on GnuPG cryptographic agent and passphrase cache.
+Nov 30 11:25:48 binance systemd[847]: Listening on debconf communication socket.
+Nov 30 11:25:48 binance systemd[847]: Listening on REST API socket for snapd user session agent.
+Nov 30 11:25:48 binance systemd[847]: Listening on D-Bus User Message Bus Socket.
+Nov 30 11:25:48 binance systemd[847]: Reached target Sockets.
+Nov 30 11:25:48 binance systemd[847]: Reached target Basic System.
+Nov 30 11:25:48 binance systemd[847]: Reached target Main User Target.
+Nov 30 11:25:48 binance systemd[847]: Startup finished in 86ms.
+Nov 30 11:25:48 binance systemd[1]: Started User Manager for UID 0.
+Nov 30 11:25:48 binance systemd[1]: Started Session 2 of user root.
+Nov 30 11:26:41 binance systemd[1]: Starting Poll for Ubuntu Pro licenses (Only enabled on GCP LTS non-pro)...
+Nov 30 11:26:41 binance systemd[1]: ua-license-check.service: Succeeded.
+Nov 30 11:26:41 binance systemd[1]: Finished Poll for Ubuntu Pro licenses (Only enabled on GCP LTS non-pro).
+Nov 30 11:28:41 binance GCEGuestAgent[557]: 2021-11-30T11:28:41.9167Z GCEGuestAgent Info: Removing user ronintoadin.
